@@ -1,0 +1,6 @@
+C:\Users\asen\Documents\Visual Studio 2013\Projects\SoftUni.com\C.Advance\MultidimensionalArraysDictionariesHomeworks\HomeWorks.cs\HomeWorkThree.cs\bin\Debug\HomeWorkThree.cs.exe.config
+C:\Users\asen\Documents\Visual Studio 2013\Projects\SoftUni.com\C.Advance\MultidimensionalArraysDictionariesHomeworks\HomeWorks.cs\HomeWorkThree.cs\bin\Debug\HomeWorkThree.cs.exe
+C:\Users\asen\Documents\Visual Studio 2013\Projects\SoftUni.com\C.Advance\MultidimensionalArraysDictionariesHomeworks\HomeWorks.cs\HomeWorkThree.cs\bin\Debug\HomeWorkThree.cs.pdb
+C:\Users\asen\Documents\Visual Studio 2013\Projects\SoftUni.com\C.Advance\MultidimensionalArraysDictionariesHomeworks\HomeWorks.cs\HomeWorkThree.cs\obj\Debug\HomeWorkThree.cs.csprojResolveAssemblyReference.cache
+C:\Users\asen\Documents\Visual Studio 2013\Projects\SoftUni.com\C.Advance\MultidimensionalArraysDictionariesHomeworks\HomeWorks.cs\HomeWorkThree.cs\obj\Debug\HomeWorkThree.cs.exe
+C:\Users\asen\Documents\Visual Studio 2013\Projects\SoftUni.com\C.Advance\MultidimensionalArraysDictionariesHomeworks\HomeWorks.cs\HomeWorkThree.cs\obj\Debug\HomeWorkThree.cs.pdb

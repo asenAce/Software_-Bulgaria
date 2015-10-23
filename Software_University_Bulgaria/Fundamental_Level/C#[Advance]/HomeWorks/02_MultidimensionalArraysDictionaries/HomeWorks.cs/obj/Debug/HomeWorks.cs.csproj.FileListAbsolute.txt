@@ -1,0 +1,5 @@
+C:\Users\asen\Documents\Visual Studio 2013\Projects\SoftUni.com\C.Advance\MultidimensionalArraysDictionariesHomeworks\HomeWorks.cs\HomeWorks.cs\bin\Debug\HomeWorks.cs.exe.config
+C:\Users\asen\Documents\Visual Studio 2013\Projects\SoftUni.com\C.Advance\MultidimensionalArraysDictionariesHomeworks\HomeWorks.cs\HomeWorks.cs\bin\Debug\HomeWorks.cs.exe
+C:\Users\asen\Documents\Visual Studio 2013\Projects\SoftUni.com\C.Advance\MultidimensionalArraysDictionariesHomeworks\HomeWorks.cs\HomeWorks.cs\bin\Debug\HomeWorks.cs.pdb
+C:\Users\asen\Documents\Visual Studio 2013\Projects\SoftUni.com\C.Advance\MultidimensionalArraysDictionariesHomeworks\HomeWorks.cs\HomeWorks.cs\obj\Debug\HomeWorks.cs.exe
+C:\Users\asen\Documents\Visual Studio 2013\Projects\SoftUni.com\C.Advance\MultidimensionalArraysDictionariesHomeworks\HomeWorks.cs\HomeWorks.cs\obj\Debug\HomeWorks.cs.pdb

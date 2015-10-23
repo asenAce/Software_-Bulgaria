@@ -1,0 +1,2 @@
+C:\Users\asen\Documents\Visual Studio 2013\Projects\SoftUni.com\C.Advance\MultidimensionalArraysDictionariesHomeworks\HomeWorks.cs\HomeWorkElevent.cs\bin\Debug\HomeWorkElevent.cs.exe.config
+C:\Users\asen\Documents\Visual Studio 2013\Projects\SoftUni.com\C.Advance\HomeWorks\MultidimensionalArraysDictionariesHomeworks\HomeWorks.cs\HomeWorkElevent.cs\bin\Debug\HomeWorkElevent.cs.exe.config
