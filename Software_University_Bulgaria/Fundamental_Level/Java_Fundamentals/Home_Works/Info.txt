@@ -1,0 +1,8 @@
+
+Home Works Assignments 
+
+1.Introduction to Java
+2.Java Syntax
+3.Streams with Java
+4.Collections in Java
+5.OOP in Java
