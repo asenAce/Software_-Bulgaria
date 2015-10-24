@@ -1,5 +1,18 @@
 
 
-Entry level
+Entry level for the SOFTWARE UNIVERSITY
+
+Start date
+09-05-2015
+
+End date
+12-07-2015
+
+In city Varna,Bulgaria:
+
+The "Programming Basics" course provides entrance level programming skills, needed for all IT professions. 
+This includes coding at basic level, using the development environment (IDE)Visual Studio, using data and variables, operators and expressions, using the console and defining control-flow logic such as conditional statements and loops.
+The course is based on the C# language and Visual Studio.
+The course finishes with practical exam, evaluated with an automated judge system. /judge.softuni.bg/ 
 
 https://softuni.bg/courses/programming-basics

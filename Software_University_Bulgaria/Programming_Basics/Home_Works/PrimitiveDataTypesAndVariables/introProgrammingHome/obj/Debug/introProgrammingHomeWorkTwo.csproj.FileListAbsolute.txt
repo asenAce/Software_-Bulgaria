@@ -1,0 +1,6 @@
+c:\users\asen\documents\visual studio 2013\Projects\introProgrammingHomeWorkTwo\introProgrammingHomeWorkTwo\bin\Debug\introProgrammingHomeWorkTwo.exe.config
+c:\users\asen\documents\visual studio 2013\Projects\introProgrammingHomeWorkTwo\introProgrammingHomeWorkTwo\bin\Debug\introProgrammingHomeWorkTwo.exe
+c:\users\asen\documents\visual studio 2013\Projects\introProgrammingHomeWorkTwo\introProgrammingHomeWorkTwo\bin\Debug\introProgrammingHomeWorkTwo.pdb
+c:\users\asen\documents\visual studio 2013\Projects\introProgrammingHomeWorkTwo\introProgrammingHomeWorkTwo\obj\Debug\introProgrammingHomeWorkTwo.csprojResolveAssemblyReference.cache
+c:\users\asen\documents\visual studio 2013\Projects\introProgrammingHomeWorkTwo\introProgrammingHomeWorkTwo\obj\Debug\introProgrammingHomeWorkTwo.exe
+c:\users\asen\documents\visual studio 2013\Projects\introProgrammingHomeWorkTwo\introProgrammingHomeWorkTwo\obj\Debug\introProgrammingHomeWorkTwo.pdb
