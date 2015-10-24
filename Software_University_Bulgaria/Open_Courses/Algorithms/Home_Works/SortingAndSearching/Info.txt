@@ -1,0 +1,16 @@
+Sorting and Searching Algorithms
+
+
+Sorting, stable and unstable sorting
+Comparison-based sorting
+Selection sort, bubble sort, insertion sort, quicksort, merge sort, heap sort
+Lab: implement quicksort
+Counting-based sorting: counting sort, bucket sort
+Lab: implement bucket sort
+Search algorithms: linear search, binary search, interpolation search
+Lab: implement binary search and interpolation search
+Shuffle algorithms
+
+https://softuni.bg/trainings/1194/algorithms-september-2015
+
+______________________________________________________________________________________________________________________________________________________________________________

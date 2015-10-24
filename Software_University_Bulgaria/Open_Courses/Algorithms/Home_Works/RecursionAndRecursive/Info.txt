@@ -1,0 +1,5 @@
+Recursion and Recursive Algorithms
+
+Recursion: direct, indirect, infinite, exit criteria
+Backtracking: the 8 queens problem, all paths in labyrinth
+Lab: solve the 8 queens problem

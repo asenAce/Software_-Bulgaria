@@ -1,0 +1,13 @@
+Greedy Algorithms
+
+
+Greedy algorithms: picking locally best solution
+Lab: implement a greedy algorithm for sum of coins
+Greedy algorithms and failure cases
+Optimal substructure and greedy choice
+The set cover problem: greedy algorithms for NP-complete problems
+Lab: implement a greedy algorithm for the set cover problem
+Notable greedy algorithms: Dijkstra, Prim, Kruskal, Huffman coding
+
+https://softuni.bg/trainings/1194/algorithms-september-2015
+_______________________________________________________________________________________________________________________________________________________________________________

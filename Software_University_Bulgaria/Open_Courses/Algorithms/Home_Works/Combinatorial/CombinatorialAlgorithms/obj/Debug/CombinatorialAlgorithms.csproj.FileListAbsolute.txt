@@ -1,0 +1,6 @@
+C:\Users\asen\Documents\Visual Studio 2013\Projects\SoftUni.com\Algorithms\CombinatorialAlgorithms\HW\CombinatorialAlgorithms\CombinatorialAlgorithms\bin\Debug\CombinatorialAlgorithms.exe.config
+C:\Users\asen\Documents\Visual Studio 2013\Projects\SoftUni.com\Algorithms\CombinatorialAlgorithms\HW\CombinatorialAlgorithms\CombinatorialAlgorithms\bin\Debug\CombinatorialAlgorithms.exe
+C:\Users\asen\Documents\Visual Studio 2013\Projects\SoftUni.com\Algorithms\CombinatorialAlgorithms\HW\CombinatorialAlgorithms\CombinatorialAlgorithms\bin\Debug\CombinatorialAlgorithms.pdb
+C:\Users\asen\Documents\Visual Studio 2013\Projects\SoftUni.com\Algorithms\CombinatorialAlgorithms\HW\CombinatorialAlgorithms\CombinatorialAlgorithms\obj\Debug\CombinatorialAlgorithms.csprojResolveAssemblyReference.cache
+C:\Users\asen\Documents\Visual Studio 2013\Projects\SoftUni.com\Algorithms\CombinatorialAlgorithms\HW\CombinatorialAlgorithms\CombinatorialAlgorithms\obj\Debug\CombinatorialAlgorithms.exe
+C:\Users\asen\Documents\Visual Studio 2013\Projects\SoftUni.com\Algorithms\CombinatorialAlgorithms\HW\CombinatorialAlgorithms\CombinatorialAlgorithms\obj\Debug\CombinatorialAlgorithms.pdb

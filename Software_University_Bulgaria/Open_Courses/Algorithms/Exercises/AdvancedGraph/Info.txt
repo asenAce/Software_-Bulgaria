@@ -1,0 +1,12 @@
+Advanced Graph Algorithms
+
+
+Minimal spanning tree (MST): Prim and Kruskal algorithms
+Lab: implement Kruskal's algorithm
+Bi-connected components
+Strongly-connected components
+Maximum flow: problem, algorithms, applications
+Lab: implement max-flow with BFS algorithm
+
+https://softuni.bg/trainings/1194/algorithms-september-2015
+_______________________________________________________________________________________________________________________________________________________________________________

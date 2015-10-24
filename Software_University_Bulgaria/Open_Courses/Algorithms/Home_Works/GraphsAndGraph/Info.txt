@@ -1,0 +1,13 @@
+Graphs and Graph Algorithms
+
+
+Graphs: definition, terminology, representations
+Basic graph algorithms: traversals, finding connected components
+Shortest paths: Dijkstra's algorithm, Floyd–Warshall algorithm
+Lab: implement the Dijkstra's algorithm
+Topological sorting algorithms
+Lab: implement topological sorting with DFS
+
+https://softuni.bg/trainings/1194/algorithms-september-2015
+
+______________________________________________________________________________________________________________________________________________________________________________

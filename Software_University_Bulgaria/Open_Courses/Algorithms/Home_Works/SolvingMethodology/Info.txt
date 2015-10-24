@@ -1,0 +1,18 @@
+Problem Solving Methodology
+
+
+Proven techniques for problem solving
+Read and Analyze the Problems
+Use a sheet of paper and a pen for sketching
+Think up, invent and try ideas
+Break the problem into sub-problems
+Check up your ideas
+Choose appropriate data structures
+Think about the efficiency
+Implement your algorithm step-by-step
+Thoroughly test your solution
+Lab: counting words in a text file
+
+https://softuni.bg/trainings/1194/algorithms-september-2015
+
+____________________________________________________________________________________________________________________________________________________________________________

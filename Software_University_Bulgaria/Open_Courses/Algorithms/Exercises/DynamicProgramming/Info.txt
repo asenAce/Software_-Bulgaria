@@ -1,0 +1,16 @@
+Dynamic-Programming
+
+Divide-and-conquer
+Dynamic programming concepts, memoization
+Classical dynamic programming problems and solutions
+Longest increasing subsequence
+Longest common subsequence (LCS)
+Subset sum problem
+Knapsack problem
+Lab: solve the longest common subsequence problem
+Lab: solve the knapsack problem
+
+Exercises
+
+https://softuni.bg/trainings/1194/algorithms-september-2015
+_______________________________________________________________________________________________________________________________________________________________________________

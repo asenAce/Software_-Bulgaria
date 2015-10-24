@@ -1,0 +1,12 @@
+Parallel Processing and Map-Reduce
+
+Parallelism and concurrency
+Data parallelism / task parallelism
+Concurrent containers
+Map-Reduce computational model
+Apache Hadoop: Hadoop File System (HDFS) and Hadoop MapReduce
+Lab: implement map-reduce with Apache Hadoop
+
+
+https://softuni.bg/trainings/1194/algorithms-september-2015
+______________________________________________________________________________________________________________________________________________________________________________

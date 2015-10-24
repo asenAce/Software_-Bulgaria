@@ -1,0 +1,1 @@
+C:\Users\asen\Documents\Visual Studio 2013\Projects\SoftUni.com\Algorithms\DynamicProgramming\DynamicHomeWorks\04.SumUnlimitedAmountOfCoins\bin\Debug\04.SumUnlimitedAmountOfCoins.exe.config

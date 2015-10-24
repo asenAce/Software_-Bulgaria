@@ -1,0 +1,11 @@
+Combinatorial Algorithms
+
+Generating combinations (with and without repetitions)
+Lab: generate combinations
+Generating variations (with and without repetitions)
+Lab: generate variations
+Generating permutations (with and without repetitions)
+Lab: generate permutations
+
+https://softuni.bg/trainings/1194/algorithms-september-2015
+______________________________________________________________________________________________________________________________________________________________________________
