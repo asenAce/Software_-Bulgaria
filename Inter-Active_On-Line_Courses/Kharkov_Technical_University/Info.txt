@@ -1,0 +1,16 @@
+
+
+Kharkov Technical University
+
+ Trainings on Java programming language.
+
+	1> First folder Simple Projects 
+		1.1.Simple shop for Electronic devices. 
+			Comments: Working with basics Craeting Classes,Objects,Methods,Parameters,Instantiate Variables,
+				  Basic Object Oriented Programming: Polymorphism ,Inheritance , Abstraction, Encapsulation
+				  Working Abstractions .... and more 
+        2> Second folder Complex Projects. 
+	3> Third folder Lesson Practices.
+	4> Four folder Exercises.
+	5> Fifth Intermediate Java Programming.
+	6> Sixth Advance Java Programming .
