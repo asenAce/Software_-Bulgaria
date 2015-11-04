@@ -1,0 +1,30 @@
+
+Object-Oriented Programming Course
+
+Short Description:
+
+Fundamentals in OOP programming:
+Defining, structuring and using classes properly
+Classes, objects, constructors, methods, properties, static members, …
+Basic principles of OOP and applying them to our code
+Encapsulation, abstraction, inheritance, polymorphism, exceptions, …
+Event-driven programming
+Develop object-oriented thinking and problem-solving skills
+Object-oriented modeling
+
+	Curriculum:
+
+1.Course Introduction. Defining Classes and Their Components (Fields, Properties, Constructors, Methods, etc.)
+2.Exceptions. Static Members, Namespaces, Indexers and Operators
+3.Principles of OOP: Inheritance and Abstraction
+4.Principles of OOP: Encapsulation and Polymorphism
+5.Lab: Writing a Small OOP Project From Scratch
+6.Other OOP Types (Structures, Enums, Generics, Attributes)
+7.Delegates and Events
+8.NET Common Type System
+9.Lab: Extending an Existing API
+11. Workshop I – Real-world Object-Oriented Application 
+12. Workshop II – Real-world Object-Oriented Application
+13. OOP Exam Preparation
+14. OOP Exam Preparation
+15. Practical OOP Exam
