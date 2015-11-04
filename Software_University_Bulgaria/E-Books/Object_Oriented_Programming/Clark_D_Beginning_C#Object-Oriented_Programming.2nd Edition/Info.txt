@@ -1,0 +1,3 @@
+Clark D. - Beginning C# Object-Oriented Programming, 2nd Edition
+
+Practices
