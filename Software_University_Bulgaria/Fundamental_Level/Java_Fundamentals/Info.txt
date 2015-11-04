@@ -1,5 +1,28 @@
-Java Fundamentals
+Java Fundamentals Course
+
+Short Description:
+
+  The "Java Fundamentals" course provides entrance level programming skills with the Java language and platform. This includes coding in Java, using the development environment (Eclipse), 
+using data and variables, operators and expressions, using the console and defining control-flow logic such as conditional statements and loops. Object-oriented programming is also covered (classes, interfaces, inheritance, polymorphism, exceptions, annotations,
+ generics and well as functional programming. The course finishes with practical Java exam, evaluated with an automated judge system.
 
 https://softuni.bg/courses/java-fundamentals
 
 Home Works + Exercises + Practice 
+
+	Curruculum
+
+1.Useful links
+2.Course Introduction    | About the course: What is Java? Trainers, Exams, etc.
+3.Introduction to Java	 | Java, JVM, Eclipse, etc.
+4.Java Syntax		 | Variables, loops, methods, regex
+5.Streams with Java
+6.Collections in Java	 | Arrays, Lists, Sets, Dictionaries
+7.Lab                    | Practical lab - solving algorithms with Java.
+8.OOP in Java		 | Object-oriented Programming in Java
+9.Java game Workshop
+10.Exam Preparation	 | Solve exam problems live
+11.Java Best Practices   | Best Practices in Java Programming
+12.Teamwork	       	 | Creating Java-based gam
+13.Practical Exam
+14.Retake Exam

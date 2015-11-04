@@ -16,3 +16,19 @@ The course is based on the C# language and Visual Studio.
 The course finishes with practical exam, evaluated with an automated judge system. /judge.softuni.bg/ 
 
 https://softuni.bg/courses/programming-basics
+	
+	Curriculum
+
+1.Useful Links
+2.Course Introduction
+3.Math for Developers
+4.Introduction to Programming
+5.Primitive Data Types and Variables
+6.Console Input / Output
+7.Operators and Expressions
+8.Conditional Statements
+9.Loops
+10.C# Advanced Topics
+11.Lab 
+12.Exam Preparation
+13.Practical Exam

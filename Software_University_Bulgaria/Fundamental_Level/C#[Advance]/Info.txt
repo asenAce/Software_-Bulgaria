@@ -1,2 +1,24 @@
 
 C# Advance IT Course
+
+The "Advanced C#" course extends the knowledge of  the "Programming Basics" course and covers methods, arrays, lists, matrices, strings and regular expressions, 
+functional programming and asynchronous programming. The course is based on the C# language and Visual Studio.
+The course finishes with practical exam, evaluated with an automated judge system.
+
+Curriculum
+
+1.Useful Information
+2.Course Opening
+3.Linear Data Structures - Arrays, Lists, Queues, Stacks
+4.Methods
+5.Multidimensional Arrays, Dictionaries, Sets
+6.Lab - Debugging
+7.Strings and Text Processing
+8.Regular Expressions
+9.Lab - Algorithms
+10.Files and Streams
+11.Functional Programming
+12.Asynchronous Programming
+13.Exam Preparation
+14.Teamwork
+15.Exam
