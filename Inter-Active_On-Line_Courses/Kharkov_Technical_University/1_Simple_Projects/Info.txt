@@ -4,3 +4,4 @@ Info
 1_Simple_Projects
 
    1.1.ShopElectronics
+   1.2.Air tickets reservation application.
