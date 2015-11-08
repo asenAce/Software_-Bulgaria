@@ -9,6 +9,9 @@ Kharkov Technical University
 			Comments: Working with basics Craeting Classes,Objects,Methods,Parameters,Instantiate Variables,
 				  Basic Object Oriented Programming: Polymorphism ,Inheritance , Abstraction, Encapsulation
 				  Working Abstractions .... and more 
+		1.2.AirTicketsReservationApplication.
+			Comments: for now it is working only to the point where the passenger reserve  a seat place /today 11/9/2015/
+				  for more information please see the .doc file in the folder.
         2> Second folder Complex Projects. 
 	3> Third folder Lesson Practices.
 	4> Four folder Exercises.
