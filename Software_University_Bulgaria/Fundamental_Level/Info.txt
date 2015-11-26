@@ -2,8 +2,8 @@ Fundamental  Level
 
 https://softuni.bg/curriculum
 
-1.Advanced C#
-2.Object Oriented Programming  /OOP/
-3.Teamwork & Personal Skills
-4.Java Basics
-5.High-quality Code
+III.Advanced C#
+I.Object Oriented Programming  /OOP/
+IV.Teamwork & Personal Skills
+II.Java Basics
+V.High-quality Code
