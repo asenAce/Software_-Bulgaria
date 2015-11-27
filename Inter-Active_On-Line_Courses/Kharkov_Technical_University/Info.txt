@@ -12,6 +12,9 @@ Kharkov Technical University
 		1.2.AirTicketsReservationApplication.
 			Comments: for now it is working only to the point where the passenger reserve  a seat place /today 11/9/2015/
 				  for more information please see the .doc file in the folder.
+				  Made improvements on the project ,  it made the reservation and hide the choosen seat place from the second customer,also recognise
+				  the customer is it new or allready existing one. Problem! whwn the program print the ticket it does not show information for the choosen seat,
+			          also miss the words ,"the passenger","departure from","arrive in"... 11/27/2015
         2> Second folder Complex Projects. 
 	3> Third folder Lesson Practices.
 	4> Four folder Exercises.
