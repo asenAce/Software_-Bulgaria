@@ -2,5 +2,9 @@ Home Works
 
 Lesson 01_Defining_Classes.
 	
-Four tasks : 1. Person 2. LapTopShop 3.University 4.PCCatalogue.
-the tasks are explaneted in the .doc file
+       Four tasks : 1. Person 2. LapTopShop 3.University 4.PCCatalogue.
+       the tasks are explaneted in the .doc file
+
+Lesson 02_Inheritance_and_Abstraction
+
+	Three tasks:1. Human Student and Workers 2.CompanyHierarchy 3.Animals
