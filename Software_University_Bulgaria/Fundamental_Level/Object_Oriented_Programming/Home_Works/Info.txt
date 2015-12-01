@@ -19,5 +19,10 @@ Lesson 04_Exception handling
 	Two tasks: 1.SquareRoot , 2.EnterANumber 
 	Note: No problems to be found.
 
+Lesson 05_Encapsulation and Polymorphism
+	
+	Two tasks:1.Shapes 2.MunicipalBank
+        Note: slight problem on task 2.
+
 	
 	
