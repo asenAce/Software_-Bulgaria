@@ -8,3 +8,10 @@ Lesson 01_Defining_Classes.
 Lesson 02_Inheritance_and_Abstraction
 
 	Three tasks:1. Human Student and Workers 2.CompanyHierarchy 3.Animals
+
+Lesson 03_Static_Members_and_Namespaces
+
+	Six tasks: 1.Point3DTest , 2.DistanceCalculator , 3.Path3D , 4.HTMLDispatcher , 5.BitArray , 6.NameSpaces
+	Note: Problems on task 4. 
+	
+	
