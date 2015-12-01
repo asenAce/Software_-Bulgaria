@@ -13,5 +13,11 @@ Lesson 03_Static_Members_and_Namespaces
 
 	Six tasks: 1.Point3DTest , 2.DistanceCalculator , 3.Path3D , 4.HTMLDispatcher , 5.BitArray , 6.NameSpaces
 	Note: Problems on task 4. 
+
+Lesson 04_Exception handling
+
+	Two tasks: 1.SquareRoot , 2.EnterANumber 
+	Note: No problems to be found.
+
 	
 	
