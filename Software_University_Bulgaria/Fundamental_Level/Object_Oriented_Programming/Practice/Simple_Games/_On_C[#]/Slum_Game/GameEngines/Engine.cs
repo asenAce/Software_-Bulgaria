@@ -154,10 +154,26 @@ namespace SlumGame.GameEngines
          private void ReadTheUserInput()
          {
              //Promp the User
-             // Console.WriteLine("******  Slum Game *********");
+             Console.WriteLine("******  Slum Game *********");
+             Console.WriteLine("Please write possition One : Create , Status or add" + "\nPossition Two type: mage, warrior or healer \npossition three item: axe,injection, pill shield.\nPossition Four: x .Possition Five Y.Possition Six: Team Red or Blue. ");                   
              // Declaring myVariable;
              string userInput;
-             userInput = Console.ReadLine();
+             // Added by me Exept handling , what about number?
+             try
+             {
+                 userInput = Console.ReadLine();
+                 // oBject string . Method IsNullOrEmpty passing the parameters (userInput)
+                 if (string.IsNullOrEmpty(userInput))
+	                {
+		                throw new ArgumentNullException("Incorrect");
+	                }
+             }
+             catch (Exception)
+             {
+
+                 throw new ArgumentException("Incorrect");
+             }
+             
 
              while (userInput != string.Empty)
              {
@@ -165,8 +181,7 @@ namespace SlumGame.GameEngines
 
                  ExecuteCommand(parameters);
                  userInput = Console.ReadLine();
-             }
-
+             }    
          }
 
          protected virtual void ExecuteCommand(string[] inputParams)
@@ -204,12 +219,70 @@ namespace SlumGame.GameEngines
          
          protected void AddItem(string[] inputParams)
          {
-             throw new NotImplementedException();
+             string characterId;
+             string itemId;
+             string itemClass;
+
+             Characters character;
+             Item item;
+
+             characterId = inputParams[1];
+             character = characterList.Find(x => x.ID == characterId);
+
+             itemClass = inputParams[2];
+             itemId = inputParams[3];
+
+             switch (itemClass)
+             {
+                 case "axe":
+                     item = new Axe(itemId);
+                     break;
+                 case "shield":
+                     item = new Shield(itemId);
+                     break;
+                 case "pill":
+                     item = new Pill(itemId);
+                     break;
+                 case "injection":
+                     item = new Injection(itemId);
+                     break;
+                 default:
+                     break;
+             }
          }
 
          protected virtual void CreateCharacter(string[] inputParams)
          {
-             throw new NotImplementedException();
+             //Declaring the variables
+             string iD;
+             int x;
+             int y;
+             string type;
+             Characters character;
+             Team team;
+             // using the possitions of the massive.
+             type = inputParams[1];
+             iD = inputParams[2];
+             // .Method Parse() converred a string into a int 
+             x = int.Parse(inputParams[3]);
+             y = int.Parse(inputParams[4]);
+             team = (Team)Enum.Parse(typeof(Team), inputParams[5]);
+
+             switch (type)
+             {
+                 case "mage":
+                     character = new Mage(iD, x, y, team);
+                     break;
+                 case "warrior":
+                     character = new Warrior(iD, x, y, team);
+                     break;
+                 case "healer":
+                 default:
+                     character = new Healer(iD, x, y, team);
+                     break;
+             }
+
+             characterList.Add(character);
          }
          
 
