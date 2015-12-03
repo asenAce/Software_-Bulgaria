@@ -1,4 +1,9 @@
 
 Simple Games on C #
 
-1.Slum Game
+1.Slum Game 
+
+	Note:problem not fully functional ?!<<do not understend what should be the user input is it ? /create mage injection status / or something else>>
+        also i do not understend why the program need a extendion on the Game engine into deBugging mode the program do not entered in the class ExtendedEngine to use the method CreateCharacter more over
+	the method CreateCharacter in the Engine class is not complete...
+		
