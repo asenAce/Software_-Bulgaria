@@ -1,0 +1,1 @@
+E:\Education\Software Engineering\GitHub\FunctionalProgrammingHW\Software_University_Bulgaria\Fundamental_Level\Object_Oriented_Programming\Home_Works\Encapsulation_and_Polymorphism\02.MunicipalBank\bin\Debug\02.MunicipalBank.exe.config
