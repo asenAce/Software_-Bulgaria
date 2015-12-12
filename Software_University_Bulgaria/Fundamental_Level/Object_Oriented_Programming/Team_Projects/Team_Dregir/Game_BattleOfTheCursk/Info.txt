@@ -1,0 +1,8 @@
+
+
+Obviously more work is needed , the tanks attack should be interlaced , I declared few properties that can be applied to few new Methods such as calculating the moving speed
+ of the tank depending on what kind off terrene he is situated . more classes could be used like for example class airFighter  with his properties on his own , 
+can be created a method attackTheTank , from the air… can be used Interfaces … as the base of the game I used the example in the demo code for Except Handling namely
+ “Custom Exceptions” for further development of the game could be used as reference direction the game “Slum”
+ there is nice methods for positioning the objects on the screen (x,y) on the ordinate ,also there is nice using of
+ the base data structure [] massives and  List<>  separated by switch statement we can use those as well. 
