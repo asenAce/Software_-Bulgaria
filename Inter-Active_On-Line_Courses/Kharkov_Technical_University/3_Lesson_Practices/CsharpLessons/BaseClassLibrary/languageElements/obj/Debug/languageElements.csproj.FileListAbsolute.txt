@@ -1,0 +1,6 @@
+c:\users\asen\documents\visual studio 2013\Projects\LyndaLessons\languageElements\bin\Debug\languageElements.exe.config
+c:\users\asen\documents\visual studio 2013\Projects\LyndaLessons\languageElements\bin\Debug\languageElements.exe
+c:\users\asen\documents\visual studio 2013\Projects\LyndaLessons\languageElements\bin\Debug\languageElements.pdb
+c:\users\asen\documents\visual studio 2013\Projects\LyndaLessons\languageElements\obj\Debug\languageElements.csprojResolveAssemblyReference.cache
+c:\users\asen\documents\visual studio 2013\Projects\LyndaLessons\languageElements\obj\Debug\languageElements.exe
+c:\users\asen\documents\visual studio 2013\Projects\LyndaLessons\languageElements\obj\Debug\languageElements.pdb
