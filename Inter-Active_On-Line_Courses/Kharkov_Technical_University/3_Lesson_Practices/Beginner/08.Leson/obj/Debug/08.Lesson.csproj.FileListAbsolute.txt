@@ -1,0 +1,6 @@
+C:\Users\asen\Documents\Visual Studio 2013\Projects\O'Reilly_BeginningC#Programming\BeginningCProgramming\08.Leson\bin\Debug\08.Leson.exe.config
+C:\Users\asen\Documents\Visual Studio 2013\Projects\O'Reilly_BeginningC#Programming\BeginningCProgramming\08.Leson\bin\Debug\08.Leson.exe
+C:\Users\asen\Documents\Visual Studio 2013\Projects\O'Reilly_BeginningC#Programming\BeginningCProgramming\08.Leson\bin\Debug\08.Leson.pdb
+C:\Users\asen\Documents\Visual Studio 2013\Projects\O'Reilly_BeginningC#Programming\BeginningCProgramming\08.Leson\obj\Debug\08.Lesson.csprojResolveAssemblyReference.cache
+C:\Users\asen\Documents\Visual Studio 2013\Projects\O'Reilly_BeginningC#Programming\BeginningCProgramming\08.Leson\obj\Debug\08.Leson.exe
+C:\Users\asen\Documents\Visual Studio 2013\Projects\O'Reilly_BeginningC#Programming\BeginningCProgramming\08.Leson\obj\Debug\08.Leson.pdb

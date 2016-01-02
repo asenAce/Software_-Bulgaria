@@ -1,5 +1,60 @@
 
 Info
 
-1.DataStructore C#
+1.DataStructore_partI C#
 2.CsharpLessons practice on the bassics.
+3.DataStructure_partII
+4.Beginner
+   Info course....
+   -  Introduction
+About This Course 01m 49s
+Introducing C# 04m 18s
+Introducing Visual Studio 23m 11s
+
+Basics
+Values and Variables 16m 23s
+Expressions 10m 20s
+Statements 03m 22s
+
+Arithmetic
+Types 12m 34s
+Common Variable Problems 06m 44s
+Integer Arithmetic 17m 29s
+Floating-Point Arithmetic 15m 14s
+
+Text
+Text Fundamentals, Part 1 25m 05s
+Text Fundamentals, Part 2 15m 48s
+Using Properties, Formatting Numbers as Text 11m 12s
+
+Time
+Manipulating Dates and Times 21m 59s
+
+Conditional Control Flow
+Boolean Logic 12m 32s
+here_Conditional Logic With the "if" Statement 18m 43s
+Looping With "while" and "for" 26m 49s
+Looping With "do", "break" and "continue" 29m 45s
+
+User Input
+User Input 21m 21s
+
+Collections
+Arrays 15m 04s
+Reference Types and Value Types 19m 55s
+A Deeper Look at Equality 13m 23s
+Creating Arrays With "new" 09m 13s
+
+Writing Methods
+Writing a Specification 09m 58s
+Debugging a Method 19m 48s
+Implementing a Method 20m 29s
+Finding and Fixing Bugs 30m 22s
+Using Assertions to Find Bugs Faster 25m 49s
+More About Method Parameters 16m 50s
+Putting It All Together 52m 11s
+
+Conclusion
+Things We Didn't Cover In This Course 07m 42s
+
+________________________________________________________________________________________________________________________________________________________________

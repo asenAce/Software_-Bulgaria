@@ -1,0 +1,5 @@
+E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\Beginner\0.20.Lesson.MethodsImplementing\bin\Debug\0.20.Lesson.MethodsImplementing.exe.config
+E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\Beginner\0.20.Lesson.MethodsImplementing\bin\Debug\0.20.Lesson.MethodsImplementing.exe
+E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\Beginner\0.20.Lesson.MethodsImplementing\bin\Debug\0.20.Lesson.MethodsImplementing.pdb
+E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\Beginner\0.20.Lesson.MethodsImplementing\obj\Debug\0.20.Lesson.MethodsImplementing.exe
+E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\Beginner\0.20.Lesson.MethodsImplementing\obj\Debug\0.20.Lesson.MethodsImplementing.pdb

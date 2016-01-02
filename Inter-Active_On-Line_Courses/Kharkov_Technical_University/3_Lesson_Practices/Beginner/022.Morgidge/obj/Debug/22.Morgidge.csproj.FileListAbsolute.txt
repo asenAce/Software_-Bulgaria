@@ -1,0 +1,10 @@
+C:\Users\asen\Documents\Visual Studio 2013\Projects\O'Reilly_BeginningC#Programming\BeginningCProgramming\022.Morgidge\bin\Debug\022.Morgidge.exe.config
+C:\Users\asen\Documents\Visual Studio 2013\Projects\O'Reilly_BeginningC#Programming\BeginningCProgramming\022.Morgidge\bin\Debug\022.Morgidge.exe
+C:\Users\asen\Documents\Visual Studio 2013\Projects\O'Reilly_BeginningC#Programming\BeginningCProgramming\022.Morgidge\bin\Debug\022.Morgidge.pdb
+C:\Users\asen\Documents\Visual Studio 2013\Projects\O'Reilly_BeginningC#Programming\BeginningCProgramming\022.Morgidge\obj\Debug\22.Morgidge.csprojResolveAssemblyReference.cache
+C:\Users\asen\Documents\Visual Studio 2013\Projects\O'Reilly_BeginningC#Programming\BeginningCProgramming\022.Morgidge\obj\Debug\022.Morgidge.exe
+C:\Users\asen\Documents\Visual Studio 2013\Projects\O'Reilly_BeginningC#Programming\BeginningCProgramming\022.Morgidge\obj\Debug\022.Morgidge.pdb
+E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\Beginner\022.Morgidge\bin\Debug\022.Morgidge.exe.config
+E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\Beginner\022.Morgidge\obj\Debug\022.Morgidge.exe
+E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\Beginner\022.Morgidge\obj\Debug\022.Morgidge.pdb
+E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\Beginner\022.Morgidge\obj\Debug\22.Morgidge.csprojResolveAssemblyReference.cache

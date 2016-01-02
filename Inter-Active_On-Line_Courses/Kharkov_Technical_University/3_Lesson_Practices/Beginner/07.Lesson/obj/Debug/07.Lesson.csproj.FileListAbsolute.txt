@@ -1,0 +1,6 @@
+E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\Beginner\07.Lesson\bin\Debug\07.Lesson.exe.config
+E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\Beginner\07.Lesson\bin\Debug\07.Lesson.exe
+E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\Beginner\07.Lesson\bin\Debug\07.Lesson.pdb
+E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\Beginner\07.Lesson\obj\Debug\07.Lesson.csprojResolveAssemblyReference.cache
+E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\Beginner\07.Lesson\obj\Debug\07.Lesson.exe
+E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\Beginner\07.Lesson\obj\Debug\07.Lesson.pdb

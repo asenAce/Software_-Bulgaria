@@ -1,0 +1,5 @@
+E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\Beginner\0.14.Lesson.array\bin\Debug\0.14.Lesson.array.exe.config
+E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\Beginner\0.14.Lesson.array\bin\Debug\0.14.Lesson.array.exe
+E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\Beginner\0.14.Lesson.array\bin\Debug\0.14.Lesson.array.pdb
+E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\Beginner\0.14.Lesson.array\obj\Debug\0.14.Lesson.array.exe
+E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\Beginner\0.14.Lesson.array\obj\Debug\0.14.Lesson.array.pdb
