@@ -3,8 +3,9 @@ Info
 
 1.DataStructore_partI C#
 2.CsharpLessons practice on the bassics.
-3.DataStructure_partII
-4.Beginner
+3.DataStructure_partII C#
+4.Beginner  C#
+
    Info course....
    -  Introduction
 About This Course 01m 49s
@@ -32,7 +33,7 @@ Manipulating Dates and Times 21m 59s
 
 Conditional Control Flow
 Boolean Logic 12m 32s
-here_Conditional Logic With the "if" Statement 18m 43s
+Conditional Logic With the "if" Statement 18m 43s
 Looping With "while" and "for" 26m 49s
 Looping With "do", "break" and "continue" 29m 45s
 
