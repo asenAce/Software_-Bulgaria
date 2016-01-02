@@ -1,0 +1,15 @@
+Monday\7846392698\90A\Zoya
+Tuesday\6347637234\85B\Hristina
+Wednesday\7293847987\150C\Neamidea
+Thursday\7429374983\88D\Krasimira
+Tuesday\9847239847\100E\Stoyanka
+Wednesday\4763872638\145F\Stanka
+Monday\8749810034\86G\Beztanka
+Friday\5436527635\95H\Smetanka
+Saturday\3452553623\75I\Pepa
+Sunday\4444444444\65J\Nadezhda
+Thursday\4873672634\84K\Rumyana
+Tuesday\3562367263\120L\Emilia
+Monday\1223555455\55M\Aleksandrina
+Wednesday\8609589498\123N\Valentina
+Enough dates!

@@ -1,0 +1,21 @@
+Monday\7483743433\85A\Lili
+Monday\8372483743\110B\Lucy
+Monday\6754673564\76C\Galya
+Monday\6586878789\75D\Teddy
+Thursday\9978765565\70E\Daniela
+Thursday\3676376929\56F\Valya
+Thursday\8392839289\57G\Zlatka
+Thursday\6678828282\58H\Zlatina
+Saturday\6328732822\59I\Elka
+Saturday\7498732482\60J\Michka
+Saturday\2673627672\61K\Katerina
+Saturday\7772828288\99L\Danny
+Saturday\8938392892\70M\Valya
+Saturday\2763726722\71N\Stoika
+Saturday\7372822363\76O\Ani
+Saturday\4983738278\100P\Asya
+Saturday\2732878278\110Q\Teofila
+Sunday\3726187263\105R\Gorichka
+Sunday\3627382783\106S\Nadeto
+Sunday\3671276762\80T\Pisnami
+Enough dates!

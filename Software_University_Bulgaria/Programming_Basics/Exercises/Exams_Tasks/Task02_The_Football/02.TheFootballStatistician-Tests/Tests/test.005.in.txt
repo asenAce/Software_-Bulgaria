@@ -1,0 +1,16 @@
+1.00
+Chelsea    2 ManchesterUnited
+Everton X ManchesterCity
+Arsenal 1    Tottenham
+Southampton X Liverpool
+Southampton X ManchesterCity
+Liverpool 1     Everton
+Chelsea    X Arsenal
+ManchesterUnited X Tottenham
+Liverpool X   Everton
+Chelsea   X Arsenal
+Chelsea    X Arsenal
+ManchesterUnited X Tottenham
+Liverpool 1  Everton
+Chelsea   X Arsenal
+End of the league.

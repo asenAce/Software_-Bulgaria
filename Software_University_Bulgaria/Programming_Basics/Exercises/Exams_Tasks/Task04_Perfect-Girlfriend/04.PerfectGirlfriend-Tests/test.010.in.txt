@@ -1,0 +1,8 @@
+Friday\1234567890\80Z\Ani
+Saturday\7777777777\58X\Pepi
+Sunday\4545454545\52Y\Krasi
+Monday\4987387438\54U\Vania
+Wednesday\5635656353\149Q\Ivanka
+Thursday\8888888888\81H\Didka
+Monday\4444444444\90S\Mila
+Enough dates!

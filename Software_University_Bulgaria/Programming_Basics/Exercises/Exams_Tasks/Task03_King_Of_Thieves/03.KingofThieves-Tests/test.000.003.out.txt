@@ -1,0 +1,13 @@
+------a------
+-----aaa-----
+----aaaaa----
+---aaaaaaa---
+--aaaaaaaaa--
+-aaaaaaaaaaa-
+aaaaaaaaaaaaa
+-aaaaaaaaaaa-
+--aaaaaaaaa--
+---aaaaaaa---
+----aaaaa----
+-----aaa-----
+------a------

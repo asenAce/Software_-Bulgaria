@@ -1,0 +1,12 @@
+Monday\5555555555\55C\Alena
+Wednesday\0678777986\85A\Liubka
+Friday\0855555999\115D\Elena
+Tuesday\0674454411\88B\Toshka
+Wednesday\9996666699\85B\Katerina
+Saturday\0666344412\145D\Yordanka
+Friday\0999945454\50Z\Valeria
+Sunday\0897859809\130P\Veleva
+Wednesday\3456187986\95K\Liliana
+Friday\1234567890\115R\Eleonora
+Tuesday\0999463111\88B\Lafka
+Enough dates!

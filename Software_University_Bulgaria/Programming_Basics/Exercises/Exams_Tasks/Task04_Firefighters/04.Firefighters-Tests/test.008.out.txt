@@ -1,0 +1,3 @@
+Kids: 66
+Adults: 66
+Seniors: 46

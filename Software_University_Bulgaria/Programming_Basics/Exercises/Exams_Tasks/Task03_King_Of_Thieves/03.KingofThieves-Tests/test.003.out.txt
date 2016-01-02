@@ -1,0 +1,17 @@
+--------d--------
+-------ddd-------
+------ddddd------
+-----ddddddd-----
+----ddddddddd----
+---ddddddddddd---
+--ddddddddddddd--
+-ddddddddddddddd-
+ddddddddddddddddd
+-ddddddddddddddd-
+--ddddddddddddd--
+---ddddddddddd---
+----ddddddddd----
+-----ddddddd-----
+------ddddd------
+-------ddd-------
+--------d--------

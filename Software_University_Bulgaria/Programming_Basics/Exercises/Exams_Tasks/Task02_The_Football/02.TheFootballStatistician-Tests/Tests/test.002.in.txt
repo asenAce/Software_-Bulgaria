@@ -1,0 +1,10 @@
+35.55
+Chelsea 2 ManchesterUnited
+Everton 2 ManchesterCity
+Arsenal 2 Tottenham
+Southampton 2 Liverpool
+Southampton 2 ManchesterCity
+Liverpool 2 Everton
+Chelsea 2 Arsenal
+ManchesterUnited 2 Tottenham
+End of the league.

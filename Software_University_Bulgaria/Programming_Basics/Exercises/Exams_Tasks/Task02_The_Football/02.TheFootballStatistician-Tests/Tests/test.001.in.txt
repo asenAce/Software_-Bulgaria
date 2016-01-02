@@ -1,0 +1,10 @@
+11.55
+Chelsea 1 ManchesterUnited
+Everton 1 ManchesterCity
+Arsenal 1 Tottenham
+Southampton 1 Liverpool
+Southampton 1 ManchesterCity
+Liverpool 1 Everton
+Chelsea 1 Arsenal
+ManchesterUnited 1 Tottenham
+End of the league.

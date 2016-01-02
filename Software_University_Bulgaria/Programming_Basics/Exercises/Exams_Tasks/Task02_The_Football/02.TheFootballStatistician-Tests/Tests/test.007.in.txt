@@ -1,0 +1,16 @@
+1000.00
+Chelsea    2 ManchesterUnited
+Everton X ManchesterCity
+Arsenal 1    Tottenham
+Southampton X Liverpool
+Southampton X ManchesterCity
+Liverpool 1     Everton
+Chelsea    2 Arsenal
+ManchesterUnited X Tottenham
+Liverpool X   Everton
+Chelsea   2 Arsenal
+Chelsea    2 Arsenal
+ManchesterUnited X Tottenham
+Liverpool 1  Everton
+Chelsea   2 Arsenal
+End of the league.

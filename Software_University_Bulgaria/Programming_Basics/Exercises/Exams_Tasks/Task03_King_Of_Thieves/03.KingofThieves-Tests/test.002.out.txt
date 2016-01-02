@@ -1,0 +1,11 @@
+-----s-----
+----sss----
+---sssss---
+--sssssss--
+-sssssssss-
+sssssssssss
+-sssssssss-
+--sssssss--
+---sssss---
+----sss----
+-----s-----
