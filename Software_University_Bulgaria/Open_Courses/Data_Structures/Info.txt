@@ -1,0 +1,71 @@
+Info
+
+Data structures:
+The data structures course introduces the basics of data structures in programming: linear data structures, trees, graphs, hash-tables, sets and many others.
+
+1.	Course Overview
+2.	Data Structures, Algorithms and Complexity
+3.	Linear Data Structures – Lists
+4.	Linear Data Structures – Stacks and Queues
+5.	Trees and Tree-Like Structures
+6.	Tree Traversal Algorithms – BFS and DFS
+7.	Dictionaries and Hash Tables
+8.	Advanced Data Structures
+9.	Advanced Tree Structures
+10.	Data Structure Efficiency
+11.	Exam Preparation
+12.	Practical Exam
+
+Content:
+1.Course Overview
+2. Data Structures, Algorithms and Complexity
+•	Abstract data structures (ATD) and implementations
+•	Algorithm complexity
+•	The "big o" notation – O(g(x))
+•	The "big theta" notation – T(g(x))
+•	Analyzing algorithms complexity
+•	Lab: calculating complexity of existing code
+3. Linear Data Structures – Lists   
+•	Linear data structures – lists, stacks, queues
+•	Lists: linked list and array-based implementations
+•	Lab: implement a linked list
+4. Linear Data Structures – Stacks and Queues
+•	Queues: linked and circular array-based implementations
+•	Lab: implement a circular queue
+•	Stacks: linked and array-based implementations
+•	Lab: implement an array-based stack
+5. Trees and Tree-Like Structures
+•	Trees and implementations
+•	Binary tree traversals: preorder, in-order, post order
+•	Lab: implement a tree + in-order traversal
+6. Tree Traversal Algorithms – BFS and DFS
+•	Depth-first-search (DFS)
+•	Lab: find connected areas in a graph (using DFS)
+•	Breadth-first search (BFS)
+•	Lab: exit from labyrinth (using BFS)
+7. Dictionaries and Hash Tables
+•	Dictionary / map / associative array ADT
+•	Lab: counting words in a text file
+•	Hashing and hash functions
+•	Hash-tables and collision resolutions
+•	Lab: implement a hash table
+8. Collection Data Structures and Libraries
+•	Collection data structures: lists, dictionaries, ordered dictionaries, multi-dictionaries, ordered multi-dictionaries, sets, ordered sets, bags, ordered bags
+•	Wintellect Power Collections and C5 Collections data structure libraries
+•	Lab: using ordered multi-dictionary for extracting keys in given range
+•	Lab: using rope for efficient string editing
+9. Advanced Tree Structures
+•	Priority queue, heap, rope, trie, suffix tree, interval tree, index tree
+•	Lab: implementing a binary heap + heap-sort
+•	BSP-trees (binary space partitioning)
+•	K-d trees (k-dimensional trees)
+10. Data Structure Efficiency
+•	Comparison of data structures and their computational complexity
+•	Compare efficiency of arrays, lists, trees, hash-tables, sets, bags, etc.
+•	Lab: compare execution time
+11. Exam Preparation
+•	Solving a sample exam live in class
+•	Problem 1: implement a command execution system with suitable data structures
+•	Problem 2: implement a data structure like hash-table or set
+12. Practical Exam
+•	2 problems for 6 hours: command execution system + implement a data structure
