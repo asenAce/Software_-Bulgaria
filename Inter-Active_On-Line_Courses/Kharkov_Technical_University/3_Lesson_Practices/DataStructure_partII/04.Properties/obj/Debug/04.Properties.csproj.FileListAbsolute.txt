@@ -1,0 +1,6 @@
+E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\DataStructure_partII\04.Properties\bin\Debug\04.Properties.exe.config
+E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\DataStructure_partII\04.Properties\bin\Debug\04.Properties.exe
+E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\DataStructure_partII\04.Properties\bin\Debug\04.Properties.pdb
+E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\DataStructure_partII\04.Properties\obj\Debug\04.Properties.csprojResolveAssemblyReference.cache
+E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\DataStructure_partII\04.Properties\obj\Debug\04.Properties.exe
+E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\DataStructure_partII\04.Properties\obj\Debug\04.Properties.pdb

@@ -1,0 +1,6 @@
+E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\DataStructure_partII\09.Interfaces\bin\Debug\09.Interfaces.exe.config
+E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\DataStructure_partII\09.Interfaces\bin\Debug\09.Interfaces.exe
+E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\DataStructure_partII\09.Interfaces\bin\Debug\09.Interfaces.pdb
+E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\DataStructure_partII\09.Interfaces\obj\Debug\09.Interfaces.csprojResolveAssemblyReference.cache
+E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\DataStructure_partII\09.Interfaces\obj\Debug\09.Interfaces.exe
+E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\DataStructure_partII\09.Interfaces\obj\Debug\09.Interfaces.pdb

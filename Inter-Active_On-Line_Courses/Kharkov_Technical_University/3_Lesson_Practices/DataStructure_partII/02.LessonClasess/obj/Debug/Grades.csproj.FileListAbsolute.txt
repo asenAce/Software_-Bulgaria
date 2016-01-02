@@ -1,0 +1,2 @@
+E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\DataStructure_partII\02.LessonClasess\bin\Debug\02.LessonClasess.exe.config
+E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\DataStructure_partII\02.LessonClasess\obj\Debug\Grades.csprojResolveAssemblyReference.cache

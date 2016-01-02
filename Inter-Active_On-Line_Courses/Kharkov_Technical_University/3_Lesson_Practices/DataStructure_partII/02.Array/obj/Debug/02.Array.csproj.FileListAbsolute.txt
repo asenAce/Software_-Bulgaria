@@ -1,0 +1,6 @@
+E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\DataStructure_partII\02.Array\bin\Debug\02.Array.exe.config
+E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\DataStructure_partII\02.Array\bin\Debug\02.Array.exe
+E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\DataStructure_partII\02.Array\bin\Debug\02.Array.pdb
+E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\DataStructure_partII\02.Array\obj\Debug\02.Array.csprojResolveAssemblyReference.cache
+E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\DataStructure_partII\02.Array\obj\Debug\02.Array.exe
+E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\DataStructure_partII\02.Array\obj\Debug\02.Array.pdb
