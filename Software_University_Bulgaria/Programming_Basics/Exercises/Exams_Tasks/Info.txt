@@ -3,4 +3,58 @@
 Info 
 
 Passed exams task with solution,description  and test in the folder.
+The legend:
+
+Levels of difficulties:
+1>Easy , 2>between easy and middle , 3>Middle , 4>between middle and hard , 5>Hard. 
+
+
 Content:
+
+Task01_Compund-Interest
+Task01_Currency-Check
+Task01_Daily_Calorie
+Task01_Hospitality
+Task01_Music_Producer
+Task01_The-Girlfriend
+Task01_Torrent_Pirate
+Task01-Book-Problem
+Task02_Basket
+Task02_Chessboard
+Task02_Dream-Item
+Task02_Grand_Theft
+Task02_Petar's_Game
+Task02_Sudoku
+Task02_The_Football
+Task02_The_Plane_Down
+Task03_Ace_Of_Diamonds
+Task03_Dumbbell
+Task03_King_Of_Thieves
+Task03_Local_Elections
+Task03_Magic_Wand
+Task03_Plaid_Towel
+Task03_Striped_Towel
+Task03_Sunlight
+Task04_Array_Matcher
+Task04_Decrypt_Messages
+Task04_Encrypt_Messages
+Task04_Firefighters
+Task04_Perfect-Girlfriend
+Task04_Teleport_Points
+Task05_Bits_At_Crossroads
+Task05_Bohemcho
+Task05_Game_Of_Bits
+Task05_Game_Of_Life
+Task05_Knight_Path
+Task05_Shuffle_Bits
+Task05_Wave-Bits
+
+
+
+
+
+
+
+
+
+
