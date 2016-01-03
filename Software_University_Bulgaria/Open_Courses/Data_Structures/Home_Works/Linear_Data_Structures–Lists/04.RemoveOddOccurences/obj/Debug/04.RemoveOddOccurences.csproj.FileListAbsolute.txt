@@ -1,0 +1,5 @@
+C:\Users\asen\Documents\Visual Studio 2013\Projects\DataStructuresCourse\DataBaseExercisesLists\Linear_Data_Structures–Lists\04.RemoveOddOccurences\bin\Debug\04.RemoveOddOccurences.exe.config
+C:\Users\asen\Documents\Visual Studio 2013\Projects\DataStructuresCourse\DataBaseExercisesLists\Linear_Data_Structures–Lists\04.RemoveOddOccurences\bin\Debug\04.RemoveOddOccurences.exe
+C:\Users\asen\Documents\Visual Studio 2013\Projects\DataStructuresCourse\DataBaseExercisesLists\Linear_Data_Structures–Lists\04.RemoveOddOccurences\bin\Debug\04.RemoveOddOccurences.pdb
+C:\Users\asen\Documents\Visual Studio 2013\Projects\DataStructuresCourse\DataBaseExercisesLists\Linear_Data_Structures–Lists\04.RemoveOddOccurences\obj\Debug\04.RemoveOddOccurences.exe
+C:\Users\asen\Documents\Visual Studio 2013\Projects\DataStructuresCourse\DataBaseExercisesLists\Linear_Data_Structures–Lists\04.RemoveOddOccurences\obj\Debug\04.RemoveOddOccurences.pdb

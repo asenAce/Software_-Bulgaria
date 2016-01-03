@@ -1,0 +1,5 @@
+C:\Users\asen\Documents\Visual Studio 2013\Projects\DataStructuresCourse\DataBaseExercisesLists\Linear_Data_Structures–Lists\03.LongestSubsquence\bin\Debug\03.LongestSubsquence.exe.config
+C:\Users\asen\Documents\Visual Studio 2013\Projects\DataStructuresCourse\DataBaseExercisesLists\Linear_Data_Structures–Lists\03.LongestSubsquence\bin\Debug\03.LongestSubsquence.exe
+C:\Users\asen\Documents\Visual Studio 2013\Projects\DataStructuresCourse\DataBaseExercisesLists\Linear_Data_Structures–Lists\03.LongestSubsquence\bin\Debug\03.LongestSubsquence.pdb
+C:\Users\asen\Documents\Visual Studio 2013\Projects\DataStructuresCourse\DataBaseExercisesLists\Linear_Data_Structures–Lists\03.LongestSubsquence\obj\Debug\03.LongestSubsquence.exe
+C:\Users\asen\Documents\Visual Studio 2013\Projects\DataStructuresCourse\DataBaseExercisesLists\Linear_Data_Structures–Lists\03.LongestSubsquence\obj\Debug\03.LongestSubsquence.pdb

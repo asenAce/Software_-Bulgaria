@@ -1,0 +1,6 @@
+C:\Users\asen\Documents\Visual Studio 2013\Projects\DataStructuresCourse\DataBaseExercisesLists\Linear_Data_Structures–Lists\01.TaskSumAndAverage\bin\Debug\01.TaskSumAndAverage.exe.config
+C:\Users\asen\Documents\Visual Studio 2013\Projects\DataStructuresCourse\DataBaseExercisesLists\Linear_Data_Structures–Lists\01.TaskSumAndAverage\bin\Debug\01.TaskSumAndAverage.exe
+C:\Users\asen\Documents\Visual Studio 2013\Projects\DataStructuresCourse\DataBaseExercisesLists\Linear_Data_Structures–Lists\01.TaskSumAndAverage\bin\Debug\01.TaskSumAndAverage.pdb
+C:\Users\asen\Documents\Visual Studio 2013\Projects\DataStructuresCourse\DataBaseExercisesLists\Linear_Data_Structures–Lists\01.TaskSumAndAverage\obj\Debug\01.TaskSumAndAverage.csprojResolveAssemblyReference.cache
+C:\Users\asen\Documents\Visual Studio 2013\Projects\DataStructuresCourse\DataBaseExercisesLists\Linear_Data_Structures–Lists\01.TaskSumAndAverage\obj\Debug\01.TaskSumAndAverage.exe
+C:\Users\asen\Documents\Visual Studio 2013\Projects\DataStructuresCourse\DataBaseExercisesLists\Linear_Data_Structures–Lists\01.TaskSumAndAverage\obj\Debug\01.TaskSumAndAverage.pdb

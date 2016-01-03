@@ -1,0 +1,6 @@
+C:\Users\asen\Documents\Visual Studio 2013\Projects\DataStructuresCourse\DataBaseExercisesLists\Linear_Data_Structures–Lists\DataBaseExercisesLists\bin\Debug\DataBaseExercisesLists.exe.config
+C:\Users\asen\Documents\Visual Studio 2013\Projects\DataStructuresCourse\DataBaseExercisesLists\Linear_Data_Structures–Lists\DataBaseExercisesLists\bin\Debug\DataBaseExercisesLists.exe
+C:\Users\asen\Documents\Visual Studio 2013\Projects\DataStructuresCourse\DataBaseExercisesLists\Linear_Data_Structures–Lists\DataBaseExercisesLists\bin\Debug\DataBaseExercisesLists.pdb
+C:\Users\asen\Documents\Visual Studio 2013\Projects\DataStructuresCourse\DataBaseExercisesLists\Linear_Data_Structures–Lists\DataBaseExercisesLists\obj\Debug\DataBaseExercisesLists.csprojResolveAssemblyReference.cache
+C:\Users\asen\Documents\Visual Studio 2013\Projects\DataStructuresCourse\DataBaseExercisesLists\Linear_Data_Structures–Lists\DataBaseExercisesLists\obj\Debug\DataBaseExercisesLists.exe
+C:\Users\asen\Documents\Visual Studio 2013\Projects\DataStructuresCourse\DataBaseExercisesLists\Linear_Data_Structures–Lists\DataBaseExercisesLists\obj\Debug\DataBaseExercisesLists.pdb

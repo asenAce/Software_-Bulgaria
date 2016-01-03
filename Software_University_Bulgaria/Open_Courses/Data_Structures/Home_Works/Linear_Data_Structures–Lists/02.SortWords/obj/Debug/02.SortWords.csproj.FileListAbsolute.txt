@@ -1,0 +1,6 @@
+C:\Users\asen\Documents\Visual Studio 2013\Projects\DataStructuresCourse\DataBaseExercisesLists\Linear_Data_Structures–Lists\02.SortWords\bin\Debug\02.SortWords.exe.config
+C:\Users\asen\Documents\Visual Studio 2013\Projects\DataStructuresCourse\DataBaseExercisesLists\Linear_Data_Structures–Lists\02.SortWords\bin\Debug\02.SortWords.exe
+C:\Users\asen\Documents\Visual Studio 2013\Projects\DataStructuresCourse\DataBaseExercisesLists\Linear_Data_Structures–Lists\02.SortWords\bin\Debug\02.SortWords.pdb
+C:\Users\asen\Documents\Visual Studio 2013\Projects\DataStructuresCourse\DataBaseExercisesLists\Linear_Data_Structures–Lists\02.SortWords\obj\Debug\02.SortWords.csprojResolveAssemblyReference.cache
+C:\Users\asen\Documents\Visual Studio 2013\Projects\DataStructuresCourse\DataBaseExercisesLists\Linear_Data_Structures–Lists\02.SortWords\obj\Debug\02.SortWords.exe
+C:\Users\asen\Documents\Visual Studio 2013\Projects\DataStructuresCourse\DataBaseExercisesLists\Linear_Data_Structures–Lists\02.SortWords\obj\Debug\02.SortWords.pdb

@@ -1,0 +1,5 @@
+C:\Users\asen\Documents\Visual Studio 2013\Projects\DataStructuresCourse\DataBaseExercisesLists\Linear_Data_Structures–Lists\05.CountOfOccurences\bin\Debug\05.CountOfOccurences.exe.config
+C:\Users\asen\Documents\Visual Studio 2013\Projects\DataStructuresCourse\DataBaseExercisesLists\Linear_Data_Structures–Lists\05.CountOfOccurences\bin\Debug\05.CountOfOccurences.exe
+C:\Users\asen\Documents\Visual Studio 2013\Projects\DataStructuresCourse\DataBaseExercisesLists\Linear_Data_Structures–Lists\05.CountOfOccurences\bin\Debug\05.CountOfOccurences.pdb
+C:\Users\asen\Documents\Visual Studio 2013\Projects\DataStructuresCourse\DataBaseExercisesLists\Linear_Data_Structures–Lists\05.CountOfOccurences\obj\Debug\05.CountOfOccurences.exe
+C:\Users\asen\Documents\Visual Studio 2013\Projects\DataStructuresCourse\DataBaseExercisesLists\Linear_Data_Structures–Lists\05.CountOfOccurences\obj\Debug\05.CountOfOccurences.pdb
