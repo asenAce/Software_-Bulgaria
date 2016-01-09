@@ -9,3 +9,4 @@ Info
    1.4.SimpleCalculation  C#
    1.5.Private mortgage C# 
 	Simple bank load for estate.  
+   1.6.Form
