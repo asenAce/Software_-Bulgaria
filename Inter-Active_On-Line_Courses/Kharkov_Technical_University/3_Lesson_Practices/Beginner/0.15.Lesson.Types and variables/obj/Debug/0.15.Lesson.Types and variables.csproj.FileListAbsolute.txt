@@ -1,5 +1,0 @@
-E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\Beginner\0.15.Lesson.Types and variables\bin\Debug\0.15.Lesson.Types and variables.exe.config
-E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\Beginner\0.15.Lesson.Types and variables\bin\Debug\0.15.Lesson.Types and variables.exe
-E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\Beginner\0.15.Lesson.Types and variables\bin\Debug\0.15.Lesson.Types and variables.pdb
-E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\Beginner\0.15.Lesson.Types and variables\obj\Debug\0.15.Lesson.Types and variables.exe
-E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\Beginner\0.15.Lesson.Types and variables\obj\Debug\0.15.Lesson.Types and variables.pdb

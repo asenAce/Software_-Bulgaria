@@ -1,6 +1,0 @@
-C:\Users\asen\Documents\Visual Studio 2013\Projects\O'Reilly_BeginningC#Programming\BeginningCProgramming\BeginningCProgramming\bin\Debug\BeginningCProgramming.exe.config
-C:\Users\asen\Documents\Visual Studio 2013\Projects\O'Reilly_BeginningC#Programming\BeginningCProgramming\BeginningCProgramming\bin\Debug\BeginningCProgramming.exe
-C:\Users\asen\Documents\Visual Studio 2013\Projects\O'Reilly_BeginningC#Programming\BeginningCProgramming\BeginningCProgramming\bin\Debug\BeginningCProgramming.pdb
-C:\Users\asen\Documents\Visual Studio 2013\Projects\O'Reilly_BeginningC#Programming\BeginningCProgramming\BeginningCProgramming\obj\Debug\BeginningCProgramming.csprojResolveAssemblyReference.cache
-C:\Users\asen\Documents\Visual Studio 2013\Projects\O'Reilly_BeginningC#Programming\BeginningCProgramming\BeginningCProgramming\obj\Debug\BeginningCProgramming.exe
-C:\Users\asen\Documents\Visual Studio 2013\Projects\O'Reilly_BeginningC#Programming\BeginningCProgramming\BeginningCProgramming\obj\Debug\BeginningCProgramming.pdb

@@ -1,5 +1,0 @@
-C:\Users\asen\Documents\Visual Studio 2013\Projects\O'Reilly_BeginningC#Programming\BeginningCProgramming\04.Lesson\bin\Debug\04.Lesson.exe.config
-C:\Users\asen\Documents\Visual Studio 2013\Projects\O'Reilly_BeginningC#Programming\BeginningCProgramming\04.Lesson\bin\Debug\04.Lesson.exe
-C:\Users\asen\Documents\Visual Studio 2013\Projects\O'Reilly_BeginningC#Programming\BeginningCProgramming\04.Lesson\bin\Debug\04.Lesson.pdb
-C:\Users\asen\Documents\Visual Studio 2013\Projects\O'Reilly_BeginningC#Programming\BeginningCProgramming\04.Lesson\obj\Debug\04.Lesson.exe
-C:\Users\asen\Documents\Visual Studio 2013\Projects\O'Reilly_BeginningC#Programming\BeginningCProgramming\04.Lesson\obj\Debug\04.Lesson.pdb

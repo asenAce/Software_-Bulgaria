@@ -1,7 +1,0 @@
-C:\Users\asen\Documents\Visual Studio 2013\Projects\O'Reilly_BeginningC#Programming\BeginningCProgramming\05.lESSON\bin\Debug\05.lESSON.exe.config
-E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\Beginner\05.lESSON\bin\Debug\05.lESSON.exe.config
-E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\Beginner\05.lESSON\bin\Debug\05.lESSON.exe
-E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\Beginner\05.lESSON\bin\Debug\05.lESSON.pdb
-E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\Beginner\05.lESSON\obj\Debug\05.Lesson.csprojResolveAssemblyReference.cache
-E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\Beginner\05.lESSON\obj\Debug\05.lESSON.exe
-E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\Beginner\05.lESSON\obj\Debug\05.lESSON.pdb

@@ -1,5 +1,0 @@
-E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\Beginner\0.16.Lesson.DeeperLookatEquality\bin\Debug\0.16.Lesson.DeeperLookatEquality.exe.config
-E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\Beginner\0.16.Lesson.DeeperLookatEquality\bin\Debug\0.16.Lesson.DeeperLookatEquality.exe
-E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\Beginner\0.16.Lesson.DeeperLookatEquality\bin\Debug\0.16.Lesson.DeeperLookatEquality.pdb
-E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\Beginner\0.16.Lesson.DeeperLookatEquality\obj\Debug\0.16.Lesson.DeeperLookatEquality.exe
-E:\Education\Software Engineering\Programming\ProgrammingLanguages\C#\Others\githubCode\Beginner\0.16.Lesson.DeeperLookatEquality\obj\Debug\0.16.Lesson.DeeperLookatEquality.pdb
