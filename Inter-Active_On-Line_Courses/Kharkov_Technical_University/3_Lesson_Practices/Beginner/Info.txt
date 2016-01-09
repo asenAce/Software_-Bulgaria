@@ -1,0 +1,74 @@
+
+
+Info:
+Content:
+01.Lesson
+	Introducing C#.FLV
+02.Lesson
+	Introducing Visual Studio
+03.Lesson
+	Basics,Writing Methods,More About Method Parameters.
+04.Lesson
+	Basics,Time
+05.Lesson
+	Basics,Time,Expressions
+06.Lesson
+	Expressions,Arithmetic
+07.Lesson
+	Statements,Conditional Logic With the -if- Statement
+08.Lesson
+	Looping With -while- and -for-
+09.Lesson
+	Arithmetic,Looping With -while- and -for-,Sindrome FizzBuzz!
+10.Lesson
+	Common Variable Problems,FizzBuzz
+11.Lesson
+	Integer Arithmetic,FizzBuzz
+12.Lesson
+	Floating-Point Arithmetic
+	Working with Text:
+	User Input.
+13.Lesson
+	TextFundamentals, Part I.,Looping With -while
+	Working with Text:
+	User Input.
+14.Lesson
+	TextFundamentals, Part II.
+	foreach, Array,Collections.
+15.Lesson
+	Using Properties, Formatting Numbers as Text.
+	Working with Time:
+16.Lesson
+	
+17.Lesson
+	Conditional Control Flow
+18.Lesson
+	Methods,decimal
+19.Lesson
+	Variables
+20.Lesson
+	Looping With -do-, -break- and -continue.
+21.Lesson
+	Putting It All Together.Simple project.
+	
+	Reference Types and Value Types.
+	A Deeper Look at Equality.
+	Creating Arrays With -new.
+	
+	Debugging a Method.
+	Implementing a Method.
+	Finding and Fixing Bugs.
+	Using Assertions to Find Bugs Faster.
+	
+	
+
+
+
+	
+
+
+
+
+
+
+
