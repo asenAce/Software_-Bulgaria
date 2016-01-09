@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StacksAndQueueExercises", "StacksAndQueueExercises\StacksAndQueueExercises.csproj", "{FE9BBE4E-F87B-41A6-A5EC-A520ADACB184}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.CircularQueue", "01.CircularQueue\01.CircularQueue.csproj", "{BBBAC9AD-EBAC-4396-89FC-173B6C54D87D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE9BBE4E-F87B-41A6-A5EC-A520ADACB184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE9BBE4E-F87B-41A6-A5EC-A520ADACB184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE9BBE4E-F87B-41A6-A5EC-A520ADACB184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE9BBE4E-F87B-41A6-A5EC-A520ADACB184}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBBAC9AD-EBAC-4396-89FC-173B6C54D87D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBBAC9AD-EBAC-4396-89FC-173B6C54D87D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBBAC9AD-EBAC-4396-89FC-173B6C54D87D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBBAC9AD-EBAC-4396-89FC-173B6C54D87D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
