@@ -1,0 +1,6 @@
+E:\Education\Software Engineering\workingDashBoard\DataStruct\OtherSource\03.Lesson_Add\bin\Debug\03.Lesson_Add.exe.config
+E:\Education\Software Engineering\workingDashBoard\DataStruct\OtherSource\03.Lesson_Add\bin\Debug\03.Lesson_Add.exe
+E:\Education\Software Engineering\workingDashBoard\DataStruct\OtherSource\03.Lesson_Add\bin\Debug\03.Lesson_Add.pdb
+E:\Education\Software Engineering\workingDashBoard\DataStruct\OtherSource\03.Lesson_Add\obj\Debug\03.Lesson_Add.csprojResolveAssemblyReference.cache
+E:\Education\Software Engineering\workingDashBoard\DataStruct\OtherSource\03.Lesson_Add\obj\Debug\03.Lesson_Add.exe
+E:\Education\Software Engineering\workingDashBoard\DataStruct\OtherSource\03.Lesson_Add\obj\Debug\03.Lesson_Add.pdb

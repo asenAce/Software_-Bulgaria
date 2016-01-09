@@ -1,0 +1,6 @@
+E:\Education\Software Engineering\workingDashBoard\DataStruct\OtherSource\01.01_NodeChains\bin\Debug\01.01_NodeChains.exe.config
+E:\Education\Software Engineering\workingDashBoard\DataStruct\OtherSource\01.01_NodeChains\bin\Debug\01.01_NodeChains.exe
+E:\Education\Software Engineering\workingDashBoard\DataStruct\OtherSource\01.01_NodeChains\bin\Debug\01.01_NodeChains.pdb
+E:\Education\Software Engineering\workingDashBoard\DataStruct\OtherSource\01.01_NodeChains\obj\Debug\01.01_NodeChains.csprojResolveAssemblyReference.cache
+E:\Education\Software Engineering\workingDashBoard\DataStruct\OtherSource\01.01_NodeChains\obj\Debug\01.01_NodeChains.exe
+E:\Education\Software Engineering\workingDashBoard\DataStruct\OtherSource\01.01_NodeChains\obj\Debug\01.01_NodeChains.pdb
