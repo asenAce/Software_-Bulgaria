@@ -68,4 +68,49 @@ Content:
 •	Problem 1: implement a command execution system with suitable data structures
 •	Problem 2: implement a data structure like hash-table or set
 12. Practical Exam
-•	2 problems for 6 hours: command execution system + implement a data structure
+•	2 problems for 6 hours: command execution system + implement a data structure.
+
+
+Other_Source
+	Content:
+01.Node Chains.
+01.01.Node Chains. continue
+02.Add to Front
+03.Add
+04.Remove
+05.Linked List
+<<end>> Console Application One
+
+Other_Source part II.
+
+01.Node Chain
+02.Node Chain continue.
+03.Data Structure Stack
+04.01.PostFix Calculator
+04.Data Structure Array
+05.UnDo Programe
+07.Simple Array
+08.Data Structore Queues.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
