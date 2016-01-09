@@ -1,0 +1,12 @@
+c:\users\asen\documents\visual studio 2013\Projects\CsharpEssentialMytrain\MultyArrays\bin\Debug\MultyArrays.exe.config
+c:\users\asen\documents\visual studio 2013\Projects\CsharpEssentialMytrain\MultyArrays\bin\Debug\MultyArrays.exe
+c:\users\asen\documents\visual studio 2013\Projects\CsharpEssentialMytrain\MultyArrays\bin\Debug\MultyArrays.pdb
+c:\users\asen\documents\visual studio 2013\Projects\CsharpEssentialMytrain\MultyArrays\obj\Debug\MultyArrays.exe
+c:\users\asen\documents\visual studio 2013\Projects\CsharpEssentialMytrain\MultyArrays\obj\Debug\MultyArrays.pdb
+c:\users\asen\documents\visual studio 2013\Projects\CsharpEssentialMytrain\MultyArrays\obj\Debug\MultiArrays.csprojResolveAssemblyReference.cache
+E:\Education\Software Engineering\workingDashBoard\BeginningCProgramming\More_Bassics\MultyArrays\bin\Debug\MultyArrays.exe.config
+E:\Education\Software Engineering\workingDashBoard\BeginningCProgramming\More_Bassics\MultyArrays\obj\Debug\MultyArrays.exe
+E:\Education\Software Engineering\workingDashBoard\BeginningCProgramming\More_Bassics\MultyArrays\obj\Debug\MultyArrays.pdb
+E:\Education\Software Engineering\GitHub\FunctionalProgrammingHW\Inter-Active_On-Line_Courses\Kharkov_Technical_University\3_Lesson_Practices\CsharpLessons\More_Bassics\MultyArrays\bin\Debug\MultyArrays.exe.config
+E:\Education\Software Engineering\GitHub\FunctionalProgrammingHW\Inter-Active_On-Line_Courses\Kharkov_Technical_University\3_Lesson_Practices\CsharpLessons\More_Bassics\MultyArrays\obj\Debug\MultyArrays.exe
+E:\Education\Software Engineering\GitHub\FunctionalProgrammingHW\Inter-Active_On-Line_Courses\Kharkov_Technical_University\3_Lesson_Practices\CsharpLessons\More_Bassics\MultyArrays\obj\Debug\MultyArrays.pdb

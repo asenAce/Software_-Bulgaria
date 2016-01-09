@@ -1,0 +1,6 @@
+c:\users\asen\documents\visual studio 2013\Projects\CsharpEssentialMytrain\anArrya\bin\Debug\anArrya.exe.config
+c:\users\asen\documents\visual studio 2013\Projects\CsharpEssentialMytrain\anArrya\bin\Debug\anArrya.exe
+c:\users\asen\documents\visual studio 2013\Projects\CsharpEssentialMytrain\anArrya\bin\Debug\anArrya.pdb
+c:\users\asen\documents\visual studio 2013\Projects\CsharpEssentialMytrain\anArrya\obj\Debug\anArrya.csprojResolveAssemblyReference.cache
+c:\users\asen\documents\visual studio 2013\Projects\CsharpEssentialMytrain\anArrya\obj\Debug\anArrya.exe
+c:\users\asen\documents\visual studio 2013\Projects\CsharpEssentialMytrain\anArrya\obj\Debug\anArrya.pdb

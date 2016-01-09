@@ -1,0 +1,6 @@
+c:\users\asen\documents\visual studio 2013\Projects\CsharpEssentialMytrain\Dictionaries\bin\Debug\Dictionaries.exe.config
+c:\users\asen\documents\visual studio 2013\Projects\CsharpEssentialMytrain\Dictionaries\bin\Debug\Dictionaries.exe
+c:\users\asen\documents\visual studio 2013\Projects\CsharpEssentialMytrain\Dictionaries\bin\Debug\Dictionaries.pdb
+c:\users\asen\documents\visual studio 2013\Projects\CsharpEssentialMytrain\Dictionaries\obj\Debug\Dictionaries.exe
+c:\users\asen\documents\visual studio 2013\Projects\CsharpEssentialMytrain\Dictionaries\obj\Debug\Dictionaries.pdb
+C:\Users\asen\documents\visual studio 2013\Projects\CsharpEssentialMytrain\Dictionaries\obj\Debug\Dictionaries.csprojResolveAssemblyReference.cache

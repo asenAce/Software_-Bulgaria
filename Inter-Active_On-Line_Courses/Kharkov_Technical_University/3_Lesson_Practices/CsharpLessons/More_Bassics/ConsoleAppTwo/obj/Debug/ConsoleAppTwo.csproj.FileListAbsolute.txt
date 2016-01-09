@@ -1,0 +1,6 @@
+C:\Users\asen\documents\visual studio 2013\Projects\CsharpEssentialMytrain\ConsoleAppTwo\bin\Debug\ConsoleAppTwo.exe.config
+C:\Users\asen\documents\visual studio 2013\Projects\CsharpEssentialMytrain\ConsoleAppTwo\bin\Debug\ConsoleAppTwo.exe
+C:\Users\asen\documents\visual studio 2013\Projects\CsharpEssentialMytrain\ConsoleAppTwo\bin\Debug\ConsoleAppTwo.pdb
+C:\Users\asen\documents\visual studio 2013\Projects\CsharpEssentialMytrain\ConsoleAppTwo\obj\Debug\ConsoleAppTwo.csprojResolveAssemblyReference.cache
+C:\Users\asen\documents\visual studio 2013\Projects\CsharpEssentialMytrain\ConsoleAppTwo\obj\Debug\ConsoleAppTwo.exe
+C:\Users\asen\documents\visual studio 2013\Projects\CsharpEssentialMytrain\ConsoleAppTwo\obj\Debug\ConsoleAppTwo.pdb

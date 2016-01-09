@@ -1,0 +1,5 @@
+c:\users\asen\documents\visual studio 2013\Projects\CsharpEssentialMytrain\CsharpEssentialMytrain\bin\Debug\CsharpEssentialMytrain.exe.config
+C:\Users\asen\documents\visual studio 2013\Projects\CsharpEssentialMytrain\CsharpEssentialMytrain\bin\Debug\CsharpEssentialMytrain.exe
+C:\Users\asen\documents\visual studio 2013\Projects\CsharpEssentialMytrain\CsharpEssentialMytrain\bin\Debug\CsharpEssentialMytrain.pdb
+C:\Users\asen\documents\visual studio 2013\Projects\CsharpEssentialMytrain\CsharpEssentialMytrain\obj\Debug\CsharpEssentialMytrain.exe
+C:\Users\asen\documents\visual studio 2013\Projects\CsharpEssentialMytrain\CsharpEssentialMytrain\obj\Debug\CsharpEssentialMytrain.pdb

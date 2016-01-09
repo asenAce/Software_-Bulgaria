@@ -1,0 +1,5 @@
+C:\Users\asen\documents\visual studio 2013\Projects\CsharpEssentialMytrain\list\bin\Debug\list.exe.config
+C:\Users\asen\documents\visual studio 2013\Projects\CsharpEssentialMytrain\list\bin\Debug\list.exe
+C:\Users\asen\documents\visual studio 2013\Projects\CsharpEssentialMytrain\list\bin\Debug\list.pdb
+C:\Users\asen\documents\visual studio 2013\Projects\CsharpEssentialMytrain\list\obj\Debug\list.exe
+C:\Users\asen\documents\visual studio 2013\Projects\CsharpEssentialMytrain\list\obj\Debug\list.pdb
