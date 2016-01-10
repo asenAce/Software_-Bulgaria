@@ -1,0 +1,5 @@
+c:\users\asen\documents\visual studio 2013\Projects\BasicsExam22August2014\BasicsExam22August2014\bin\Debug\BasicsExam22August2014.exe.config
+C:\Users\asen\documents\visual studio 2013\Projects\BasicsExam22August2014\BasicsExam22August2014\bin\Debug\BasicsExam22August2014.exe
+C:\Users\asen\documents\visual studio 2013\Projects\BasicsExam22August2014\BasicsExam22August2014\bin\Debug\BasicsExam22August2014.pdb
+C:\Users\asen\documents\visual studio 2013\Projects\BasicsExam22August2014\BasicsExam22August2014\obj\Debug\BasicsExam22August2014.exe
+C:\Users\asen\documents\visual studio 2013\Projects\BasicsExam22August2014\BasicsExam22August2014\obj\Debug\BasicsExam22August2014.pdb
