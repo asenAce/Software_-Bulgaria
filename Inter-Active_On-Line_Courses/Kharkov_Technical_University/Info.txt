@@ -2,7 +2,7 @@
 
 Kharkov Technical University
 
- Trainings on Java programming language.
+ Trainings on Java programming language, and C#
 
 	1> First folder Simple Projects 
 		1.1.Simple shop for Electronic devices. 
