@@ -1,0 +1,29 @@
+
+
+e-book on OOP unknown C #
+
+Content:
+
+Lesson 01: Strings
+Lesson 02: Calculate the Rate
+Lesson 03: Convert
+Lesson 04:
+Lesson 05:
+Lesson 06:
+Lesson 07: Bank Program
+Lesson 08: Purchas
+Lesson 09: Resourant
+Lesson 10:
+Lesson 11: empty
+Lesson 12: 
+Lesson 13:
+Lesson 14:
+Lesson 15:
+Lesson 16: Rectangle two dimentional Array
+Lesson 17: Home work
+Lesson 17: Methods 
+Lesson 17: Methods partII
+Lesson 17: Methods partIII
+Lesson 17: Methods Training 
+Lesson 17: Methods Training II
+Lesson 17: Methods Training III.
