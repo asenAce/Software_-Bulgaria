@@ -50,6 +50,7 @@ Content:
 	Looping With -do-, -break- and -continue.
 21.Lesson
 	Putting It All Together.Simple project.
+22.Lesson   OnPower
 	
 	Reference Types and Value Types.
 	A Deeper Look at Equality.
