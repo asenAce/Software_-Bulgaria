@@ -15,8 +15,17 @@ Kharkov Technical University
 				  Made improvements on the project ,  it made the reservation and hide the choosen seat place from the second customer,also recognise
 				  the customer is it new or allready existing one. Problem! whwn the program print the ticket it does not show information for the choosen seat,
 			          also miss the words ,"the passenger","departure from","arrive in"... 11/27/2015
-        2> Second folder Complex Projects. 
-	3> Third folder Lesson Practices.
+		1.3.AsimpleAppOne
+		1.4.SimpleCalculation
+		1.5.Private mortgage
+			Comments:A simple bank program for calculation of a loan ,
+				 the program has variables such as period , interest rate and more.
+		1.7.Form
+		1.8.StudentsScore
+			Comments:Program that calculate imaginable students grades and write them in a book accordingly .
+                     2> Second folder Complex Projects. 
+                     3> Third folder Lesson Practices.
 	4> Four folder Exercises.
 	5> Fifth Intermediate Java Programming.
 	6> Sixth Advance Java Programming .
+	7> SemiComplex_Projects
