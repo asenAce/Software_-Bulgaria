@@ -1,0 +1,5 @@
+C:\Users\asen\Downloads\SoftUni-master\SoftUni-master\OOP\Workshops\Workshop - RPG Game\RPG\bin\Debug\RPG.exe.config
+C:\Users\asen\Downloads\SoftUni-master\SoftUni-master\OOP\Workshops\Workshop - RPG Game\RPG\bin\Debug\RPG.exe
+C:\Users\asen\Downloads\SoftUni-master\SoftUni-master\OOP\Workshops\Workshop - RPG Game\RPG\bin\Debug\RPG.pdb
+C:\Users\asen\Downloads\SoftUni-master\SoftUni-master\OOP\Workshops\Workshop - RPG Game\RPG\obj\Debug\RPG.exe
+C:\Users\asen\Downloads\SoftUni-master\SoftUni-master\OOP\Workshops\Workshop - RPG Game\RPG\obj\Debug\RPG.pdb
