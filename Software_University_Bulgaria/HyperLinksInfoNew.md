@@ -28,9 +28,9 @@ Assignments,Home works,Practices  and Exams | Software University
 * [Working Dashboard]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard)
 * [Defining Classes - Home Work](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Home_Works/Defining_Classes)
-#####01.Person
+#####[01.Person]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Home_Works/Defining_Classes/01.Person)
-#####02.PCCatalogue
+#####[02.PCCatalogue]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Home_Works/Defining_Classes/02.PCCatalogue)
 * [Delegats Events - Home Work](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Home_Works/Delegats_Events)
 * [Encapsulation and Polymorphism](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Home_Works/Encapsulation_and_Polymorphism)
