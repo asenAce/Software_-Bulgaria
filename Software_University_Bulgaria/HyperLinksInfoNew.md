@@ -25,7 +25,7 @@ Assignments,Home works,Practices  and Exams | Software University
 |                             |   Web Services & Cloud	                         |                                          |
 |                             |   PHP Web Development	                         |                                          |
 |                             |   MVC Frameworks & ASP.NET	                         |                                          |
-|-------------------------|---------------------------------------------------------|------------------------------------|
+|	                  |						 |                                          |
 
 
 
