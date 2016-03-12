@@ -5,14 +5,28 @@ Assignments,Home works,Practices  and Exams | Software University
 
 ## Curriculum
 
-| Level                   | Subject                                                      | Note                                 |
+| Level                   | Subject(s)                                                 | Note                                 |
 |:-----------------------:|:-------------------------------------------------------:|:----------------------------------:|
 | Basic Level                      |   Programming Basics C#                                  |  Entry Level                                         |
-| Fundamental Level       |                                                                  | 		           	        | 
-|     		      |                                                                  |                                          |
-|           	      |                                                                  |                                          |
-|          		      |                                                                  |                                          |
-|                             |				                         |                                          |
+| Fundamental Level       |   Advanced C#                                               |   6 months           	        | 
+|     		      |   OOP                                             		                   |                                          |
+|           	      |   Teamwork & Personal Skills                              |                                           |
+|          		      |   Java Basics                                                 |                                          |
+|                             |   High-quality Code		                         |                                          |
+|  Advanced Level             |   Module -Front-End		                           |   6 months                         |    
+|                             |   HTML & CSS 			             |                                          |
+|                             |   JavaScript Basics		                         |                                          |
+|                             |   JavaScript Advanced		                         |                                          |
+|                             |   JavaScript Application		             |                                          |
+|                             |   JavaScript Frameworks	                         |                                          |
+|                             |   Module -  Back-end	                                               |  6 months                           |
+|                             |   Databases			                         |                                          |
+|                             |   Database Applications	                         |                                          |
+|                             |   Web Services & Cloud	                         |                                          |
+|                             |   PHP Web Development	                         |                                          |
+|                             |   MVC Frameworks & ASP.NET	                         |                                          |
+|:-----------------------:|:-------------------------------------------------------:|:----------------------------------:|
+
 
 
 
