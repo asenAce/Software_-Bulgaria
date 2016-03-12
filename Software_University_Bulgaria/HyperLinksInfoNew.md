@@ -50,7 +50,9 @@ Assignments,Home works,Practices  and Exams | Software University
 
 ######  implementation of >>
 ######  Data fields ,  Constructors ctor ,  Properties prop , Method ToString()
+######  [03.LapTopShop](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Home_Works/Defining_Classes/03.LapTopShop) 
 
+######  [04.University](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Home_Works/Defining_Classes/04.University) 
 
 
 
