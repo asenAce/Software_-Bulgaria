@@ -7,8 +7,8 @@ Assignments,Home works,Practices  and Exams | Software University
 
 | Level                   | Subject                                                      | Note                                 |
 |:-----------------------:|:-------------------------------------------------------:|:----------------------------------:|
-| Basic Level         |   Programming Basics C#                        |                                          |
-| 		      |                                                                  | 		           	        | 
+| Basic Level                      |   Programming Basics C#                                  |  Entry Level                                         |
+| Fundamental Level       |                                                                  | 		           	        | 
 |     		      |                                                                  |                                          |
 |           	      |                                                                  |                                          |
 |          		      |                                                                  |                                          |
