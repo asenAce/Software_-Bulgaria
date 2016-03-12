@@ -105,12 +105,44 @@ Assignments,Home works,Practices  and Exams | Software University
 ######  implementation of >>
 ######  Try/Catch Code block with finaly;
 
+######  [02.EnterANumber](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Home_Works/Exception_Handling/02.EnterANumber)
+---
+######   Inheritance and Abstraction- Home Work
 
+######  [01.HumanStudentAndWor](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Home_Works/Inheritance_and_Abstraction/01.HumanStudentAndWor)
+######  implementation of >>
+######  Foreach code block,List<> basic data structore,Constanta variables;
+######  match an input,
 
+######  [02.CompanyHierarchy](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Home_Works/Inheritance_and_Abstraction/02.CompanyHierarchy)
 
+######  [03.Animals](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Home_Works/Inheritance_and_Abstraction/03.Animals)
+---
+######   Other Types  - Home Work
 
+######  [01.GalacticGPS](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Home_Works/Other_Types/01.GalacticGPS)
+######  implementation of >>
+######   positioning
 
+######  [02.FractionalCalculator](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Home_Works/Other_Types/02.FractionalCalculator)
 
+######  [03.GenericList](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Home_Works/Other_Types/03.GenericList)
+---
+######   Static Members and Namespaces - Home Work
+
+######  [01.Point3DTest](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Home_Works/Static_Members_and_Namespaces/01.Point3DTest)
+
+######  [02.DistanceCalculator](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Home_Works/Static_Members_and_Namespaces/02.DistanceCalculator)
+######  implementation of >>
+######  public static class;
+######  [03.Path3D](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Home_Works/Static_Members_and_Namespaces/03.Path3D)
+
+######  [04.HTMLDispatcher](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Home_Works/Static_Members_and_Namespaces/04.HTMLDispatcher)
+
+######  [05.BitArray](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Home_Works/Static_Members_and_Namespaces/05.BitArray)
+
+######  [06.NameSpaces](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Home_Works/Static_Members_and_Namespaces/06.NameSpaces)
+---
 
 
 
