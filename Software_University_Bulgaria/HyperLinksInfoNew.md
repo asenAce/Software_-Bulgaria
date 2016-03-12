@@ -3,6 +3,20 @@
 # Software-University
 Assignments,Home works,Practices  and Exams | Software University
 
+## Curriculum
+
+| Level                   | Subject                                                      | Note                                 |
+|:-----------------------:|:-------------------------------------------------------:|:----------------------------------:|
+| Basic Level         |   Programming Basics C#                        |                                          |
+| 		      |                                                                  | 		           	        | 
+|     		      |                                                                  |                                          |
+|           	      |                                                                  |                                          |
+|          		      |                                                                  |                                          |
+|                             |				                         |                                          |
+
+
+
+
 ## 1. Fundamental Level
 ---
 [1. Advanced C#](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/C%23%5BAdvance%5D)
