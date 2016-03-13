@@ -153,9 +153,6 @@ Assignments,Home works,Practices  and Exams | Software University
 
 
 
-										     ![alt text](https://github.com/asenAce/Software_University_Bulgaria/blob/master/Software_University_Bulgaria/PicturesSource/logo_small.jpg)
-
-
 
 
 
