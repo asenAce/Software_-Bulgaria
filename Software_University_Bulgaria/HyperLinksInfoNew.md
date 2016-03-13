@@ -248,6 +248,21 @@ Assignments,Home works,Practices  and Exams | Software University
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Defining_classes/Constructors)
 * [Defining classes - Defining Properties]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Defining_classes/Defining_Properties)
+* [Defining classes - DogMeeting]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Defining_classes/DogMeeting)
+* [Defining classes - Keep the Object State]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Defining_classes/Keep_the_Object_State)
+* [Defining classes - Methods()]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Defining_classes/Methods)
+
+* [Delegates and Events]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Delegates_and_Events)
+######  Notes: Empty
+
+* [Encapsulation and polymorphism]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Encapsulation_and_polymorphism)
+* [Encapsulation]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Encapsulation_and_polymorphism/Encapsulation)
 
 
 
