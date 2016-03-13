@@ -317,9 +317,6 @@ Assignments,Home works,Practices  and Exams | Software University
 * [Inheritance and abstraction - Simple Inheritance]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Inheritance_and_abstraction/Simple_Inheritance)
 ######  Notes: Cat,Dog,Mammal
-
-* [Laboratory Practices]
-(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Laboratory_Practices)
 ---
 
 [*Go to top* ^](#Software-University)
