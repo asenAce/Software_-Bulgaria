@@ -4,7 +4,7 @@
 Assignments,Home works,Practices  and Exams | Software University
 
 ![alt text](https://github.com/asenAce/Software_University_Bulgaria/blob/master/Software_University_Bulgaria/PicturesSource/softuni-bulgaria.jpg "Logo Title Text One")
-### Curriculum of the Whole programe 
+### Curriculum of the Whole program 
 
 | Level                   | Subject(s)                                                 | Note                                 |
 |:-----------------------:|:-------------------------------------------------------:|:----------------------------------:|
@@ -205,6 +205,7 @@ Assignments,Home works,Practices  and Exams | Software University
 * [Task Two - Army of Creatures]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Exam_preparation/OOP_Sample_Exam_partTwo/TaskTwo)
 ---
+
 [*Go to top* ^](#Software-University)
 ![alt text](https://github.com/asenAce/Software_University_Bulgaria/blob/master/Software_University_Bulgaria/PicturesSource/canstockSmallRe.jpg)
 
