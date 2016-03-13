@@ -41,8 +41,8 @@ Assignments,Home works,Practices  and Exams | Software University
 [3. Object - Oriented Programming](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming)
 
 ---
-## Contwnt  of the Module
-###### [C# OOP](Homeworks/OOP)
+###### Content of the Module
+##### [C# OOP](Homeworks/OOP)
 
 * [Demonstrative Codes](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Demonstrative_Codes)
 * [Exam preparation]
