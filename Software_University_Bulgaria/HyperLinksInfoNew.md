@@ -167,6 +167,14 @@ Assignments,Home works,Practices  and Exams | Software University
 * [Task Two - Farmers - Creed]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Exam_preparation/OOP_Exam_24_Oct_2014/TaskTwo)
 
+######  [OOP Exam 26 Oct 2014](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Exam_preparation/OOP_Exam_26_Oct_2014)
+* [Task One - Restaurant Manager]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Exam_preparation/OOP_Exam_26_Oct_2014/TaskOne)
+* [Task Two - Nightlife Entertainment]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Exam_preparation/OOP_Exam_26_Oct_2014/TaskTwo)
+
+######  OOP Exam 5 July 2015 - Winter is Coming](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Exam_preparation/OOP_Exam_5_July_2015)
+
 
 
 
