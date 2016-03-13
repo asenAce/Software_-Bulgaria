@@ -235,7 +235,7 @@ Assignments,Home works,Practices  and Exams | Software University
 ![alt text](https://github.com/asenAce/Software_University_Bulgaria/blob/master/Software_University_Bulgaria/PicturesSource/canstockSmallRe.jpg)
 
 ######  [Working Dashboard](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard)
-######  Notes:  On C#
+######  Notes:  On ######  [C#]
 
 * [Common type system]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Common_type_system)
