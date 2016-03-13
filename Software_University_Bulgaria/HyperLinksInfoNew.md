@@ -441,21 +441,28 @@ Assignments,Home works,Practices  and Exams | Software University
 
 * [Static members and namespaces - Class Counter]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Static_members_and_namespaces/Class_Counter)
+######  Notes:  
 
 * [Static members and namespaces - Indexers]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Static_members_and_namespaces/Indexers)
+######  Notes:  
 
 * [Static members and namespaces - Matrices]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Static_members_and_namespaces/Matrices)
+######  Notes:  
 
 * [Static members and namespaces - Namespaces]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Static_members_and_namespaces/Namespaces)
+######  Notes:  
 
 * [Static members and namespaces - Overloading Operators]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Static_members_and_namespaces/Overloading_Operators)
+######  Notes:  
 
 * [Static members and namespaces - Static_Members]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Static_members_and_namespaces/Static_Members)
+######  Notes:  
+
 ---
 
 [*Go to top* ^](#Software-University)
