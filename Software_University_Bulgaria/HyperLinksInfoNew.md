@@ -148,35 +148,57 @@ Assignments,Home works,Practices  and Exams | Software University
 ![alt text](https://github.com/asenAce/Software_University_Bulgaria/blob/master/Software_University_Bulgaria/PicturesSource/canstockSmallRe.jpg)
 ---
 ######   OOP Exam preparations
+#######  Notes:
 
 ######  [OOP 14 December 2015 - Empires](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Exam_preparation/OOP_14_December_2015)
+######  Notes:
 
 ######  [OOP Exam  1 March-2015 ](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Exam_preparation/OOP_14_December_2015)
+######  Notes:
 
 ######  [OOP Exam 14 October 2015](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Exam_preparation/OOP_Exam_14_October_2015)
+######  Notes:
 
 ######  [OOP Exam 19 Jan 2015](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Exam_preparation/OOP_Exam_19_Jan_2015)
 * [Task One - Music Shop Manager]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Exam_preparation/OOP_Exam_19_Jan_2015/TaskOne)
 * [Task Two - My Tunes Shop]
-(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Exam_preparation/OOP_Exam_19_Jan_2015/TaskTwo) 
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Exam_preparation/OOP_Exam_19_Jan_2015/TaskTwo)
+######  Notes: 
 
 ######  [OOP Exam 24 Oct 2014](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Exam_preparation/OOP_Exam_24_Oct_2014)
 * [Task One - Estates Estates]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Exam_preparation/OOP_Exam_24_Oct_2014/TaskOne/01.%20Estates_Estates)
 * [Task Two - Farmers - Creed]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Exam_preparation/OOP_Exam_24_Oct_2014/TaskTwo)
+######  Notes:
 
 ######  [OOP Exam 26 Oct 2014](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Exam_preparation/OOP_Exam_26_Oct_2014)
 * [Task One - Restaurant Manager]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Exam_preparation/OOP_Exam_26_Oct_2014/TaskOne)
 * [Task Two - Nightlife Entertainment]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Exam_preparation/OOP_Exam_26_Oct_2014/TaskTwo)
+######  Notes:
 
 ######  [OOP Exam 5 July 2015 - Winter is Coming](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Exam_preparation/OOP_Exam_5_July_2015)
+######  Notes:
 
-######  [OOP Retake Exam 1 June 2015](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Exam_preparation/OOP_Retake_Exam%20_1_June_2015)
+######  [OOP Retake Exam 1 June 2015 - Mass Effect](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Exam_preparation/OOP_Retake_Exam%20_1_June_2015)
+######  Notes:
 
+######  [OOP Sample Exam](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Exam_preparation/OOP_Retake_Exam%20_1_June_2015)
+* [Task One - Furniture Manufacturer]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Exam_preparation/OOP_Sample_Exam/TaskOne)
+* [Task Two - Infestation]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Exam_preparation/OOP_Sample_Exam/TaskTwo)
+######  Notes:
+
+######  [OOP Sample Exam part Two](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Exam_preparation/OOP_Sample_Exam_partTwo)
+* [Task One - Cosmetics Shop]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Exam_preparation/OOP_Sample_Exam_partTwo/TaskOne)
+* [Task Two - Army of Creatures]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Exam_preparation/OOP_Sample_Exam_partTwo/TaskTwo)
+######  Notes:
 
 
 
