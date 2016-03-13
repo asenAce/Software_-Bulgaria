@@ -235,6 +235,7 @@ Assignments,Home works,Practices  and Exams | Software University
 ![alt text](https://github.com/asenAce/Software_University_Bulgaria/blob/master/Software_University_Bulgaria/PicturesSource/canstockSmallRe.jpg)
 
 ######  [Working Dashboard](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard)
+######  Notes:  On C#
 
 * [Common type system]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Common_type_system)
@@ -261,8 +262,61 @@ Assignments,Home works,Practices  and Exams | Software University
 
 * [Encapsulation and polymorphism]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Encapsulation_and_polymorphism)
-* [Encapsulation]
+* [Encapsulation and polymorphism -  Encapsulation]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Encapsulation_and_polymorphism/Encapsulation)
+* [Encapsulation and polymorphism - Encapsulation Reference Types]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Encapsulation_and_polymorphism/Encapsulation_ReferenceTypes)
+* [Encapsulation and polymorphism - Polymorphism]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Encapsulation_and_polymorphism/Polymorphism)
+* [Encapsulation and polymorphism - Virtual Methods]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Encapsulation_and_polymorphism/Virtual_Methods)
+
+* [Exception handling]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Exception_handling)
+* [Exception handling - Call Stack]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Exception_handling/Call_Stack)
+* [Exception handling - Custom Exceptions]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Exception_handling/Custom_Exceptions)
+* [Exception handling - Exceptions Properties]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Exception_handling/Exceptions_Properties)
+* [Exception handling - Handling Exceptions]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Exception_handling/Handling_Exceptions)
+* [Exception handling - Read Text File]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Exception_handling/Read_Text_File)
+* [Exception handling - Stack_Trace]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Exception_handling/Stack_Trace)
+
+* [Exception handling  - Throwing Exceptions]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Exception_handling/Throwing_Exceptions)
+
+* [Exception handling  - Try_Finally]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Exception_handling/Try_Finally)
+
+* [Inheritance and abstraction]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Inheritance_and_abstraction)
+
+* [Inheritance and abstraction - Abstract Classes]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Inheritance_and_abstraction/Abstract_Classes)
+######  Notes: class Cat,Kitten,TomCat,Turtle all them derivate from class Animal.
+
+* [Inheritance and abstraction - Access Modifiers]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Inheritance_and_abstraction/Access_Modifiers)
+######  Notes: 
+
+* [Inheritance and abstraction - Class Diagrams]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Inheritance_and_abstraction/Class_Diagrams)
+
+* [Inheritance and abstraction - Class Diagrams]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Inheritance_and_abstraction/Class_Diagrams)
+######  Notes: FiguresClassDiagram , FiguresExample , Rectangle,Shape. 
+
+* [Inheritance and abstraction - Interfaces and Implementation]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Inheritance_and_abstraction/Interfaces_and_Implementation)
+######  Notes: Circle,IMovable,IShape.
+
+* [Inheritance and abstraction - Simple Inheritance]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Inheritance_and_abstraction/Simple_Inheritance)
+######  Notes: Cat,Dog,Mammal
 
 
 
