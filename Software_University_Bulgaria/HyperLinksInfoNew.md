@@ -236,14 +236,18 @@ Assignments,Home works,Practices  and Exams | Software University
 
 ######  [Working Dashboard](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard)
 
-* [Common_type_system]
+* [Common type system]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Common_type_system)
 ######  Notes: Empty
 
-* [Defining_classes]
+* [Defining classes]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Defining_classes)
-** [Constants]
+* [Defining classes - Constants]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Defining_classes/Constants)
+* [Defining classes - Constructors]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Defining_classes/Constructors)
+* [Defining classes - Defining Properties]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Defining_classes/Defining_Properties)
 
 
 
