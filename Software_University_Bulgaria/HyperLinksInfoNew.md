@@ -147,11 +147,24 @@ Assignments,Home works,Practices  and Exams | Software University
 [*Go to top* ^](#Software-University)
 ![alt text](https://github.com/asenAce/Software_University_Bulgaria/blob/master/Software_University_Bulgaria/PicturesSource/canstockSmallRe.jpg)
 ---
-######   OOP Exam preparation
+######   OOP Exam preparations
 
 ######  [OOP 14 December 2015 - Empires](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Exam_preparation/OOP_14_December_2015)
 
+######  [OOP Exam  1 March-2015 ](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Exam_preparation/OOP_14_December_2015)
 
+######  [OOP Exam 14 October 2015](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Exam_preparation/OOP_Exam_14_October_2015)
+
+######  [OOP Exam 19 Jan 2015](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Exam_preparation/OOP_Exam_19_Jan_2015)
+* [Task One - Music Shop Manager]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Exam_preparation/OOP_Exam_19_Jan_2015/TaskOne)
+* [Task Two - My Tunes Shop]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Exam_preparation/OOP_Exam_19_Jan_2015/TaskTwo)
+######  [OOP Exam 24 Oct_2014](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Exam_preparation/OOP_Exam_24_Oct_2014)
+* [Task One - Estates Estates]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Exam_preparation/OOP_Exam_24_Oct_2014/TaskOne/01.%20Estates_Estates)
+* [Task Two - Farmers - Creed]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Exam_preparation/OOP_Exam_24_Oct_2014/TaskTwo)
 
 
 
