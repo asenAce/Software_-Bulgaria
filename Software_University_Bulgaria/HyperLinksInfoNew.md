@@ -147,9 +147,10 @@ Assignments,Home works,Practices  and Exams | Software University
 [*Go to top* ^](#Software-University)
 ![alt text](https://github.com/asenAce/Software_University_Bulgaria/blob/master/Software_University_Bulgaria/PicturesSource/canstockSmallRe.jpg)
 ---
+######   OOP Exam preparation
 
-
-
+######   [OOP 14 December 2015 - Empires]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Exam_preparation/OOP_14_December_2015)
 
 
 
