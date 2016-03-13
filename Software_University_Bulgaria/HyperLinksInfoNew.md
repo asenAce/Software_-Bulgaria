@@ -31,7 +31,7 @@ Assignments,Home works,Practices  and Exams | Software University
 
 
 
-## Curriculum  by Modules
+### Curriculum  by Modules
 ## 1. Fundamental Level
 ---
 [1. Advanced C#](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/C%23%5BAdvance%5D)
