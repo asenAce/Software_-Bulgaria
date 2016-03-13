@@ -204,6 +204,7 @@ Assignments,Home works,Practices  and Exams | Software University
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Exam_preparation/OOP_Sample_Exam_partTwo/TaskOne)
 * [Task Two - Army of Creatures]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Exam_preparation/OOP_Sample_Exam_partTwo/TaskTwo)
+
 ---
 
 [*Go to top* ^](#Software-University)
