@@ -224,7 +224,7 @@ Assignments,Home works,Practices  and Exams | Software University
 ######  [Practice](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Practice)
 * [Simple Games]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Practice/Simple_Games)
-* [Simple Games]
+* [Slum Game]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Practice/Simple_Games/_On_C%5B%23%5D/Slum_Game)
 * [BookShopProject]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Practice/Inheritance_and_Abstraction/BookShopProject)
