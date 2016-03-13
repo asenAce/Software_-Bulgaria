@@ -4,7 +4,7 @@
 Assignments,Home works,Practices  and Exams | Software University
 
 ![alt text](https://github.com/asenAce/Software_University_Bulgaria/blob/master/Software_University_Bulgaria/PicturesSource/softuni-bulgaria.jpg "Logo Title Text One")
-## Curriculum of the Whole programe 
+### Curriculum of the Whole programe 
 
 | Level                   | Subject(s)                                                 | Note                                 |
 |:-----------------------:|:-------------------------------------------------------:|:----------------------------------:|
