@@ -68,7 +68,8 @@ Assignments,Home works,Practices  and Exams | Software University
 
 
 [*Go to top* ^](#Software-University)
-(https://github.com/asenAce/Software_University_Bulgaria/blob/master/Software_University_Bulgaria/elevator_buttons.jpg"The button")
+![alt text](https://github.com/asenAce/Software_University_Bulgaria/blob/master/Software_University_Bulgaria/softuni-bulgaria.jpg "Logo Title Text One")
+## Curriculum
 ---
 
 ######   Defining Classes - Home Work
