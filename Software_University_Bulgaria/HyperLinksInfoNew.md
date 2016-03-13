@@ -175,6 +175,7 @@ Assignments,Home works,Practices  and Exams | Software University
 
 ######  [OOP Exam 5 July 2015 - Winter is Coming](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Exam_preparation/OOP_Exam_5_July_2015)
 
+######  [OOP Retake Exam 1 June 2015](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Exam_preparation/OOP_Retake_Exam%20_1_June_2015)
 
 
 
