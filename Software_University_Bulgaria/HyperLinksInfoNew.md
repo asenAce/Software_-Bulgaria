@@ -318,6 +318,40 @@ Assignments,Home works,Practices  and Exams | Software University
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Inheritance_and_abstraction/Simple_Inheritance)
 ######  Notes: Cat,Dog,Mammal
 
+* [Laboratory Practices]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Laboratory_Practices)
+---
+
+[*Go to top* ^](#Software-University)
+![alt text](https://github.com/asenAce/Software_University_Bulgaria/blob/master/Software_University_Bulgaria/PicturesSource/canstockSmallRe.jpg)
+
+* [Laboratory Practices]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Laboratory_Practices)
+
+* [Laboratory Practices - Animal Farm]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Inheritance_and_abstraction/Simple_Inheritance)
+######  Notes:  
+
+* [Laboratory Practices - BookStore]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Laboratory_Practices/BookStore)
+######  Notes:  
+
+* [Laboratory Practices - Console Forum]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Laboratory_Practices/Console_Forum)
+######  Notes:  
+
+* [Laboratory Practices - Environment System]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Laboratory_Practices/Environment_System)
+######  Notes:  
+
+* [Laboratory Practices - Multimedia Store]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Laboratory_Practices/Multimedia_Store)
+######  Notes:  
+---
+
+[*Go to top* ^](#Software-University)
+![alt text](https://github.com/asenAce/Software_University_Bulgaria/blob/master/Software_University_Bulgaria/PicturesSource/canstockSmallRe.jpg)
+
 
 
 
