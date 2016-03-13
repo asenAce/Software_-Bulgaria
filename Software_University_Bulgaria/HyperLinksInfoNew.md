@@ -65,6 +65,7 @@ Assignments,Home works,Practices  and Exams | Software University
 * [Inheritance and Abstraction](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Home_Works/Inheritance_and_Abstraction)
 * [Other Types](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Home_Works/Other_Types)
 *[Static Members and Namespaces](https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Home_Works/Static_Members_and_Namespaces)
+
 [*Go to top* ^](#Software-University)
 ![alt text](https://github.com/asenAce/Software_University_Bulgaria/blob/master/Software_University_Bulgaria/PicturesSource/canstockSmallRe.jpg)
 
