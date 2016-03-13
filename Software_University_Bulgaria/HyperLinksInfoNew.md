@@ -349,6 +349,61 @@ Assignments,Home works,Practices  and Exams | Software University
 [*Go to top* ^](#Software-University)
 ![alt text](https://github.com/asenAce/Software_University_Bulgaria/blob/master/Software_University_Bulgaria/PicturesSource/canstockSmallRe.jpg)
 
+* [Other Types]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Other_Types)
+
+* [Other Types - Attribute Validation]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Other_Types/Attribute_Validation)
+######  Notes:  
+
+* [Other Types - Attributes]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Other_Types/Attributes)
+######  Notes:  
+
+* [Other Types - Cofee Size]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Other_Types/Cofee_Size)
+######  Notes:  
+
+* [Other Types - Custom Attributes]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Other_Types/Custom_Attributes)
+######  Notes:  
+
+* [Other Types - Custom Stack Example]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Other_Types/Custom_Attributes)
+######  Notes:  
+
+* [Other Types - Dynamic  Type]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Other_Types/Dynamic_Type)
+######  Notes:  
+
+* [Other Types - Enums]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Other_Types/Enums)
+######  Notes:  
+
+* [Other Types - Generic Classes]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Other_Types/Generic_Classes)
+######  Notes:  
+
+* [Other Types - Generic Methods]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Other_Types/Generic_Methods)
+######  Notes:  
+
+* [Other Types - Struct Vs Class]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Other_Types/Struct_Vs_Class)
+######  Notes:  
+
+* [Other Types - Structures]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Other_Types/Structures)
+######  Notes:  
+---
+
+[*Go to top* ^](#Software-University)
+![alt text](https://github.com/asenAce/Software_University_Bulgaria/blob/master/Software_University_Bulgaria/PicturesSource/canstockSmallRe.jpg)
+
+
+
+
+
 
 
 
