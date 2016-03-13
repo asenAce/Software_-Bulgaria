@@ -243,18 +243,31 @@ Assignments,Home works,Practices  and Exams | Software University
 
 * [Defining classes]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Defining_classes)
+######  Notes:  
+
 * [Defining classes - Constants]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Defining_classes/Constants)
+######  Notes:  
+
 * [Defining classes - Constructors]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Defining_classes/Constructors)
+######  Notes:  
+
 * [Defining classes - Defining Properties]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Defining_classes/Defining_Properties)
+######  Notes:  
+
 * [Defining classes - DogMeeting]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Defining_classes/DogMeeting)
+######  Notes:  
+
 * [Defining classes - Keep the Object State]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Defining_classes/Keep_the_Object_State)
+######  Notes:  
+
 * [Defining classes - Methods()]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Defining_classes/Methods)
+######  Notes:  
 
 * [Delegates and Events]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Delegates_and_Events)
@@ -262,35 +275,57 @@ Assignments,Home works,Practices  and Exams | Software University
 
 * [Encapsulation and polymorphism]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Encapsulation_and_polymorphism)
+
 * [Encapsulation and polymorphism -  Encapsulation]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Encapsulation_and_polymorphism/Encapsulation)
+######  Notes:  
+
 * [Encapsulation and polymorphism - Encapsulation Reference Types]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Encapsulation_and_polymorphism/Encapsulation_ReferenceTypes)
+######  Notes:  
+
 * [Encapsulation and polymorphism - Polymorphism]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Encapsulation_and_polymorphism/Polymorphism)
+######  Notes:  
+
 * [Encapsulation and polymorphism - Virtual Methods]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Encapsulation_and_polymorphism/Virtual_Methods)
+######  Notes:  
 
 * [Exception handling]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Exception_handling)
+
 * [Exception handling - Call Stack]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Exception_handling/Call_Stack)
+######  Notes:  
+
 * [Exception handling - Custom Exceptions]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Exception_handling/Custom_Exceptions)
+######  Notes:  
+
 * [Exception handling - Exceptions Properties]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Exception_handling/Exceptions_Properties)
+######  Notes:  
+
 * [Exception handling - Handling Exceptions]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Exception_handling/Handling_Exceptions)
+######  Notes:  
+
 * [Exception handling - Read Text File]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Exception_handling/Read_Text_File)
+######  Notes:  
+
 * [Exception handling - Stack_Trace]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Exception_handling/Stack_Trace)
+######  Notes:  
 
 * [Exception handling  - Throwing Exceptions]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Exception_handling/Throwing_Exceptions)
+######  Notes:  
 
 * [Exception handling  - Try_Finally]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Exception_handling/Try_Finally)
+######  Notes:  
 
 * [Inheritance and abstraction]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Inheritance_and_abstraction)
@@ -305,6 +340,7 @@ Assignments,Home works,Practices  and Exams | Software University
 
 * [Inheritance and abstraction - Class Diagrams]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Inheritance_and_abstraction/Class_Diagrams)
+######  Notes:  
 
 * [Inheritance and abstraction - Class Diagrams]
 (https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Inheritance_and_abstraction/Class_Diagrams)
