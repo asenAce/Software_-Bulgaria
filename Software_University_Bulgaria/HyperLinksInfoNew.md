@@ -68,7 +68,7 @@ Assignments,Home works,Practices  and Exams | Software University
 
 
 [*Go to top* ^](#Software-University)
-![alt text](https://github.com/asenAce/Software_University_Bulgaria/blob/master/Software_University_Bulgaria/softuni-bulgaria.jpg "Logo Title Text One")
+![alt text](https://github.com/asenAce/Software_University_Bulgaria/blob/master/Software_University_Bulgaria/buttonTwo.jpg"theButton")
 ## Curriculum
 ---
 
