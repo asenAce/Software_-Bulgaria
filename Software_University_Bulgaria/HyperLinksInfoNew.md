@@ -436,6 +436,40 @@ Assignments,Home works,Practices  and Exams | Software University
 [*Go to top* ^](#Software-University)
 ![alt text](https://github.com/asenAce/Software_University_Bulgaria/blob/master/Software_University_Bulgaria/PicturesSource/canstockSmallRe.jpg)
 
+* [Static members and namespaces]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Static_members_and_namespaces)
+
+* [Static members and namespaces - Class Counter]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Static_members_and_namespaces/Class_Counter)
+
+* [Static members and namespaces - Indexers]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Static_members_and_namespaces/Indexers)
+
+* [Static members and namespaces - Matrices]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Static_members_and_namespaces/Matrices)
+
+* [Static members and namespaces - Namespaces]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Static_members_and_namespaces/Namespaces)
+
+* [Static members and namespaces - Overloading Operators]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Static_members_and_namespaces/Overloading_Operators)
+
+* [Static members and namespaces - Static_Members]
+(https://github.com/asenAce/Software_University_Bulgaria/tree/master/Software_University_Bulgaria/Fundamental_Level/Object_Oriented_Programming/Working_Dashboard/Static_members_and_namespaces/Static_Members)
+---
+
+[*Go to top* ^](#Software-University)
+![alt text](https://github.com/asenAce/Software_University_Bulgaria/blob/master/Software_University_Bulgaria/PicturesSource/canstockSmallRe.jpg)
+
+
+
+
+
+
+
+
+
+
 
 
 
