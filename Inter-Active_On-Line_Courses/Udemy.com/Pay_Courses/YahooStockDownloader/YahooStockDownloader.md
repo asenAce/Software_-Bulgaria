@@ -4,6 +4,14 @@
 
  |Udemy.com
 
+
+![alt text](https://github.com/asenAce/Software_University_Bulgaria/blob/master/Inter-Active_On-Line_Courses/Udemy.com/Pay_Courses/YahooStockDownloader/QuoteDownloader.jpg)
+### Program Example One
+
+
+![alt text](https://github.com/asenAce/Software_University_Bulgaria/blob/master/Inter-Active_On-Line_Courses/Udemy.com/Pay_Courses/YahooStockDownloader/PicturesSource/YahooStockDownloader.jpg)
+### Certificate
+
 C# app to download historical stock quote information (in .CSV format) from Yahoo Finance
 
 Check
@@ -22,12 +30,7 @@ YahooFinanceQuoteDownloader/Complete Versions/Asynchronous Version
 .
 
 
-![alt text](https://github.com/asenAce/Software_University_Bulgaria/blob/master/Inter-Active_On-Line_Courses/Udemy.com/Pay_Courses/YahooStockDownloader/QuoteDownloader.jpg)
-### Program Example One
 
-
-![alt text](https://github.com/asenAce/Software_University_Bulgaria/blob/master/Inter-Active_On-Line_Courses/Udemy.com/Pay_Courses/YahooStockDownloader/PicturesSource/YahooStockDownloader.jpg)
-### Certificate
 
 
 
