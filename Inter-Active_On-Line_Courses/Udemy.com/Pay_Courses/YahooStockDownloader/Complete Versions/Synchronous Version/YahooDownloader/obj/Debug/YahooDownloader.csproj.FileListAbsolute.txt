@@ -39,3 +39,6 @@ C:\Users\tester\Documents\GitHub\YahooFinanceQuoteDownloader\Complete Version\Ya
 E:\Education\Software Engineering\GitHub\FunctionalProgrammingHW\Inter-Active_On-Line_Courses\Udemy.com\Pay_Courses\Yahoo\Complete Versions\Synchronous Version\YahooDownloader\bin\Debug\YahooDownloader.exe.config
 E:\Education\Software Engineering\GitHub\FunctionalProgrammingHW\Inter-Active_On-Line_Courses\Udemy.com\Pay_Courses\Yahoo\Complete Versions\Synchronous Version\YahooDownloader\obj\Debug\YahooDownloader.exe
 E:\Education\Software Engineering\GitHub\FunctionalProgrammingHW\Inter-Active_On-Line_Courses\Udemy.com\Pay_Courses\Yahoo\Complete Versions\Synchronous Version\YahooDownloader\obj\Debug\YahooDownloader.pdb
+E:\Education\Software Engineering\GitHub\FunctionalProgrammingHW\Inter-Active_On-Line_Courses\Udemy.com\Pay_Courses\YahooStockDownloader\Complete Versions\Synchronous Version\YahooDownloader\bin\Debug\YahooDownloader.exe.config
+E:\Education\Software Engineering\GitHub\FunctionalProgrammingHW\Inter-Active_On-Line_Courses\Udemy.com\Pay_Courses\YahooStockDownloader\Complete Versions\Synchronous Version\YahooDownloader\obj\Debug\YahooDownloader.exe
+E:\Education\Software Engineering\GitHub\FunctionalProgrammingHW\Inter-Active_On-Line_Courses\Udemy.com\Pay_Courses\YahooStockDownloader\Complete Versions\Synchronous Version\YahooDownloader\obj\Debug\YahooDownloader.pdb
