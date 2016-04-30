@@ -26,7 +26,7 @@ YahooFinanceQuoteDownloader/Complete Versions/Asynchronous Version
 ### Program Example One
 
 
-![alt text](https://github.com/asenAce/Software_University_Bulgaria/blob/master/Inter-Active_On-Line_Courses/Udemy.com/Pay_Courses/YahooStockDownloader/YahooStockDownloader.jpg)
+![alt text](https://github.com/asenAce/Software_University_Bulgaria/blob/master/Inter-Active_On-Line_Courses/Udemy.com/Pay_Courses/YahooStockDownloader/PicturesSource/YahooStockDownloader.jpg)
 ### Certificate
 
 
