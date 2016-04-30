@@ -8,6 +8,9 @@
 ![alt text](https://github.com/asenAce/Software_University_Bulgaria/blob/master/Inter-Active_On-Line_Courses/Udemy.com/Pay_Courses/YahooStockDownloader/PicturesSource/CSV.png)
 ### Program Example One
 
+![alt text](https://github.com/asenAce/Software_University_Bulgaria/blob/master/Inter-Active_On-Line_Courses/Udemy.com/Pay_Courses/YahooStockDownloader/PicturesSource/QuoteDownloader.JPG)
+### Program Example Two
+
 
 ![alt text](https://github.com/asenAce/Software_University_Bulgaria/blob/master/Inter-Active_On-Line_Courses/Udemy.com/Pay_Courses/YahooStockDownloader/PicturesSource/YahooStockDownloader.jpg)
 ### Certificate
@@ -26,8 +29,6 @@ as long as .NET 4 is installed.
 To get this working, clone this project and open the YahooDownloader.sln file in this folder inside of Visual Studio:
 ```
 
-YahooFinanceQuoteDownloader/Complete Versions/Asynchronous Version
-.
 
 
 
