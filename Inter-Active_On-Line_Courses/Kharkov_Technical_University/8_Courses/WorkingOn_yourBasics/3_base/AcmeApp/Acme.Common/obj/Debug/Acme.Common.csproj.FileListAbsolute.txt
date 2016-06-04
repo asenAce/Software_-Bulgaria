@@ -1,0 +1,5 @@
+E:\Education\Software Engineering\GitHub\FunctionalProgrammingHW\Inter-Active_On-Line_Courses\Kharkov_Technical_University\8_Courses\WorkingOn_yourBasics\3_base\AcmeApp\Acme.Common\bin\Debug\Acme.Common.dll
+E:\Education\Software Engineering\GitHub\FunctionalProgrammingHW\Inter-Active_On-Line_Courses\Kharkov_Technical_University\8_Courses\WorkingOn_yourBasics\3_base\AcmeApp\Acme.Common\bin\Debug\Acme.Common.pdb
+E:\Education\Software Engineering\GitHub\FunctionalProgrammingHW\Inter-Active_On-Line_Courses\Kharkov_Technical_University\8_Courses\WorkingOn_yourBasics\3_base\AcmeApp\Acme.Common\obj\Debug\Acme.Common.csprojResolveAssemblyReference.cache
+E:\Education\Software Engineering\GitHub\FunctionalProgrammingHW\Inter-Active_On-Line_Courses\Kharkov_Technical_University\8_Courses\WorkingOn_yourBasics\3_base\AcmeApp\Acme.Common\obj\Debug\Acme.Common.dll
+E:\Education\Software Engineering\GitHub\FunctionalProgrammingHW\Inter-Active_On-Line_Courses\Kharkov_Technical_University\8_Courses\WorkingOn_yourBasics\3_base\AcmeApp\Acme.Common\obj\Debug\Acme.Common.pdb
