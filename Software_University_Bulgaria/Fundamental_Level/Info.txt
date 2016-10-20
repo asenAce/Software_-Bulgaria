@@ -1,6 +1,6 @@
 Fundamental  Level
 
-https://softuni.bg/curriculum
+
 
 III.Advanced C#
 I.Object Oriented Programming  /OOP/
