@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html xmlns="http://">
+<head>
+	<title>Welcome to the shop</title>
+	<link rel="stylesheet" href="style/layout.css" type="text/css" /> 
+	<script src="scripts/videoPlayer.js"></script>
+</head>
+	<body>
+		<header>
+			<div>
+				<a class="headerLogo" href="index.html">
+					<img src="images/logo.png">
+				</a>
+				<span id="headerName">Joe's coffee store</span>
+			</div>
+		</header>
+		
+		<section class="coffeeDetails">
+			<header class="blockHeader">
+				<span>CoffeeOne</span>
+			</header>
+			
+			<figure class="productArticleLargeFigure">
+				<img id="coffeeOne" class="productArticleLargeImage" src="images/coffee/coffee1-large.jpg">                   
+				<figcaption>CoffeeOne</figcaption>
+			</figure>
+			<div class="productArticleLargeContent">
+				<p class ="productArticleDescription">some txt here for description</p>
+				<p class="productArticlePrice">$10</p>
+			</div>
+			<div>
+				<video width="320" height="240" class="coffeevideoPlayer" id="videoPlayer" poster="images/logo.png" autoplay="autoplay" >
+					<source src="video/movie1.mp4" type='video/mp4' codecs="avc1.42E01E" />
+					<source src="video/movie1.ogg" type='video/ogg' codecs="avc1.42E01E" />
+					your browser do not supported
+				</video>
+			</div>
+			<div id="controls">
+				<div id="errorDiv" style="color:Red"></div>
+				<button id="slowerButton">Slower</button>
+				<button id="backButton">Rewind</button>
+				<button id="palyButton">Play</button>
+				<button id="forwardButton">Faster</button>
+				<button id="muteButton">Mute</button>
+				<br /> <br /> <br />
+			</div>
+		</section>
+		<script>
+			document.addEventListener("DOMContentLoaded",initializeVideoPlayerControls,false);
+		</script>
+	</body>
+</html>

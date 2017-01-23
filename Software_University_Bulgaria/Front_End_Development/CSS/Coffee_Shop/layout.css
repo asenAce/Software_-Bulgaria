@@ -1,0 +1,218 @@
+
+
+body {
+	width:1000px;
+	margin-left:auto;
+	margin-right:auto;
+	font-family:Verdana;
+}
+
+@font-face {
+	
+	font-family:headerfont;
+	src:url('../fonts/lobster_1.3.otf');
+}
+
+
+
+header {
+	font-weight:bold;
+}
+
+.headerLogo {
+	float:left;
+	margin-right:10px;
+	
+}
+
+.headerLogo > img {
+	height:60px;
+	width:60px;
+}
+
+#mainHeader {
+	height:80px;
+}
+
+.searchbox {
+	float:right;
+	padding:5px;
+	margin:10px 10px;
+	width:200px;
+}
+
+#headerName {
+	font-family:headerfont;
+	font-size:40px;
+	color:#603813;
+	padding:15px;
+	margin:8px 0px;
+	font-weight:bold;
+	text-shadow:5px 5px 5px 5f2c17;
+}
+
+#welcomeImage {
+	float:left;
+	width:700px;
+}
+
+#coffeeOfTheNonth {
+	float:right;
+	width:300px;
+}
+
+#welcomeText {
+	float:left;
+	width:70%;
+	font-size:12px;
+	margin-top:20px;
+	margin-bottom:20px;
+	/* column-count:2;
+	webkit-column-count:2; */
+	column-width:200px;
+	column-gap:40px;
+}
+
+#welcomeText > header {
+	color:#603813;
+	font-size:15px;
+	font-weight:bold;
+	margin-bottom:3px;
+}
+
+#events {
+	float:right;
+	width:30%;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+
+#events > header {
+	margin-left:10px;
+	color:#603813;
+	font-size:15px;
+	margin-bottom:3px;
+	font-weight:bold;
+}
+
+#events > ul {
+	list-style:none;
+}
+
+#events > ul > li {
+	margin-bottom:3px;
+	text-decoration:none;
+}
+
+#bestSellers {
+	height:100%;
+	width:700px;
+	float:left;
+	margin-bottom:20px;
+}
+
+.productArticleMoreInfo {
+	font-size:12px;
+	color:#603813;
+	margin-top:5px;
+}
+
+footer {
+	clear:both;
+	width:100%;
+	background-color:#5c5045;
+	margin:20px 0px 20px;
+	padding:5px;
+/*	transform:rotate(10deg); */
+}
+
+.smallText {
+	font-size:10px;
+}
+
+/*All coffee page styles*/
+.blockHeader {
+	font-size:30px;
+	font-family:headerfont;
+	margin-top:20px;
+}
+
+.backgroundGradient {
+	background: -webkit-linear-gradient(left,#603813,#341c05); /*this is for safary*/
+	background: -o-linear-gradient(right,#603813,#341c05); /*for opera*/
+	background: -moz-linear-gradient(right,#603813,#341c05); /*for firefox*/
+	background: liner-gradient(to right,#603813,#341c05); 
+}
+
+.navLink {
+	height:35px;
+	margin-right:10px;
+	font-size:18px;
+	float:left;
+	padding-top:12px;
+	color:white;
+	text-decoration:none;	
+}
+
+
+.navLink.active {
+	
+}
+
+#wlcomeImage {
+	float:left;
+	width:700px;
+}
+
+#coffeeOfTheMonth{
+	float:right;
+	width:290px;
+}
+
+.addToCartButton {
+	cursor:pointer;
+	padding:4px 25px;
+	background:#603813;
+	border:1px solid #381f09;
+	
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;
+	border-radius:8px;
+	
+	-webkit-box-shadow: 0 0 4px rgba(0,0,0, .75);
+	-moz-box-shadow:0 0 4px rgba(0,0,0 .75);
+	box-shadow:0 0 4px rgba(0,0,0 .75);
+	color:#f3f3f3;
+	font-size:0.8em;
+	width:80px;
+}
+
+.addToCartButton:hover , .addToCartButton:focus {
+	
+	background-color:#512c0a;
+	-webkit-box-shadow:0 0 1px rgba(0,0,0, .75);
+    -moz-box-shadow: 0 0 1px rgba(0,0,0, .75);
+	box-shadow: 0 0 1px rgba(0,0,0, .75);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

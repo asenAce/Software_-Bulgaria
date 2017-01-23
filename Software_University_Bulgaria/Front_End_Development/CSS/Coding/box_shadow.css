@@ -1,0 +1,136 @@
+/*animation*/
+@keyframes slideSpin {
+	
+	50% {
+		transform:translateX(150%) scale(.5);
+	}
+	
+	75% {
+		transform:translateX(150%) rotate(180deg) scale(.5);
+	}
+	
+	100% {
+		transform:translateX(300%) rotate(180deg);
+	}
+}
+
+
+
+.star {
+	animation:slideSpin 2s;
+	animation-fill-mode:forwards;
+	animation-iteration-count:infinite;
+	animation-direction:alternate;
+	width:25%;
+	height:auto;
+}
+
+
+
+
+
+@keyframes fadeBounce {
+	
+	0% {
+		opacity:0;
+		transform:translateY(-200%);
+	}
+	
+	40% {
+		
+		transform:translateY(0);
+	}
+	
+	55% {
+		transform:translateY(-6px);
+	}
+	
+	70% {
+		opacity:1;
+		transform:translateY(0);
+	}
+	
+	85% {
+		transform:translateY(-3px);
+	}
+	
+	100% {
+		opacity:1;
+		transform:translateY(0);
+	}
+}
+
+.boxes :nth-child(2) .box_a {
+	animation-delay: .5s;
+}
+
+.boxes :nth-child(3) .box_a {
+	animation-delay: .1s;
+}
+
+.boxes :nth-child(4) .box_a {
+	animation-delay: 1.5s;
+}
+
+
+.box_a {
+	opacity:0;
+	animation-name: fadeBounce;
+	animation-duration:1s;
+	animation-fill-mode: forwards;
+	animation:fadeBounce 1s forwards;
+	background-color: #e7eff5;
+	padding:20px 20px 0 20px;
+	border:2px solid #d3dee7;
+	margin-bottom:30px;
+	box-shadow: 2px 10px 5px #000;
+	border-radius:10px;
+	
+}
+
+.box_b {
+	text-align:center;
+	background-color:#CCC;
+	width:200px;
+	height:200px;
+	line-height:200px;
+	margin-bottom:40px;
+	border-radius:100px;
+	transition:all 1s;
+	transition-timing-function:ease-in;
+}
+
+.box_b:hover {
+	transform:rotate(360deg);
+	
+}
+
+
+.box_c {
+	color:FFF;
+	text-align:center;
+	background-color:#444;
+	width:350px;
+	height:200px;
+	line-height:200px;
+	margin-bottom:40px;
+	border-radius:175px/100px; /* or 50%*/
+}
+
+
+.example_a {
+	color:black;
+	background-color:#DDD;
+	transform:rotate(25deg);
+	transform:scale(2);
+	transform:skewY(-25deg) skewX(15deg);
+	transform:translateY(20px) translateX(100px);
+}
+
+.example_b {
+	color:white;
+	background-color:#444;
+}
+
+
+

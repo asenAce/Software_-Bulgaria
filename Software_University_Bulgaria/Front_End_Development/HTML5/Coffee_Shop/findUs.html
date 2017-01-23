@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html xmlns="http://">
+
+	<head>
+		<title>Welcome to the shop</title>
+		<link rel="stylesheet" href="styles/layout.css" type="text/css" />
+		<script src="scripts/geopositioning.js"></script>
+		<script src="http://maps.google.com/maps/api/is?sensor=false" ></script>
+	</head>
+	<body>
+		<div>
+			<img src="images/coffeeheader.jpg"/>
+		</div>
+		<div>
+			<img src="images/cotm.jpg">
+		</div>
+		
+		<section class="mapToStore">
+			<div>
+				<a class="headerLogo" href="index.html">
+					<img src="images/logo.png"/>
+				</a>
+			<span id="headerName">
+				Come to our real-life store!
+			</span>
+				<input type="search" class="searchbox" placeholder="Search our store!"/>
+			</div>
+			<div id="map"></div>
+			<div id="driving_directions"></div>
+		</section>
+		<section class="mapToStore">
+			<header class="blockheader">
+				<span>Please come to our shop</span>
+			</header>
+			<div id="map"></div>
+			<div id="driving_directions"></div>
+		</section>
+		<script>
+			document.addEventListener("DOMContentLoaded",createDrivingDirectionMap,false);
+		</script>
+	</body>
+</html>

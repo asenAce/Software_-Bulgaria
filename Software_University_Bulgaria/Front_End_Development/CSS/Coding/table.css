@@ -1,0 +1,42 @@
+
+table {
+	border-spacing:0;
+	border-collapse:collapse;
+	width:100%;
+}
+
+
+table th {
+	text-align:left;
+	background-color:#869960;
+	color:#FFF;
+	text-shadow:1px 1px 0 rgba(0,0,0, .4); 
+}
+
+table th,td {
+	border:1px solid #869960;
+	padding:10px;
+	vertical-align:top;
+}
+
+table tbody tr:nth-child(even) td {
+	background-color:#E5E9DC;
+}
+
+.col_item {
+	width:60%;
+	
+}
+
+.col_price , 
+.col_quantity {
+	width:20%;
+}
+
+table.firstTable tr :nth-child(2),
+table .firstTable tr :nth-child(3) {
+	text-align:center;
+}
+
+
+

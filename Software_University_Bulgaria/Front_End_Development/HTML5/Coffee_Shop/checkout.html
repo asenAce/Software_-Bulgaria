@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+	<header>
+	
+	</header>
+	<div id="welcomeImage">
+		<img src="images/coffeeheader.jpg"/>
+	</div>
+	
+	<section class="coffeeDetails">
+		<header class="blockHeader">
+			<span>Checkout</span>
+		</header>
+		
+		<form id="mainForm" action="#" method="post">
+			<fieldset class="box">
+				<legend>Your details</legend>
+				<div>
+					<p>
+						<label class="textLabel" for="firstNameInput">First Name:</label>
+						<input id="firstNameInput" name="firstName" type="text" autofocus="autofocus" class="textinput"
+							placeholder="place enter your first name here " maxlength="30"  required="required" />                            
+					</p>
+					<p>
+						<label class="textLabel" for="lastNameInput">Last Name:</label>
+						<input id="lastNameInput" name="lastName" type="text" autofocus="autofocus" class="textinput"
+							size="10" placeholder="place enter your last name here " maxlength="50" required="required" />							
+					</p>
+					<p>
+						<label class="textLabel" for="emailInput">Email:</label>
+						<input id="emailInput" type="email" name="Email" class="textinput" required="required" />
+					</p>
+					<p>
+						<label class="textLabel" for="numberInput" >Number:</label>
+						<input id="numberInput" type="text" name="Number" class="textinput" placeholder="only numbers allowed" required="required" />                          					
+					</p>
+					<p>
+						<label class="textLabel" for="zipCode">Zip Code:</label>
+						<input id="zipCode" type="text" class="textinput" name="zip" placeholder="your city zip code plase" required="required" />                         
+					</p>
+					<p>
+						<label class="textLabel" for="cityInput">City:</label>
+						<input id="cityInput" type="text" class="textinput" name="city" placeholder="your city plase" required="required" />
+					</p>
+					<p>
+						<label class="textLabel" for="countryInput">Country:</label>
+						<input id="countryInput" type="text" class="textinput" name="country" placeholder="your country please" pattern="[a-za-z]{3}" required/>
+					</p>
+					<p>
+						<label class="textLabel" for="phoneInput" >Phone number:</label>
+						<input id="phoneInput" type="text" name="phoneNumber" class="textinput" placeholder="plase write down your phone number.." required />
+					</p>
+					<p>
+						<label class="textLabel" for="blogInput">Blog</label>
+						<input id="blogInput" type="url" class="textinput" name="Bl" />
+					</p>					
+				</div>
+			</fieldset>
+			<fieldset class="box">
+					<legend>Your Order:</legend>
+					<p>
+						<label class="textLabel" for="deliveryDateInput">Requested delivery date</label>
+					    <input id="deliveryDateInput" name="birthDate" class="textinput" type="date"/>
+					</p>
+					<p>
+						<label class="textLabel" for="colorInput">Wrapping paper color</label>
+						<input id="colorInput" name="color" type="color" class="textinput"/>
+					</p>
+					<p>
+						<label class="textLabel" for="bowInput" >How many bows on the package?</label>
+						<input id="bowInput" class="textinput" name="bows" type="number" min="1" max="10" placeholder="Please enter a number" />
+					</p>
+			</fieldset>
+			<input type="submit" class="submitbutton" value="Place order" />
+		</form>	
+	</section>
+</html>
