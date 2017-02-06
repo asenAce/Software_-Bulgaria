@@ -1,0 +1,127 @@
+
+@font-face {
+	src:url('fonts/Vollkorn-Regular');
+	font-family:Vollkorn,
+}
+
+
+#wrapper {
+	width:1000px;
+	margin:0 auto;
+	font:16px Tahoma,sans-serif;
+}
+
+#wrapper > header {
+	color:#9DA6AF;
+	font-family:Vollkorn;
+	font-size:40px;
+} 
+
+header > h1 {
+	margin:0;
+	text-align:center;
+}
+
+
+body {
+	color:#EBEFF2;
+	
+}
+
+header,
+.paricingContent  > p {
+	font-family:Vollkorn;
+	color:#9DA6AF;
+}
+
+header > h1 {
+	margin:0;
+	text-align:center;
+}
+
+header > h3 {
+	font-weight:normal;
+	text-align:center;
+	margin:0;
+	padding:35px 0;
+}
+
+.pricing {
+	height:500px;
+	width:320px;
+	float:left;
+	margin-right:20px;
+	background-color:#F6F7F9;
+	position:relative;
+}
+
+.pricing:last-of-type {
+	margin:0;
+}
+
+
+.pricing > header {
+	font-size:30px;
+	background-color:#EBEFF2;
+	cursor:pointer;
+}
+
+.pricing > button {
+	position:absolute;
+	bottom:0;
+	width:260px;
+	background-color:#F6F7F9;
+	color:#fff;
+	border:0;
+	height:30px; 
+	margin-bottom:10px;
+	left:30px;
+	border-radius:5px;
+	cursor:pointer;
+	font-size:16px;
+}
+
+.pricing:hover > header,
+.pricing:hover > button{
+	background-color:#F6F7F9;
+}
+
+.pricing:hover > .pricingContent p, {
+	color:#F6F7F9;
+}
+
+.pricing:hover > header {
+	color:#F6F7F9;
+	
+}
+.pricing > button :hover {
+	background-color:#F6F7F9;
+	
+}
+
+.paricingContent  > p  {
+	font-size:60px;
+	margin:5px 0;
+	text-align:center;
+	cursor:pointer;
+}
+
+ul {
+   list-style-type:none;
+   margin:0;
+   padding:0;
+}
+
+.pricingContent > ul > li {
+	color:9DA6AF;
+	text-align:center;
+	height:40px;
+    border-bottom:1px solid;#F6F7F9;  
+	padding-top:5px;
+	box-sizing:border-box;
+}
+
+
+
+
+

@@ -1,0 +1,158 @@
+
+body {
+	background-color:#EBEBEB;
+	margin:0;
+}
+
+img {
+	width:20px;
+}
+
+
+input ,
+select {
+	border:1px solid #CCC;
+	border-radius:3px;
+	height:25px;
+	line-height:25px;
+	padding-left:5px;
+	margin:5px 0;
+}
+
+label {
+	display:block;
+	font-size:10px;
+}
+
+
+section {
+	padding:15px;
+}
+
+.search:after {
+	content:"";
+	display:block;
+	clear:both;
+	height:0;
+	zoom: 1;
+}
+
+
+#wrapper {
+	font:13px Tahoma,Helvetica,sans-serif;
+	width:800px;
+	margin:0 auto;
+	background-color:#EBEBEB;
+}
+
+#wrapper > header ,
+section  {
+	
+	border-bottom: 1px dashed #C4C4C4;
+}
+
+#wrapper > header {
+	background-color:#F1F1F1;
+}
+
+header > h1 {
+	font-size:28px;
+	color:#31A3DF;
+	margin-top:0;
+	padding-top:20px;
+	font-weight:normal;
+	padding-left:10px;
+}
+
+header > h4 {
+	font-size:16px;
+	margin-bottom:5px;
+}
+
+p {
+	width:570px;
+	/*display:inline-block;*/
+	float:left;
+}
+
+
+
+
+.search {
+	float:left;
+	width:220px;	
+	position:relative;
+	padding-right:10px;
+}
+
+.search > label {
+	display:block;
+	font-weight:bold;
+	
+}
+
+.search button {
+	margin:0;
+	padding:0;
+	background:none;
+	border:0;
+	cursor:pointer;
+	position:absolute;
+	right:35;
+	bottom:6;
+}
+
+
+.left {
+	float:left;
+	width:200px;
+}
+
+.right {
+	float:right;
+	width:570px;
+}
+
+.form-control {
+	display:inline-block;
+	box-sizing:border-box;
+}
+
+select {
+	width:300px;
+}
+
+.form-control-select-room {
+	width:350px;	
+}
+
+.form-control-count-rooms {
+	width:30%;
+}
+
+.form-control-date {
+	width:50%;
+}
+.form-control-date input {
+	width:49%;
+}
+
+button #bookNow {
+	float:right;
+	margin-top:15px;
+	background-color:#32A2E4;
+	color:#fff;
+	height:30px;
+	width:150px;
+	border:0;
+	border-radius:2px;
+	cursor:pointer;
+	font-weight:bold;
+}
+
+
+
+
+
+
+

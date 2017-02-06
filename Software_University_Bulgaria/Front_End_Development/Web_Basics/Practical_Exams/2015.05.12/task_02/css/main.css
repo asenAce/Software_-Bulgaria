@@ -1,0 +1,302 @@
+
+
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Ubuntu Light'), local('Ubuntu-Light'), url(http://fonts.gstatic.com/s/ubuntu/v9/X_EdMnknKUltk57alVVbVxJtnKITppOI_IvcXXDNrsc.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+20B4, U+2DE0-2DFF, U+A640-A69F;
+}
+
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Ubuntu'), url(http://fonts.gstatic.com/s/ubuntu/v9/ODszJI8YqNw8V2xPulzjO_esZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+20B4, U+2DE0-2DFF, U+A640-A69F;
+}
+
+
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Ubuntu Bold'), local('Ubuntu-Bold'), url(http://fonts.gstatic.com/s/ubuntu/v9/oxrPYIm05JrY_0rFIEQ_oRJtnKITppOI_IvcXXDNrsc.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+20B4, U+2DE0-2DFF, U+A640-A69F;
+}
+
+header:before, 
+header : after ,
+#workTogether >:before,{
+#workTogether >:after{
+	content:"";
+	height:100%;
+}
+
+
+main {
+	text-align:center;
+}
+
+
+
+#wrapper {
+	width:1100px;
+	margin:0 auto;
+	padding:10px;
+	padding-top:0;
+}
+
+
+#wrapper > header {
+	
+	 /* IE6-9 fallback on horizontal gradient */
+	position: relative;
+    color:fff; 
+	font:20px Ubuntu;
+	padding:20px;
+	padding-top:0;
+}
+
+
+#wrapper > header :before {
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#207cca+0,1e5799+0,207cca+0,207cca+0,1e5799+0,514c84+0,4ba099+100 */
+	background: #207cca; /* Old browsers */
+	background: -moz-linear-gradient(45deg,  #207cca 0%, #1e5799 0%, #207cca 0%, #207cca 0%, #1e5799 0%, #514c84 0%, #4ba099 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(45deg,  #207cca 0%,#1e5799 0%,#207cca 0%,#207cca 0%,#1e5799 0%,#514c84 0%,#4ba099 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(45deg,  #207cca 0%,#1e5799 0%,#207cca 0%,#207cca 0%,#1e5799 0%,#514c84 0%,#4ba099 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#207cca', endColorstr='#4ba099',GradientType=1 );
+	position:absolute;
+	width:100vw;
+	left:calc(-50vw + 550px);
+	z-index:-1;
+}
+
+#wrapper > header   h4 {
+	font-weight:300;
+	float:left;
+	margin:13px 0;
+}
+
+
+body {
+	font: 13px ,'Myriad Pro';
+}
+
+#theLogoAndNavigation:after {
+	content:"";
+	clear:both;
+	display:block;
+	height:0;
+	zoom:1;
+}
+
+#theLogoAndNavigation{
+	border-bottom: 1px solid 607EA9;
+}
+
+
+#stylingTheNavigation {
+	font: 13px Ubuntu;
+}
+
+
+ 
+#stylingTheNavigation > ul > li {
+	 list-style:none;
+	 display:inline-block;
+	 margin:5px 10px;
+ }
+
+#stylingTheNavigation> ul > li > a {
+	color: #fff;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+
+
+nav {
+	font:13px Ubuntu;
+	float:right;
+	
+}
+
+nav a:hover ,
+saySomething a:hover{
+	border-bottom-color:#57EFFF;
+	/* border-bottom:2px solid ;*/
+}
+
+
+#divElexir {
+	text-align:center;
+}
+
+#divElexir > header {
+	
+}
+
+#divElexir h1 {
+	color:#57EFFF;
+	margin-top:20px;
+	font:54px Ubuntu;
+	font-weight:bold;
+	text-transform:uppercase;
+	letter-spacing:10px;
+}
+
+#divElexir > header > p {
+	font: 16px  Ubuntu;
+	margin-top: - 10px;
+	font-weight:bold;
+	margin-bottom:20px;
+	letter-spacing:10px;
+}
+
+#divElexir > p , #noLimit{
+	font:60px Ubuntu;
+	margin-top:30px;
+}
+
+#getStarted,
+#saySomething {
+	margin:20px;
+	margin-top:40px;
+}
+
+#getStarted {
+	margin-top:100px;
+}
+
+#getStarted > a {
+	border:2px solid #fff;
+	padding:15px 35px; 
+	color:#fff;
+	text-decoration:none;
+	font:24px Ubuntu;
+}
+
+#saySomething  a {
+	color:fff;
+	font:16px 'Myriad Pro';
+	letter-spacing:2px;
+	font-weight:bold;
+	text-decoration:none;
+	padding-bottom:5px;
+	border-bottom:2px solid #98ACC8;
+}
+
+header  > h3 {
+	font:28px Ubuntu;
+    text-transform:uppercase;
+	color:#6C7982;
+	letter-spacing:2px;
+	margin:25px 0;
+}
+
+header > h5 {
+	font: 20px Ubuntu;
+	margin:15px 0;
+	 
+}
+
+header > span
+ {
+	width: 50px;
+	height:50px;
+	background: url('images/sprite.png') 0 0;
+	
+}
+
+
+.services {
+	display:flex;
+	flex-direction:row;
+	justify-content:space-around;
+}
+
+.services > div {
+	width:295px;
+   /* display:inline-block;*/
+    color:#6C7982;	
+}
+
+.services > div > p {
+	margin-bottom:15px;
+}
+
+.services > div > a {
+	color:#57EFFF;
+	text-decoration:none;
+}
+
+.options > header > .logoClass {
+	background:url('images/sprite.png') -10px 0;
+}
+
+.interfaces > header >.logoClass {
+	background:url('images/sprite.png') 110px 0;
+}
+
+.documentation > header>.logoClass {
+	background:url('images/sprite.png') 230px 0;
+}
+
+
+#workTogether {
+	position:relative;
+	height:60px;
+	margin-top:40px;
+	color:#fff;
+	font:20px Ubuntu;
+	text-transform:uppercase;
+}
+
+#workTogether :before {
+	position:absolute;
+	width:100vw;
+	left:calc(-50vw + 550px);
+	z-index:-1;
+	background:#FF7978;
+}
+
+#workTogether   {
+	/*
+	line-height:60px;
+	letter-spacing:2px;*/
+	position:relative;
+	height:40px;
+	margin-top:40px;
+    color:#fff;
+	font: 20px Ubuntu;
+	text-transform: uppercase;	
+}
+
+#workTogether > p {
+	line-height:60px;
+	letter-spacing:2px;
+}
+
+
+
+
+.options > .logoClass {
+	background:url('images/sprite.png')-10px 0;
+}
+
+.interfaces > .logoClass {
+	background:url('images/sprite.png')110px 0;
+}
+
+.documentation > .logoClass {
+	background:url('images/sprite.png')230px 0;
+}
+
+
+
+
+
+
