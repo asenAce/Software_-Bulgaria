@@ -1,0 +1,203 @@
+<!--
+    0. HTML + CSS и връзка с background
+    1. Структура (header, content, footer)
+    2. Header - меню с линкове (бутони) + лого
+    3. Footer - Copyright + symbol + sprite splice
+    4. Content - таблица с данни + бутон на последната колона
+    5. Content - форма с неактивен бутон за изпращане + всички полета + валидация
+    6. * Header - падащо меню
+    7. ** Content - music player playing on load
+    8. *** Content - Canvas moving block
+    9. **** Content - Canvas moving on keydown
+-->
+<!doctype>
+<html>
+<head>
+	<title>SoftUni Lab</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css" />
+</head>
+<body>
+	<!--<audio autoplay loop>-->
+		<!--<source src="audio/yo-mama.mp3" type="audio/mpeg">-->
+		<!--Your browser does not support the audio element.-->
+	<!--</audio>-->
+	<div id="wrapper">	
+		<header>
+			<div id="logo">
+				<img src="images/nissan-logo.png" />
+			</div>
+			<nav>
+				<ul>
+					<li><a href="#">Home</a></li>
+					<li>
+						<a href="#">The project</a>
+						<ul>
+							<li>The Creators</li>
+							<li>The Crew</li>
+							<li>The Mechanics</li>
+						</ul>
+					</li>
+					<li>
+						<a href="#">Car models</a>
+						<ul>
+							<li>350Z</li>
+							<li>370Z</li>
+							<li>GT-R</li>
+						</ul>
+					</li>
+					<li><a href="#">Contact us</a></li>
+				</ul>
+			</nav>
+		</header>
+		<main>
+			<canvas id="draw-canvas"> Canvas not yet supported !!</canvas>
+			<table>
+				<thead>
+					<th>ID</th>
+					<th>First Name</th>
+					<th>Last Name</th>
+					<th>Mark</th>
+					<th>Approove?</th>
+				</thead>
+				<tbody>
+					<tr>
+						<td>1</td>
+						<td>Jim</td>
+						<td>White</td>
+						<td>7</td>
+						<td>
+							<a href="#yes" class="confirm">Yes</a>
+							<a href="#no" class="deny">No</a>
+						</td>
+					</tr>
+					<tr>
+						<td>2</td>
+						<td colspan="2">Jane No Last Name</td>
+						<td>9</td>
+						<td>
+							<a href="#yes" class="confirm">Yes</a>
+							<a href="#no" class="deny">No</a>
+						</td>
+					</tr>
+					<tr>
+						<td>3</td>
+						<td>Jordan</td>
+						<td>Brown</td>
+						<td>4</td>
+						<td>
+							<a href="#yes" class="confirm">Yes</a>
+							<a href="#no" class="deny">No</a>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+
+			<form>
+				<fieldset>
+					<legend>User login information</legend>
+					<input type="text" name="username" placeholder="Enter your username" required="true"/>
+					<input type="password" name="password" placeholder="Enter you password" required="true"/>
+				</fieldset>
+				<fieldset>
+					<legend>User profile information</legend>
+					<input type="text" name="firstname" placeholder="First name" pattern="[A-Za-z]+" />
+					<input type="text" name="lastname" placeholder="Last name" pattern="[A-Za-z]+" />
+				</fieldset>
+				<fieldset>
+					<legend>Buisness information</legend>
+					<input type="email" name="email" placeholder="Email address" required="true"/>
+					<input type="number" name="teamSize" placeholder="Team Size" />
+				</fieldset>
+				<fieldset>
+					<legend>Done?</legend>
+					<button>Send</button>
+					<input type="reset" name="reset" value="Reset form" />
+				</fieldset>
+			</form>
+
+			<div id="funny-images">
+				<img src="images/titanic.png" />
+				<img src="images/pumba.jpg" />
+				<img src="images/kfc.jpg" />
+
+			</div>
+		</main>
+		<footer>
+			<p>This site is distributed under the R.A.K.I.A.&#0153; License. If you want to contribute to it please contact us at SoftUni&copy; official email address.</p>
+
+			<div class="social-links">
+				<div class="facebook"></div>
+				<div class="twitter"></div>
+				<div class="vimeo"></div>
+			</div>
+		</footer>
+	</div>
+
+		<script>
+		// 9 ***
+		// var c = document.getElementById("draw-canvas");
+		// var ctx = c.getContext("2d");
+
+		// var x = 0;
+		// setInterval(function(){
+		// 	ctx.fillStyle = "#FFFFFF";
+		// 	ctx.fillRect(10 + x,10,15 + x,14);
+		// 	x += 2;
+		// 	ctx.fillStyle = "#FF0000";
+		// 	ctx.fillRect(10 + x,10,15 + x,14);
+	 //    },100); 
+
+		//10 ****
+	    var canvas = document.getElementById("draw-canvas");
+		window.addEventListener('keydown', doKeyDown, true);
+
+		canvas_context = canvas.getContext("2d");
+		canvas_context.fillRect(100, 100, 50, 30);
+
+		var x = 100;
+		var y = 100;
+
+		function doKeyDown(e){
+			//====================
+			//	THE W KEY
+			//====================
+			if (e.keyCode == 87) {
+				clearCanvas();
+				y = y - 10;
+				canvas_context.fillRect(x, y, 50, 30);
+			}
+
+			//====================
+			//	THE S KEY
+			//====================
+			if (e.keyCode == 83) {
+				clearCanvas();
+				y = y + 10;
+				canvas_context.fillRect(x, y, 50, 30);
+			}
+
+			//====================
+			//	THE A KEY
+			//====================
+			if (e.keyCode == 65) {
+				clearCanvas();
+				x = x - 10;
+				canvas_context.fillRect(x, y, 50, 30);
+			}
+
+			//====================
+			//	THE D KEY
+			//====================
+			if (e.keyCode == 68) {
+				clearCanvas();
+				x = x + 10;
+				canvas_context.fillRect(x, y, 50, 30);
+			}
+		}
+
+		function clearCanvas() {
+			canvas.width = canvas.width;
+		}
+	</script>
+</body>
+</html>
