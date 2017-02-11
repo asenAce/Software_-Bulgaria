@@ -1,0 +1,145 @@
+/* main.css
+
+
+/* -- global styles -- */
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(../images/bodybkgd.jpg);
+    background-repeat: repeat-x;
+    background-color: #312e1d;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 10pt;
+    line-height: 1.5em;
+}
+
+h1, h2, h3 {
+    font-family: Georgia,Times,serif;
+}
+
+h1 {
+    color: #8aa635;
+    font-size: 1.7em;
+}
+
+h2 {
+    color: #38add6;
+    font-size: 1.4em;
+    margin-bottom: 0;
+}
+
+h3 {
+    color: #8aa635;
+    margin-bottom: 0;
+}
+
+p {
+    margin-top: 0;
+}
+
+a:link {
+    color: #38add6;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #8aa635;
+}
+
+a:hover {
+    color: #38add6;
+    text-decoration: none;
+}
+
+/* -- document sections -- */
+
+#wrapper {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #f8f8f8;
+}
+
+#contentwrapper {
+}
+
+#content {
+    padding: 20px;
+    width: 660px;
+    background-color: #f8f8f8;
+    float: right;
+}
+
+#left {
+    width: 173px;
+    padding-top: 20px;
+    padding-left: 20px;
+    float: left;
+}
+
+#left img {
+    width: 173px;
+    height: 223px;
+}
+
+#header img {
+    border: 0px solid;
+    width: 900px;
+    height: 81px;
+}
+
+#footer {
+    background-image: url(../images/footer.png);
+    background-repeat: no-repeat;
+    background-color: #f8f8f8;
+    height: 72px;
+    clear: both;
+    text-align: center;
+    font-size: 0.85em;
+    color: #555555;
+    padding-top: 22px;
+}
+
+/* menu */
+
+p#menuHome {
+    float: left;
+    margin-right: 10px;
+}
+
+p#menuHome a {
+    display: block;
+    width: 16px;
+    height: 16px;
+    background-image: url(../images/home_white_16.png);
+    background-repeat: no-repeat;
+}
+
+p#menuHome a:hover {
+    background-image: url(../images/home_green_16.png);
+}
+
+#menuTop {
+    background-image: url(../images/navbkgd.jpg);
+    background-repeat: repeat-x;
+    padding-top: 18px;
+    height: 55px;
+    font-size: 9pt;
+}
+
+#menuTop p {
+    margin: 0;
+}
+
+#menuTop a:link, #menuTop a:visited {
+    font-family: Georgia, Times, serif;
+    color: white;
+    text-decoration: none;
+    padding-right: 30px;
+}
+
+#menuTop a:hover {
+    color: #8aa635;
+}
+

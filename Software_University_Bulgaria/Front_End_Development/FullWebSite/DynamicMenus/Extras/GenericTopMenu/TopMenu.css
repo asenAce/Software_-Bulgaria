@@ -1,0 +1,113 @@
+/* TopMenu.css
+
+*/
+
+body {
+    font-family: georgia, serif;
+    margin: 0;
+    padding: 0;
+}
+
+p, li, h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    margin-bottom: 1em;
+    padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Verdana, sans-serif;
+}
+
+h1 {
+    margin-top: 1em;
+    font-size: 120%;
+}
+
+/* ===== menu ===== */
+
+div#menuTop {
+    position: relative;
+}
+
+div#menuTop ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+div#menuTop li {
+    display: block;
+    font-family: "Trebuchet MS", sans-serif;
+    background-color: #cc9;
+    font-size: 12px;
+    width: 95px;
+    height: 15px;
+    margin: 0 3px 0 0;
+    padding: 0;
+}
+
+div#menuTop a {
+    display: block;
+    margin: 0;
+    background-color: #cc9;
+    margin: 0;
+    padding: 0 3px;
+    text-decoration: none;
+    color: #330;
+}
+
+div#menuTop a:hover {
+    background-color: #ffc;
+}
+
+ul.menuHoriz li {
+    float: left;
+    margin-right: 3px;
+    border: solid 1px #993;
+}
+
+ul.menuVert li {
+    border-top: none;
+    border-bottom: solid 1px #993;
+    border-left: solid 1px #993;
+    border-right: solid 1px #993;
+}
+
+ul.menuVert {
+    position: absolute;
+    visibility: hidden;
+    top: 17px;
+}
+
+ul#menuSubOne { left: 0 }
+ul#menuSubTwo { left: 100px }
+ul#menuSubThree { left: 200px }
+ul#menuSubFour { left: 300px }
+
+/* ===== form ===== */
+
+div#form {
+    width: 700px;
+    margin: 10px 0;
+}
+
+/* ===== content ===== */
+
+div#content {
+    width: 600px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+.clear {
+    margin: 0;
+    clear: both;
+}
+
+
+
+

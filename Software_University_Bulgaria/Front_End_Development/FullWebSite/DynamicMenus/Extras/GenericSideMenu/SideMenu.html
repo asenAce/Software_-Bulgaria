@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--
+
+-->
+
+<head>
+    <link rel="stylesheet" type="text/css" href="SideMenu.css" />
+    <script type="text/javascript" src="javascript/bw-menu.js"></script>
+    <title>
+        Bill Weinman's Dynamic Menus &middot; Side Menu
+    </title>
+
+<script type="text/javascript">
+    // override configuration defaults
+    var timeout = 100; // milliseconds
+    var fadeSpeed = 200;  // milliseconds
+    var useFade = true;
+</script>
+
+</head>
+
+<body bgcolor="#FFFFFF">
+
+<div id="form"><form>
+    Delay to clear: <input type="text" size="4" value="100" onChange="timeout = this.value"> &nbsp;&nbsp;
+    Fade speed (milliseconds): <input type="text" size="4" value="200" onChange="fadeSpeed = this.value"> &nbsp;&nbsp;
+    Menu Fades <input type="checkbox" checked onChange="useFade = this.checked">
+</form></div>
+
+<div id="left">
+<div id="menuSide">
+
+    <ul id="menuOne" class="menuMain">
+        <li><a href="" onMouseOver="setMenu('menuSubOne')" onMouseOut="clearMenu('menuSubOne')">This</a></li>
+        <li><a href="" onMouseOver="setMenu('menuSubTwo')" onMouseOut="clearMenu('menuSubTwo')">Is the</a></li>
+        <li><a href="" onMouseOver="setMenu('menuSubThree')" onMouseOut="clearMenu('menuSubThree')">Side</a></li>
+        <li><a href="" onMouseOver="setMenu('menuSubFour')" onMouseOut="clearMenu('menuSubFour')">Menu</a></li>
+    </ul>
+
+    <ul id="menuSubOne" class="menuVert" onMouseOver="setMenu('menuSubOne')" onMouseOut="clearMenu('menuSubOne')">
+        <li><a href="">Hendrix</a></li>
+        <li><a href="">BB King</a></li>
+        <li><a href="">Johnny Winter</a></li>
+    </ul>
+
+    <ul id="menuSubTwo" class="menuVert" onMouseOver="setMenu('menuSubTwo')" onMouseOut="clearMenu('menuSubTwo')">
+        <li><a href="">Big</a></li>
+        <li><a href="">Dogs</a></li>
+        <li><a href="">With</a></li>
+        <li><a href="">Cars</a></li>
+    </ul>
+
+    <ul id="menuSubThree" class="menuVert" onMouseOver="setMenu('menuSubThree')" onMouseOut="clearMenu('menuSubThree')">
+        <li><a href="">Edgar Allen Poe</a></li>
+        <li><a href="">Stephen King</a></li>
+        <li><a href="">Dr Seuss</a></li>
+    </ul>
+
+    <ul id="menuSubFour" class="menuVert" onMouseOver="setMenu('menuSubFour')" onMouseOut="clearMenu('menuSubFour')">
+        <li><a href="">Little Richard</a></li>
+        <li><a href="">Elvis Presley</a></li>
+        <li><a href="">John Lennon</a></li>
+    </ul>
+
+</div>
+</div>
+
+<div id="content">
+
+<h1 class="first">Lorem ipsum</h1>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean aliquet
+lobortis lacus eget vestibulum. Pellentesque habitant morbi tristique
+senectus et netus et malesuada fames ac turpis egestas. Ut fermentum
+tincidunt rutrum. Sed laoreet, quam sit amet ultricies interdum, risus
+sapien luctus magna, non tincidunt eros lacus sed lectus. Etiam sit amet
+lorem arcu. Vestibulum vel libero odio, eget pharetra mauris. Sed et
+feugiat arcu. Quisque non elit sit amet sapien vehicula rutrum ut eu
+urna. Nunc elementum urna ac felis feugiat sagittis. Suspendisse tempus
+nulla ut velit cursus ullamcorper. Donec id scelerisque dui. Fusce non
+eros quis lectus luctus malesuada id sit amet purus. Ut gravida odio in
+erat consequat congue. Sed libero libero, scelerisque et facilisis quis,
+dignissim et eros. Donec feugiat malesuada elementum. Vestibulum in
+cursus turpis.
+</p>
+
+<p>
+Praesent lobortis feugiat quam ac luctus. Suspendisse gravida, dui quis
+tempus condimentum, odio neque vestibulum ipsum, non malesuada ante
+dolor ac sem. Suspendisse potenti. Etiam nisl ipsum, laoreet id
+tristique nec, sagittis sit amet libero. In varius pharetra condimentum.
+Class aptent taciti sociosqu ad litora torquent per conubia nostra, per
+inceptos himenaeos. Morbi cursus, elit quis vulputate sodales, turpis
+dolor cursus nunc, vel viverra sem quam eu lacus. Sed risus tortor,
+mattis ac laoreet eget, vestibulum sed dui. Proin et erat vel massa
+vehicula ullamcorper. Quisque velit diam, congue lobortis rutrum ac,
+congue non nisi. Maecenas mollis eros quis tellus convallis aliquam
+interdum eros euismod. Duis vestibulum gravida eros, sit amet imperdiet
+justo dictum et. Donec nisi nunc, pellentesque vitae tristique feugiat,
+suscipit vel purus. Cum sociis natoque penatibus et magnis dis
+parturient montes, nascetur ridiculus mus. Etiam sapien magna, cursus et
+volutpat sed, consequat quis elit. Vestibulum pellentesque leo justo,
+eget lobortis purus.
+</p>
+
+<p>
+Sed convallis sollicitudin tortor id pretium. Praesent imperdiet
+faucibus dui in bibendum. In justo magna, tincidunt vitae hendrerit sit
+amet, consectetur sed nulla. Fusce et consectetur elit. Morbi sodales
+ligula vel dui bibendum in tincidunt orci cursus. Donec diam tellus,
+consequat a malesuada id, luctus sit amet arcu. Suspendisse potenti.
+Morbi tortor nunc, commodo non porta vitae, rutrum viverra lacus. Aenean
+molestie, ipsum in posuere tristique, dolor dui eleifend felis, id
+placerat ante est non elit. Praesent tristique magna ac sem volutpat in
+blandit neque tincidunt. Ut cursus mi vel quam posuere id feugiat urna
+vehicula. Pellentesque tristique nunc id est ornare sed fringilla est
+posuere. Sed placerat euismod lorem id venenatis. Morbi volutpat
+adipiscing metus eget vehicula. Nam mattis laoreet tempor. Curabitur
+quis eros eros. Aliquam commodo vestibulum lobortis. Pellentesque sapien
+neque, adipiscing vitae congue scelerisque, pharetra eget arcu.
+</p>
+
+<p>
+Aenean auctor, lectus id feugiat lacinia, enim diam elementum est,
+rutrum faucibus metus risus id odio. Nam sem tortor, fermentum ut
+commodo eget, ornare ac tellus. Suspendisse gravida sollicitudin
+pellentesque. Aliquam ac ante sed quam imperdiet placerat nec eu urna.
+Mauris ac justo sapien, at commodo justo. Suspendisse magna mi, mattis
+in aliquam sit amet, pretium vitae magna. Nulla luctus lobortis nunc.
+Nam sed quam purus, in hendrerit purus. Nulla id augue neque. Nam augue
+ligula, sagittis a pharetra eu, eleifend iaculis leo. Phasellus at mi
+interdum mauris elementum dictum. Curabitur nec rhoncus libero. Praesent
+rutrum risus nec ante tincidunt gravida. Phasellus condimentum feugiat
+leo et scelerisque. Fusce vitae ipsum urna, vitae cursus lorem.
+</p>
+
+<p>
+Donec diam augue, sollicitudin id pretium non, tempus eget justo. In mi
+ipsum, convallis et mattis luctus, congue et nulla. Phasellus nunc
+neque, aliquet nec volutpat sed, tincidunt et lorem. Quisque tempus
+porta magna. Integer et nunc a odio ultrices tincidunt. In dignissim,
+dolor at tincidunt mollis, tellus sem interdum dui, eget vestibulum
+neque sem sit amet arcu. Nullam porta mi ac arcu faucibus quis
+ullamcorper orci porttitor. Pellentesque sagittis vehicula suscipit.
+Suspendisse nec lectus quis felis bibendum sodales nec et enim. Praesent
+diam odio, scelerisque et gravida ut, semper nec neque. Proin id feugiat
+est. Nullam non ultricies metus.
+</p>
+
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,120 @@
+/* SideMenu.css
+
+*/
+
+body {
+    font-family: georgia, serif;
+    margin: 0;
+    padding: 0;
+}
+
+p, li, h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    padding: 0;
+}
+p {
+    margin-bottom: 1em;
+    padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Verdana, sans-serif;
+}
+
+h1 {
+    margin-top: 1em;
+    font-size: 120%;
+}
+
+h1.first {
+    margin-top: 0;
+}
+
+div#left {
+    float: left;
+}
+
+/* ===== menu ===== */
+
+div#menuSide {
+    position: relative;
+    margin: 0 10px;
+}
+
+div#menuSide ul {
+    margin: 0;
+    padding: 0;
+}
+
+div#menuSide li {
+    display: block;
+    font-family: "Trebuchet MS", sans-serif;
+    background-color: #cc9;
+    font-size: 12px;
+    width: 95px;
+    height: 15px;
+    margin: 0 0 3px 0;
+    padding: 0;
+}
+
+div#menuSide a {
+    display: block;
+    margin: 0;
+    padding: 0 3px;
+    text-decoration: none;
+    color: #330;
+}
+
+div#menuSide a:hover {
+    background-color: #ffc;
+}
+
+ul.menuMain li {
+    float: top;
+    margin-right: 3px;
+    border: solid 1px #993;
+}
+
+ul.menuVert li {
+    border-top: none;
+    border-bottom: solid 1px #993;
+    border-left: solid 1px #993;
+    border-right: solid 1px #993;
+}
+
+ul.menuVert {
+    position: absolute;
+    visibility: hidden;
+}
+
+ul#menuSubOne, ul#menuSubTwo, ul#menuSubThree, ul#menuSubFour {
+    left: 100px;
+}
+
+ul#menuSubOne { top: 0 }
+ul#menuSubTwo { top: 20px }
+ul#menuSubThree { top: 40px }
+ul#menuSubFour { top: 60px }
+
+/* ===== form ===== */
+
+div#form {
+    width: 700px;
+    margin: 10px;
+}
+
+/* ===== content ===== */
+
+div#content {
+    width: 600px;
+    float: left;
+}
+
+.clear {
+    margin: 0;
+    clear: both;
+}
+
+
+
+
