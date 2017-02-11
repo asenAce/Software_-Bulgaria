@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8"/>
+		<meta http-equiv="Content-Type" content="text/html"; />
+		<meta name="viewport" content="width=device-width,initial-scale=1"/>
+		<link rel="stylesheet" type="text/css" href="main.css">
+		<title>Design the Web</title>
+	</head>
+<body> 
+	<form id="signup" method="post" action="#">
+		<h2>Sign up</h2>
+		<h3>Our content delivered on your terms.</h3>
+		<h4>Categories of interest</h4>
+	    <input id="cat-d" type="checkbox" name="design" /><label for="cat-d">Design</label>
+		<br>
+		<input id="cat-h" type="checkbox" name="html-css" /><label>HTML &amp; CSS</label>
+		<br>
+		<input id="cat-j" type="checkbox" name="js"/><label for="cat-j">JavaScript</label>
+		<br>
+			<fieldset>
+				<legend>Delivery Options</legend>
+				<h4>Choose a form</h4>
+				<input id="format-t" type="radio" name="format"/><label for="format-t">Text only</label>
+				<br>
+				<input id="format-h" type="radio" name="format"/><label for="format-h">HTML</label>
+				<h4>Choose a frequency</h4>
+					<select id="frequency">
+						<option value="daily">Daily</option>
+						<option value="weekly">Weekly</option>
+						<option value="monthly">Monthly</option>
+					</select>
+					<br>
+				<h4>Comments</h4>
+				<textarea name="requests" rows="3" cols="30" placeholder="Please let us know what other
+					option you would like to have."></textarea>	
+			</fieldset>
+			<h4>Email</h4>
+			<input id="email" type="text"  placeholder="please enter your full email address" />
+			<br>
+			<input type="submit" value="Sign me up"/>
+	</form>
+<footer>
+</footer>
+</body>
+</html>

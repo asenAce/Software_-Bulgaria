@@ -1,0 +1,167 @@
+
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+
+body {
+	font-size:16px;
+	font-family:'Montserrat',sans-serif;
+	background-color:#fff;
+	
+}
+
+form #signup {
+	max-width:800px;
+	padding:15px;
+	background:#5890d0 url(images/background.jpg) no-repeat 0px -70px;
+}
+
+form #signup h2 {
+	margin:0px;
+	color:#fff;
+	font-size:2em;
+}
+
+form #signup h3 {
+	margin:-5px 0px 12px 0px;
+	color:#fff;
+	font-size:1.2em;
+}
+
+form #signup h4 {
+	margin:15px 0px 3px 0px;
+	color:#fff;
+	font-size:1em;
+	
+}
+
+form #signup p,form #signup label {
+	margin:0px 0px 6px 0px;
+	color:rgba(255,255,255,.8);
+}
+
+form #signup fieldset {
+	border:1px solid rgba(255,255,255,.4);
+	margin:15px 0px 15px 0px;
+	padding:0px 10px 10px 20px;
+}
+
+
+form #signup legend {
+	color:#254581;
+	font-size:.9em;
+}
+
+form #signup textarea {
+	font-size:.9em;
+	padding:5px;
+	border:none;
+	color:#264581;
+	background-color:rgba(255,255,255,.8);
+	width:80%;
+}
+
+form #signup textarea:hover {
+	background-color:#fff;
+	
+}
+
+form #signup select {
+	-webkit-appearance:none;
+	-moz-appearance:none;
+	-ms-appearance:none;
+	-o-appearance:none;
+	appearance:none;
+	font-size:.9em;
+	background:#588fd0 url(images/icons_arrows.svg) no-repeat right 8px;
+	background-size:30px 20px;
+	color:#ffd34c;
+	padding:7px 45px 7px 10px;
+	border:1px solid #fff;
+	
+}
+
+form#signup select ::-ms-expand{
+	display:none;
+	
+}
+
+form#signup input[type=checkbox],form#signup input[type=radio] {
+	width:20px;
+	margin:0;
+	padding:0;
+	opacity:0;	 
+}
+
+#form#signup input [type=checkbox] + label,
+form#signup input[type=radio] + label {
+	display:inline-block;
+	margin-left:-20px;
+	padding:4px 0px 0px 27px;
+	background:url(images/background4.svg) no-repeat;
+	background-size:20px 80px;
+	line-height:16px;
+} 
+
+#form#signup input [type=radio] + label {
+	background-position:0px -40px;
+}
+
+#form#signup input:cheched + label {
+	color:#ffd34c;
+}
+
+form#signup input[type=cheched]:cheched + label {
+	background-position:0px -20px;
+}
+
+form#signup input[type=radio]:cheched + label {
+	background-position:0px -60px;
+}
+
+form#signup input#email {
+	font-size:.9em;
+	background:rgba(255,255,255,.8) url(images/emailpic.png)no-repeat 7px 6px ;
+	background-size:30px 17px;
+	padding:5px 0px 6px 47px;
+	border:none;
+	color:#264581;
+	width:80%;
+	}
+
+form#signup input#email:focus {
+	background-color:#fff;
+}
+
+form#signup input[type=submit]{
+	font-size:.9em;
+	color:#fff;
+	border:none;
+	background-color:#264581;
+	margin:10px 0px 5px 0px;
+	padding:10px 25px;
+	border-radius:5px;
+	cursor:pointer;
+	-webkit-appearance:none;
+}
+
+
+form#signup input[type=submit]:hover {
+	color:#ffd34c;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
