@@ -1,0 +1,80 @@
+@charset "UTF-8";
+#header #navigation {
+	height: 83px;
+	width: 608px;
+	float: right;
+	margin: 0px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+#header #navigation ul {
+	display: inline;
+}
+#header #navigation ul li {
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 10px;
+	height: 78px;
+	width: 138px;
+	text-align: center;
+	list-style-type: none;
+	float: left;
+	display: block;
+	border: 2px solid #FFF;
+	border-radius: 2px;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	background-image: url(images/navBG.png);
+}
+#header #navigation ul li a {
+	display: block;
+	text-decoration: none;
+}
+#container #header #navigation ul li a:hover {
+	height: 78px;
+	width: 138px;
+	background-image: url(images/navBG_hover.png);
+	border: 2px solid #FFF;
+	margin-top: -2px;
+	margin-left: -2px;
+	border-radius: 2px;
+	-moz-border-radius: 2;
+	-webkit-border-radius: 2;
+}
+#header #navigation ul li a h5 {
+	font-size: 28px;
+	line-height: 120%;
+	margin-top: 12px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding: 0px;
+	text-align: center;
+	text-shadow: 0px 2px 4px rgba(0,0,0,0.35);
+	color: #FFF;
+}
+#header #navigation ul li a h6 {
+	font-size: 11px;
+	line-height: 120%;
+	font-weight: bold;
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+	text-shadow: 0px 2px 4px rgba(0,0,0,0.35);
+	text-transform: uppercase;
+	color: #FFF;
+}
+#box h6 {
+	font-size: 14px;
+	color: #C00;
+}
+#content a:link , #content a:visited{
+	text-decoration: none;
+	color: #454D06;
+	font-style: italic;
+}
+#content a:hover {
+	color: #333;
+	text-decoration: underline;
+}

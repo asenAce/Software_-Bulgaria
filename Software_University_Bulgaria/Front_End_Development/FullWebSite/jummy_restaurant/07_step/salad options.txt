@@ -1,0 +1,4 @@
+Description	Fat	Carbs	Calories
+Salad Option 1	12g	22g	340
+Salad Option 2	14g	18g	520
+Salad Option 3	18g	32g	815
