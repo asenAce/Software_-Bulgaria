@@ -1,0 +1,17 @@
+@charset "utf-8";
+body {
+	background-size:auto;
+}
+
+section {
+	top: 260px;
+	width: 90%;
+	background-color: rgba(0,0,0,1);
+	float: none;
+	right: 5%;
+	left: 5%;
+}
+
+header {
+	width: 480px;
+}

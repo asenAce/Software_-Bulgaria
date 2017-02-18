@@ -1,0 +1,85 @@
+@font-face {
+	font-family: 'monsieurladoulaise regular';
+	src: url('monsieurladoulaise-regular-webfont.eot');
+	src: url('monsieurladoulaise-regular-webfont.eot?#iefix') format('embedded-opentype'),
+		url('monsieurladoulaise-regular-webfont.woff') format('woff'),
+		url('monsieurladoulaise-regular-webfont.ttf') format('truetype'),
+		url('monsieurladoulaise-regular-webfont.svg') format('svg');
+}
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFF;
+}
+body {
+	background-color: #000;
+	background-image: url(../images/bkgdHome.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+}
+h1 {
+	font-size: 36px;
+	color: #FFF;
+	text-shadow: 5px 5px 10px rgba(0,0,0,.5);
+}
+h2 {
+	font-size: 18px;
+	clear: both;
+}
+a:link {
+	color: #F00;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #900;
+}
+a:hover {
+	text-decoration: underline;
+	color: #FFF;
+}
+a:active {
+	text-decoration: none;
+	color: #FF0;
+}
+#logo {
+	position: absolute;
+	left: 5%;
+	top: 0px;
+	width: 220px;
+	height: 113px;
+	z-index: 200;
+}
+nav {
+	position: absolute;
+	left: 51px;
+	top: 75px;
+	width: 90%;
+	height: 31px;
+	z-index: 2;
+	background-color: #000000;
+	text-align: right;
+}
+header {
+	position: absolute;
+	left: 5%;
+	top: 100px;
+	width: 681px;
+	height: 74px;
+	z-index: 3;
+}
+section {
+	position: relative;
+	top: 219px;
+	width: 60%;
+	z-index: 4;
+	background-color: rgba(0,0,0,.8);
+	padding: 5px;
+	border-radius: 0px 30px 0px 30px;
+	float: right;
+	right: 5%;
+}
+.fancy {
+	font-family: "monsieurladoulaise regular";
+	font-size: 52px;
+}
