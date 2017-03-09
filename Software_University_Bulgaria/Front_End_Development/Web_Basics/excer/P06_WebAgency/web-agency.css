@@ -1,0 +1,149 @@
+
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,900');
+
+body {
+    margin: 0;
+    padding: 0;
+    color: #333333;
+    font: 16px 'Lato', sans-serif;
+
+}
+
+header {
+    background: #24437c;
+    color: white;
+}
+
+li {
+    display: inline-block;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1,h2 {
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+    font-weight: 300;
+
+}
+
+.nav-brand {
+    width: 100%;
+    height: 100%;
+    max-width: 120px;
+    padding: 40px;
+}
+
+.nav-primary {
+    float: right;
+    padding: 10px;
+}
+
+.nav-item {
+    margin-right: 15px;
+}
+
+.nav-item a {
+    color: white;
+    font-weight: 300;
+    text-transform: capitalize;
+}
+
+.cta-btn {
+    background: #3dc1ef;
+    padding: 10px 20px;
+    border-radius: 10px;
+    text-transform: capitalize;
+}
+
+.cta-btn:hover {
+    background: #0ab2ef;
+    cursor: pointer;
+}
+
+.header-title {
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+    font-size: 54px;
+    font-weight: 300;
+    padding-top: 60px;
+}
+
+.header-subtitle {
+    color: #6699ae;
+    padding-bottom: 20px;
+}
+
+.header-btn {
+    font-weight: 300;
+}
+
+div#button-container {
+    display: flex;
+    justify-content: center;
+}
+
+.header-services {
+    display: flex;
+    justify-content: center;
+}
+
+.service {
+    width: 250px;
+    height: 250px;
+    margin: 35px 35px 0 35px;
+    padding: 20px 35px;
+}
+
+.service:hover {
+    background: #3dc1ef;
+    cursor: pointer;
+}
+
+.service-title {
+    text-align: left;
+    padding: 20px;
+    font-weight: 400;
+}
+
+.service-intro {
+    font-weight: 300;
+    font-size: 14px;
+}
+
+.service-link {
+    display: block;
+    padding: 20px 20px 20px 0;
+    color: white;
+}
+
+.service-link:hover {
+    color: #24437c;
+}
+
+.about-title {
+    padding: 15px;
+}
+
+.about-intro {
+    margin: 0 auto;
+    text-align: center;
+    width: 700px;
+    color: #6699ae;
+    font-weight: 300;
+}
+
+.feedback {
+    background: #24437c;
+}
+
+.client-avatar {
+    width: 100%;
+    height: 100%;
+    max-width: 80px;
+    margin: 0 auto;
+}

@@ -1,0 +1,79 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    background: rgb(29, 33, 30);
+}
+
+nav ul ul,
+nav ul ul ul {
+    display: none;
+}
+.web-design {
+    position: relative;
+}
+a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 24px;
+    padding: 10px;
+}
+
+nav {
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    width: 100%;
+    background: rgb(230, 124, 31);
+}
+
+nav li {
+    display: inline-block;
+}
+
+.web-design:hover > ul{
+    position: absolute;
+    display: block;
+    left: 80px;
+    top: 50px;
+    background: rgb(230, 124, 31);
+}
+
+
+.web-design:hover > ul > li {
+    display: block;
+    width: 150px;
+}
+
+.web-design:hover > ul > li:hover {
+    display: block;
+    background: rgb(29, 33, 30);
+}
+
+.tutorials{
+    display: block;
+    position: relative;
+}
+
+.tutorials:hover ul {
+    display: block;
+    position: absolute;
+    background: rgb(230, 124, 31);
+    left: 150px;
+    top: 0;
+}
+
+.tutorials:hover > ul > li{
+    display: block;
+    width: 150px;
+}
+
+.tutorials:hover > ul > li:hover {
+    display: block;
+    background: rgb(29, 33, 30);
+}
+
+.tutorials > a::after,.web-design > a::after {
+    content:' +';
+}

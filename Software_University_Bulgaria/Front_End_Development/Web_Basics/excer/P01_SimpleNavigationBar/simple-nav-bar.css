@@ -1,0 +1,29 @@
+
+@import "https://fonts.googleapis.com/css?family=Lato:300,400,900";
+body {
+    font-family: "Lato", sans-serif;
+}
+
+ul {
+    padding: 0;
+    height: 40px;
+    line-height: 30px;
+    background: #84b3ad;
+}
+
+li {
+    width: 100px;
+    margin: 0 5px;
+    padding: 5px 0;
+    cursor: pointer;
+    display: inline-block;
+    text-align:center;
+}
+li a {
+    color: #ffffff;
+
+}
+li:hover {
+    background: #135e3e;
+    padding:5px 0;
+}

@@ -1,0 +1,110 @@
+@font-face {
+font-family: Vollkorn ;
+src: url(fonts/Vollkorn-Regular.ttf);
+}
+
+body {
+    margin: 50px auto;
+    width: 1000px;
+    font-family: Tahoma, sans-serif;
+    font-size: 16px;
+}
+
+a {
+    text-decoration: none;
+    color: #778495;
+}
+
+li {
+    margin: 20px;
+    padding: 8px;
+    border-bottom: 1px solid #F1F2F4;
+}
+
+header > h1 {
+    font-family: Vollkorn, serif;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #778495;
+    font-size: 40px;
+}
+
+article > header > h2 {
+    font-family: Vollkorn, serif;
+    width: 310px;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+    border: 1px solid #F8F9FB;
+    background: #EBEFF2;
+    color: #6B7888;
+    font-size: 30px;
+    text-transform: capitalize;
+}
+
+main > article:first-child {
+    margin-right: 20px;
+    margin-left: 10px;
+}
+
+main > article:last-child {
+    margin-left: 20px;
+}
+
+ article {
+    height: 600px;
+    width: 310px;
+    border: 1px solid #F8F9FB;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.price {
+    font-family: Vollkorn, serif;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    color: #808E99;
+    font-size: 60px;
+}
+
+article:hover > header > h2,
+article:hover > button {
+    background-color: #65D3E2;
+    cursor: pointer;
+}
+
+article:hover p {
+    cursor: pointer;
+    color: #65D3E2;
+}
+
+article {
+    position: relative;
+}
+
+button {
+    font-family: Tahoma, sans-serif;
+    font-size: 16px;
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    width: 250px;
+    height: 60px;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    text-transform: capitalize;
+}
+
+button:hover {
+    cursor: pointer;
+    background: #65D3E2;
+}
+
+
+

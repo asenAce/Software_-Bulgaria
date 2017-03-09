@@ -1,0 +1,403 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+
+body {
+    line-height: 1;
+}
+
+ol, ul {
+    list-style: none;
+}
+
+blockquote, q {
+    quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+/*
+  ========================================
+  Custom styles
+  ========================================
+*/
+/* latin-ext */
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 100;
+    src: local('Lato Hairline'), local('Lato-Hairline'), url(http://fonts.gstatic.com/s/lato/v11/eFRpvGLEW31oiexbYNx7Y_esZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 100;
+    src: local('Lato Hairline'), local('Lato-Hairline'), url(http://fonts.gstatic.com/s/lato/v11/GtRkRNTnri0g82CjKnEB0Q.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* latin-ext */
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Lato Light'), local('Lato-Light'), url(http://fonts.gstatic.com/s/lato/v11/dPJ5r9gl3kK6ijoeP1IRsvY6323mHUZFJMgTvxaG2iE.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Lato Light'), local('Lato-Light'), url(http://fonts.gstatic.com/s/lato/v11/EsvMC5un3kjyUhB9ZEPPwg.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* latin-ext */
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Lato Regular'), local('Lato-Regular'), url(http://fonts.gstatic.com/s/lato/v11/UyBMtLsHKBKXelqf4x7VRQ.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Lato Regular'), local('Lato-Regular'), url(http://fonts.gstatic.com/s/lato/v11/1YwB1sO8YE1Lyjf12WNiUA.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+body {
+    background: #293f50;
+    color: #888;
+    /*font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+    font: 300 16px/22px "Lato", sans-serif;
+
+}
+
+/*
+  ========================================
+  Rows
+  ========================================
+*/
+
+
+
+.date {
+    text-align: right;
+    padding: 20px;
+    color: #648880;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.row {
+    background: #fff;
+    padding: 66px 0 44px 0;
+}
+
+
+/*
+  ========================================
+  Typography
+  ========================================
+*/
+
+h1, h2, h3, h4 {
+    color: #648880;
+}
+
+h1, h3, h4, h5, p {
+    margin-bottom: 22px;
+}
+
+h1 {
+    font-size: 36px;
+    line-height: 44px;
+}
+
+h2 {
+    font-size: 24px;
+    line-height: 44px;
+}
+
+h3 {
+    font-size: 21px;
+}
+
+h4 {
+    font-size: 18px;
+}
+
+h5 {
+    color: #a9b2b9;
+    font-size: 14px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+strong {
+    font-weight: 400;
+}
+
+cite,
+em {
+    font-style: italic;
+}
+
+/*
+  ========================================
+  Leads
+  ========================================
+*/
+
+.lead {
+    text-align: center;
+}
+
+.lead p {
+    font-size: 21px;
+    line-height: 33px;
+}
+
+/*
+  ========================================
+  Links
+  ========================================
+*/
+
+a {
+    color: #648880;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #a9b2b9;
+}
+
+p a {
+    border-bottom: 1px solid #dfe2e5;
+}
+
+.primary-header a,
+.primary-footer a {
+    color: #fff;
+}
+
+.primary-header a:hover,
+.primary-footer a:hover {
+    color: #648880;
+}
+.primary-header {
+   text-align: center;
+}
+
+/*
+  ========================================
+  Buttons
+  ========================================
+*/
+
+.btn {
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 400;
+    letter-spacing: 1px;
+    margin: 0;
+    text-transform: uppercase;
+}
+
+.btn-default {
+    border: 0;
+    background: #648880;
+    padding: 11px 30px;
+    font-size: 14px;
+}
+
+.btn-default:hover {
+    background: #77a198;
+}
+
+.btn-alt {
+    border: 1px solid #fff;
+    padding: 10px 30px;
+}
+
+.btn-alt:hover {
+    background: #fff;
+    color: #648880;
+}
+
+/*
+  ========================================
+  Primary header
+  ========================================
+*/
+
+.logo {
+    font-size: 48px;
+    font-weight: 100;
+    letter-spacing: 1px;
+    line-height: 44px;
+    padding: 40px 0 22px 0;
+    text-transform: uppercase;
+    color: #ffffff;
+    text-align: center;
+}
+
+.primary-nav {
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+
+
+/*
+  ========================================
+  Navigation
+  ========================================
+*/
+
+.nav {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.nav li {
+    display: inline-block;
+    margin: 0 10px;
+    vertical-align: top;
+}
+
+.nav li:last-child {
+    margin-right: 0;
+}
+
+/*
+  ========================================
+  Home
+  ========================================
+*/
+
+#button {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    line-height: 44px;
+    padding: 22px 80px 66px 80px;
+}
+
+.container h2 {
+    font-size: 36px;
+}
+
+.container p {
+    font-size: 24px;
+    font-weight: 100;
+}
+
+.teaser {
+    width: 300px;
+    display: inline-block;
+    margin: 10px;
+}
+
+.teaser a:hover h3 {
+    color: #a9b2b9;
+}
+
+.teaser img {
+    border-radius: 5px;
+    margin-bottom: 22px;
+    width: 280px;
+}
+
+/*
+  ========================================
+  Footer
+  ========================================
+*/
+
+.nav-footer {
+   float: right;
+}
+
+.nav-footer li {
+    display: inline-block;
+    margin: 0 10px;
+    vertical-align: top;
+}
+
+.nav-footer li:last-child {
+    margin-right: 0;
+}
+/*
+  ========================================
+  Primary footer
+  ========================================
+*/
+
+.primary-footer {
+    color: #648880;
+    font-size: 14px;
+    padding-bottom: 44px;
+    padding-top: 44px;
+
+}
+
+.primary-footer > p {
+    float: left;
+    text-transform: lowercase;
+    font-size: 22px;
+    color: #ffffff;
+}

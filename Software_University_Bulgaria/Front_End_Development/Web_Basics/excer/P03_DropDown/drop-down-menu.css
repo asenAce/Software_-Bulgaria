@@ -1,0 +1,75 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    background: #1d211e;
+    font-size: 22px;
+    line-height: 22px;
+    color: #ffffff;
+    text-align: center;
+}
+
+a {
+    color: #FFF;
+}
+
+nav {
+    margin: 50px 0;
+    background-color: #e67c1f;
+}
+
+nav ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    position: relative;
+}
+
+nav ul li {
+    display:inline-block;
+    background-color: #e67c1f;
+}
+
+/*drop-down-menu.html*/
+nav a {
+    display: block;
+    padding: 0 10px;
+    color: #FFF;
+    font-size:20px;
+    line-height: 60px;
+    text-decoration:none;
+}
+
+nav a:hover {
+    background-color: #000000;
+}
+
+/* Hide Dropdowns by Default */
+nav ul ul {
+    display: none;
+    position: absolute;
+}
+
+/* Display Drop downs on Hover */
+nav ul li:hover > ul {
+    display: inline-block;
+}
+
+/* First Tier Drop down */
+nav ul ul li {
+    width: 170px;
+    position: relative;
+    display: block;
+}
+
+/* Second, Third and more Tiers	*/
+nav ul ul ul li {
+    position: relative;
+    top:-60px;
+    left:85px;
+}
+
+/* Change this in order to change the Drop down symbol */
+li > a::after { content:  ' +'; }
+li > a:only-child::after { content: ''; }
