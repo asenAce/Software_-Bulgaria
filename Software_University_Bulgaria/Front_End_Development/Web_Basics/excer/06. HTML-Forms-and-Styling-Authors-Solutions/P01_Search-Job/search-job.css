@@ -1,0 +1,115 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css');
+
+ul, div, nav, label {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-size: 14px;
+    font-family: Tahoma, Helvetica, sans-serif;
+    /*width: 1000px;*/
+    /*height: 335px;*/
+    padding: 80px 50px;
+}
+
+nav {
+    width: 70%;
+    /*display: flex;*/
+    /*justify-content: space-between;*/
+}
+
+nav ul {
+    background-color: #384452;
+    list-style: none;
+}
+
+nav li {
+    display: inline-block;
+    list-style: none;
+    padding: 25px;
+    width: 200px;
+}
+
+a {
+    text-decoration: none;
+    color: #8BAEC2;
+    margin-left: 15px;
+}
+
+a:before {
+    font-family: FontAwesome, serif;
+    margin-right: 10px;
+    font-size: 18px;
+}
+
+li:first-child a::before {
+    content: "\f002";
+}
+
+li:nth-child(2) a::before {
+    content: "\f02c";
+}
+
+li:nth-child(3) a::before {
+    content: '\f041';
+}
+
+li:nth-child(4) a::before {
+    content: '\f007';
+}
+
+li:hover {
+    background-color: #3BBC96;
+}
+
+li:hover a {
+    color: #ffffff;
+}
+
+main {
+    background-color: #EEEEEE;
+    width: 70%;
+    display: flex;
+    /*justify-content: flex-start;*/
+    flex-wrap: wrap;
+}
+
+label {
+    color: #374574;
+    display: block;
+    font-weight: bold;
+    width: 210px;
+    margin-left: 38px;
+    margin-top: 20px;
+}
+
+input {
+    /*max-width: 100%;*/
+    border: 1px solid #CDCDCD;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 46px;
+    padding-left: 14px;
+}
+
+button {
+    margin-left: 38px;
+    width: 210px;
+    height: 46px;
+    text-transform: uppercase;
+    background-color: #384452;
+    color: #CED1CA;
+}
+
+button:hover {
+    background-color: #3BBC96;
+    color: #FFF7E4;
+    cursor: pointer;
+}
+
+/*.search-job {*/
+/*width: 210px;*/
+/*display: inline-block;*/
+/*margin-right: 23px;*/
+/*}*/

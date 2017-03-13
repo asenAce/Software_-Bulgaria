@@ -1,0 +1,167 @@
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+div, p, header, h1, h4 {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #EEEEEE;
+}
+
+main,header{
+    background-color: #fff;
+    font: 24px Tahoma, Helvetica, sans-serif;
+    width: 800px;
+    height: 400px;
+    margin: 0 auto 0;
+}
+
+header {
+    height: auto;
+}
+
+a {
+    text-decoration: none;
+    color: #EA6A77;
+    display: block;
+    margin-top: 15px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+header > h1 {
+    font-size: 24px;
+    text-align: center;
+    padding-top: 40px;
+}
+
+p {
+    font-size: 12px;
+    width: 700px;
+    padding-top: 25px;
+    margin-left: 55px;
+    text-align: center;
+    border-bottom: 1px solid #CECECE;
+    padding-bottom: 25px;
+}
+
+h4 {
+    margin-top: 25px;
+    font-size: 16px;
+}
+
+input {
+    margin-top: 15px;
+    width: 280px;
+    height: 35px;
+    border: 1px solid #CFCFCF;
+    border-radius: 4px;
+    padding-left: 15px;
+}
+
+label {
+    color: #858388;
+    font-size: 1.1em;
+    display: inline-block;
+    padding-left: 23px;
+    position: relative;
+    top: -4px;
+}
+
+#checkbox {
+    width: 20px;
+    height: 20px;
+    padding: 0;
+    margin: 0 0 0 3px;
+    vertical-align: bottom;
+    position: relative;
+    top: 18px;
+    right: 5px;
+    overflow: hidden;
+}
+
+.register {
+
+    width: 285px;
+    height: 345px;
+    float: left;
+    margin-left: 85px;
+    margin-right: 65px;
+    font-size: 12px;
+}
+
+.register:after,
+.login:after {
+    content: '';
+    display: block;
+    clear: both;
+    height: 0;
+    zoom: 1;
+}
+
+.login {
+    width: 285px;
+    height: 345px;
+    float: left;
+    font-size: 12px;
+}
+
+.username-info-ok,
+.username-info-no{
+    position: relative;
+}
+
+.username-info > img {
+    position: absolute;
+    top: 22px;
+    right: 0;
+}
+
+.register button, .login button {
+    margin-top: 10px;
+    width: 170px;
+    height: 40px;
+    background-color: #F0F0F0;
+    color: #000;
+    border: 1px solid #D0D0D0;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 3px 3px 3px #E9E9E9;
+}
+
+.login button {
+    width: 95px;
+    display: block;
+    margin-top: 15px;
+}
+
+button:hover {
+    background-color: #AFDF67;
+}
+
+.username-info-ok::before,
+.username-info-no::before  {
+    font-family: FontAwesome, serif;
+    position: absolute;
+    content: '\f00c';
+    color: #ffffff;
+    border: 1px solid #00ff00;
+    background: #00ff00;
+    padding: 2px;
+    left: 260px;
+    top: 22px;
+    font-size: 20px;
+}
+
+.username-info-no::before {
+    content: '\f00d';
+    border: 1px solid #ff0500;
+    background: #ff0500;
+    left: 262px;
+    top: 20px;
+    font-size: 22px;
+}

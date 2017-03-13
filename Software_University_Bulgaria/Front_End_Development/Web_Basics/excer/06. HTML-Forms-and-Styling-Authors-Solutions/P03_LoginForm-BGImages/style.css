@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Oxygen');
+body{
+    background:  #927057;
+    font-family: 'Oxygen', sans-serif;
+    color: #ffffff;
+}
+main{
+    position: relative;
+    width: 470px;
+    margin: 50px auto 0;
+    padding: 50px 60px 70px;
+    background: #d5c395;
+}
+
+main::before {
+    position: absolute;
+    top: -30px;
+    left: 259px;
+    background: url(img/3.png) no-repeat 0 0;
+    display: block;
+    height: 35px;
+    width: 68px;
+    content: '';
+}
+footer {
+    font-size: 1em;
+    color: #EFE1C4;
+    text-align: center;
+}
+.image-container {
+    text-align: center;
+    margin-top: 50px;
+}
+img {
+    border: 5px solid #d5c395;
+    height: 123px;
+}
+.name, .pass {
+    outline: none;
+    border: none;
+    font-family: 'Oxygen', sans-serif;
+    background: #efe1c4;
+    padding: 10px 10px 10px 60px;
+    width: 85%;
+    font-size: 1.1em;
+    color: #927057;
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+
+.pass {
+    background: url(img/pass.png) no-repeat 12px 10px #efe1c4;
+}
+
+.name {
+    background: url(img/user.png) no-repeat 12px 10px #efe1c4;
+}
+
+.submit {
+    outline: none;
+    border: none;
+    background: #927057;
+    padding: 10px;
+    width: 100%;
+    max-width: 500px;
+    color: #d5c395;
+    font-size: 1.5em;
+    font-weight: 900;
+    cursor: pointer;
+    border-radius: 5px;
+}

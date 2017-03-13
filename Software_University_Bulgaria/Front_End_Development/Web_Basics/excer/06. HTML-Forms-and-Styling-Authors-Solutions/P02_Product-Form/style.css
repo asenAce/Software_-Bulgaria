@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700');
+@import url('https://fonts.googleapis.com/css?family=Anton');
+
+body{
+    margin: 0;
+    padding: 0;
+    font: 14px 'Lato', sans-serif;
+    color: #333;
+    background: #fafafa;
+
+}
+
+main{
+    width:70%;
+    height: 80%;
+    padding: 0;
+    background: white;
+    display: flex;
+    flex-direction: row;
+    border-radius: 20px;
+    box-shadow: 6px 4px 22px 14px rgba(66,201,202,0.1);
+
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+form{
+    font-family: 'Lato', sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+
+input,
+select{
+    border: none;
+    outline: none;
+    margin: 1rem;
+    padding: .5rem;
+    font-size:14px;
+}
+
+input{
+    border-bottom: 3px solid #42c9ca;
+    background: none;
+}
+
+::-webkit-input-placeholder {
+    font-size:14px;
+    color: #42c9ca;
+}
+
+select{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    outline: 0;
+    box-shadow: none;
+    border: 0 ;
+    background: #42c9ca;
+    background-image: none;
+    color: white;
+}
+
+
+
+
+
+
+
+
+button{
+    background: none;
+    border: 3px solid #42c9ca;
+    border-radius: 25px;
+    padding: .5rem 2rem;
+    margin-top: 2rem;
+    color: #42c9ca;
+    text-transform: uppercase;
+}
+
+button:hover{
+    cursor: pointer;
+    background: #42c9ca;
+    color: white;
+}
+
+.product-img{
+    background: linear-gradient(to bottom, #6afdc9 0%,#42c9ca 100%);
+    border-radius: 20px 0 0 20px;
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.product-img img{
+    width: 100%;
+    max-width: 500px;
+}
+
+.product-form{
+    padding: 2rem;
+    font-family: 'Anton', sans-serif;
+}
+
+.product-title{
+    font-size: 36px;
+}
+
+.product-price{
+    font-size: 24px;
+    color: #565656;
+}
+

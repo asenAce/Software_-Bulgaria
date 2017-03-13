@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Edit User Form</title>
+    <link rel="stylesheet" href="styles/reset.css">
+    <link rel="stylesheet" href="edit-user-form.css">
+</head>
+<body>
+    <header>
+        <h1>EDIT USER</h1>
+    </header>
+    <main>
+        <form action="">
+            <label for="username" class="user">Username</label><input type="text" id="username" class="form-user">
+            <input type="checkbox" id="deactivate"><label for="deactivate">Deactivate</label>
+            <label for="email" class="user">Email</label><input type="email" id="email" class="form-user">
+            <label for="phone" class="user">Phone number</label><input type="tel" id="phone" class="form-user">
+
+            <h3>User type</h3>
+            <input type="radio" id="broadcast" name="broadcast"><label for="broadcast" class="user">Broadband</label>
+
+            <input type="radio" id="radio" name="radio"><label for="radio" class="user" >Radio</label>
+
+            <label for="pass">Change Password</label><input type="password" name="password" id="pass" class="form-user" >
+
+            <h3>Group</h3>
+
+            <fieldset class="checkboxgroup">
+
+                <div class="checkbox">
+                    <label> <input type="checkbox"> All Groups</label>
+                </div>
+
+                <div class="checkbox">
+                    <label><input type="checkbox"> Group 1</label>
+                </div>
+
+                <div class="checkbox">
+                    <label><input type="checkbox"> Group 2</label>
+                </div>
+
+                <div class="checkbox">
+                    <label><input type="checkbox"> Group 3</label>
+                </div>
+
+                <div class="checkbox">
+                    <label><input type="checkbox"> Group 4</label>
+                </div>
+            </fieldset>
+
+        </form>
+
+    </main>
+    <footer>
+        <p>Contacts</p>
+        <a href="#">See Contacts list</a>
+    </footer>
+<div class="buttons">
+    <input type="reset" value="CANCEL" class="btn">
+    <input type="submit" value="SAVE" class="btn">
+</div>
+
+</body>
+</html>
