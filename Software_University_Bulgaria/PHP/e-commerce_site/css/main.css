@@ -1,0 +1,76 @@
+body{
+  padding-top: 50px;
+  }
+
+.navbar{
+  /*background-color: #FFF0000;*/
+  background-color: #800000;
+  }
+/*Change color to White*/
+#text{
+  background-color: #000000;
+  color: #FFFFFF;
+}
+
+#background-image{
+  position: relative;
+  padding:0;
+  margin: 0;
+  overflow:hidden;
+  height:600px;
+  background-image: url(../images/background1.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 700px;
+  background-position: top center;
+  background-attachment: fixed;
+}
+
+#image-1{
+  position: absolute;
+  width: 100%;
+  height: 350px;
+  background-image: url(../images/ecommerce2.jpg);
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  background-size: auto 200px;
+  top: -100px;
+  left: -25px;
+}
+
+#image-2{
+  position: absolute;
+  width: 100%;
+  height: 300px;
+  margin-left: -100px;
+  background-image: url(../images/square.png);
+  background-repeat: no-repeat;
+  background-position: top right;
+  background-size: auto;
+  top: 8%;
+  margin-top: 0px;
+}
+
+#images{
+  width:auto;
+  height: 200px;
+}
+
+#footer{
+  margin-top: 50px;
+  background-color: #800000;
+  color: #FFFFFF;
+}
+
+#quantity{
+  margin-left: -16px;
+}
+
+#quantity-label{
+  margin-left: -16px;
+}
+
+img.details{
+  width:auto;
+  margin: 15px auto;
+  height: 200px;
+}
