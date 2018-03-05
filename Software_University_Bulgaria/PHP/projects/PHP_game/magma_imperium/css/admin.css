@@ -1,0 +1,62 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body {
+	background-color: #223054;  
+	background-image: url(../images/start/hy_economics_globe.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	margin:0;
+	padding:0;
+   	
+}
+
+
+
+ul {
+	display: inline-block;	
+	
+}
+
+
+li {
+	display: inline-block;
+	text-decoration: none;
+	font-size: 36px;
+	font: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	color: rgba(0,0,0,1.00);
+	margin-left: 30px;
+	margin-top:6px;
+	
+}
+
+ul li a {
+	color: rgba(247,240,240,1.00);
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-decoration: none;
+	text-transform: none;
+	border-radius: 16;
+}
+
+ul li a:hover {
+	text-decoration:none;
+	 
+	
+}
+
+#navPrime{
+	margin-top:30px;
+	background-color: rgba(105,179,209,1.00);
+	border-radius: 18px;
+	height: auto;
+	width:96%;
+	margin-right:20px;
+	
+}
+
+
+
+
+
+
