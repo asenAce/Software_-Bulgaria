@@ -4,7 +4,7 @@
 <footer>
 	<div id="footer">
 		<div id="footer-left">
-			<p>&copy; <a href="/" title="Web Design Tutorials">SSDTutorials</a> <?php echo date('Y'); ?></p>
+			<p>&copy; <a href="/" title="">DigitalInovation Varna</a> <?php echo date('Y'); ?></p>
 		</div>
 		<div id="footer-right">
 			<?php echo $this->navigation_3; ?>
