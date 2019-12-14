@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+@media (max-width:767px){
+		
+		.nav-pills>li{
+			float:none;
+		}
+		
+		.nav-pills{
+			text-align:center;
+		}
+		
+		.header h1 {
+			letter-spacing:5px;
+			font-size:80%;
+		}
+		
+		.header{
+			text-align:center;
+		}
+		
+		.header p {
+			font-size:50%;
+		}
+		
+		.footer>p>a{
+			font-size:50%;
+		}
+		
+		.nav-pills>li>a{
+			color:#fff;
+			font-size:60%;
+		}
+	}
+
+
+@media (min-width:1600px) {
+	
+	.banner {
+		width:120px;
+		height:300px;
+	}
+}
+		

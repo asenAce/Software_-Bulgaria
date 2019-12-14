@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+
+html,body {
+		height:100%;
+	}
+	
+	.header a,a:hover{
+		color:#f0ad4e;
+		text-decoration:none;
+	}
+	
+	.header h1 {
+		letter-spacing:15px;
+		font-size:300%;
+	}
+	
+	.header p {
+		color:white !important;
+		font-size:90%;
+		letter-spacing:3px;
+	}
+	
+	.nav-pills>li.active>a,.nav-pills>li.active>a:focus,.nav-pills>li.active>a:hover{
+		color:#fff;
+		background-color:#346270;
+	}
+	
+	.nav-pills>li>a{
+		color:#fff;
+	}
+	
+	.nav-pills>li>a:hover{
+		background-color:#346270;
+	}
+	
+	.navbar-inverse {
+		background-color:#222;
+		border-color:#080808;
+		padding:1%;
+		border-radius:0;
+	}
+	

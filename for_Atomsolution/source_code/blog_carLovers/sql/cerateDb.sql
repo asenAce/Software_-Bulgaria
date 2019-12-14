@@ -1,0 +1,3 @@
+CREATE TABLE `cms_carlovers`.`posts` ( `post_id` INT(100) NOT NULL AUTO_INCREMENT , `post_tags` VARCHAR(244) NOT NULL , `post_comment_count` INT(100) NOT NULL , `post_status` VARCHAR(244) NOT NULL , PRIMARY KEY (`post_id`)) ENGINE = InnoDB;
+
+ALTER TABLE `posts` ADD `post_category_id` INT(100) NOT NULL AFTER `post_status`, ADD `food_title` VARCHAR(244) NOT NULL AFTER `post_category_id`, ADD `post_author` VARCHAR(244) NOT NULL AFTER `food_title`, ADD `post_date` DATE NOT NULL AFTER `post_author`, ADD `post_image` VARCHAR(244) NOT NULL AFTER `post_date`, ADD `post_content` TEXT NOT NULL AFTER `post_image`, ADD `post_category` VARCHAR(244) NOT NULL AFTER `post_content`, ADD `post_link` VARCHAR(244) NOT NULL AFTER `post_category`;
